@@ -717,31 +717,34 @@
   {
     "product": "iphone-17-pro-max",
     "colour": "Silver",
-    "url": "https://media.currys.biz/i/currysprod/M10290128_silver-grey?w=1000&fmt=png",
-    "path": "/products/options/iphone-17-pro-max-silver-retailer-main.png",
+    "path": "/products/options/iphone-17-pro-max-silver-transparent.png",
     "view": "Main",
-    "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro-max",
-    "bytes": 231118,
-    "sha256": "9118c4d9da884e40c7d01e036b8426bd77ff938c87d472d013e0a98c482afdbd"
+    "source": "User-supplied iPhone 17 Pro Max image",
+    "sourceSha256": "6c4cd206f0771e52dc72d92e238d2f7a4cb787af3555d384323fc810b8bc9db6",
+    "method": "Local background extraction with alpha transparency",
+    "bytes": 1744303,
+    "sha256": "86a272fb028b4ad23261062eb5f4f35eb7055647f33745d6f0b8b025cee82627"
   },
   {
     "product": "iphone-17-pro-max",
     "colour": "Cosmic Orange",
-    "url": "https://media.currys.biz/i/currysprod/M10290128_orange?w=1000&fmt=png",
-    "path": "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png",
+    "path": "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
     "view": "Main",
-    "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro-max",
-    "bytes": 323776,
-    "sha256": "44620c890b4465edec90cba4ef6231beeffe3ab808b5f47178453fec47561432"
+    "source": "User-supplied iPhone 17 Pro Max image",
+    "sourceSha256": "6c4cd206f0771e52dc72d92e238d2f7a4cb787af3555d384323fc810b8bc9db6",
+    "method": "Local body recolouring of the supplied Silver image with alpha transparency",
+    "bytes": 1473516,
+    "sha256": "b738f1950bc234db12b89a890ce49bcf45fbe6687b6f6709d2a25a2c55a842c4"
   },
   {
     "product": "iphone-17-pro-max",
     "colour": "Blue",
-    "url": "https://media.currys.biz/i/currysprod/M10290128_blue?w=1000&fmt=png",
-    "path": "/products/options/iphone-17-pro-max-blue-retailer-main.png",
+    "path": "/products/options/iphone-17-pro-max-blue-transparent.png",
     "view": "Main",
-    "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro-max",
-    "bytes": 246438,
-    "sha256": "c1081577099779dd6940b6b51f313f05b14a16f117525cb89ab30ae3256034bf"
+    "source": "User-supplied iPhone 17 Pro Max image",
+    "sourceSha256": "6c4cd206f0771e52dc72d92e238d2f7a4cb787af3555d384323fc810b8bc9db6",
+    "method": "Local body recolouring of the supplied Silver image with alpha transparency",
+    "bytes": 1363301,
+    "sha256": "188e4dd14e77befb549dceeffd18cda365d1432c239c97e25b60cb80f42690f3"
   }
 ]

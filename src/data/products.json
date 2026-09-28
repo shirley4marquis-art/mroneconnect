@@ -3,16 +3,12 @@
     "id": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max",
     "category": "Electronics",
-    "image": "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png",
-    "cardImage": "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png",
+    "image": "/products/options/iphone-17-pro-max-silver-transparent.png",
+    "cardImage": "/products/options/iphone-17-pro-max-silver-transparent.png",
     "images": [
-      "/products/iphone-stock-slide-1.jpeg",
-      "/products/iphone-stock-slide-2.jpeg",
-      "/products/iphone-stock-slide-3.jpeg",
-      "/products/iphone-colors-stock.jpeg",
-      "/products/options/iphone-17-pro-max-silver-retailer-main.png",
-      "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png",
-      "/products/options/iphone-17-pro-max-blue-retailer-main.png"
+      "/products/options/iphone-17-pro-max-silver-transparent.png",
+      "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
+      "/products/options/iphone-17-pro-max-blue-transparent.png"
     ],
     "variants": [
       "Cosmic Orange",
@@ -59,7 +55,7 @@
         "pricePence": 60000,
         "retailPence": null,
         "images": [
-          "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png"
+          "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png"
         ]
       },
       {
@@ -70,7 +66,7 @@
         "pricePence": 60000,
         "retailPence": null,
         "images": [
-          "/products/options/iphone-17-pro-max-silver-retailer-main.png"
+          "/products/options/iphone-17-pro-max-silver-transparent.png"
         ]
       },
       {
@@ -81,11 +77,11 @@
         "pricePence": 60000,
         "retailPence": null,
         "images": [
-          "/products/options/iphone-17-pro-max-blue-retailer-main.png"
+          "/products/options/iphone-17-pro-max-blue-transparent.png"
         ]
       }
     ],
-    "defaultVariant": "Cosmic Orange",
+    "defaultVariant": "Silver",
     "variantAliases": {},
     "retailReference": {
       "name": "Original storefront price",
@@ -97,17 +93,17 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/iphone-17-pro-max-silver-retailer-main.png",
+        "path": "/products/options/iphone-17-pro-max-silver-transparent.png",
         "colour": "Silver",
         "view": "Main"
       },
       {
-        "path": "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png",
+        "path": "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
         "colour": "Cosmic Orange",
         "view": "Main"
       },
       {
-        "path": "/products/options/iphone-17-pro-max-blue-retailer-main.png",
+        "path": "/products/options/iphone-17-pro-max-blue-transparent.png",
         "colour": "Blue",
         "view": "Main"
       }

@@ -2083,3 +2083,6 @@ body::selection {
 
 .product-card { background-color: #0b0d0e; isolation: isolate; backdrop-filter: none; }
 .surface-card:has(.product-image-blend) { background-color: #17191a; isolation: isolate; backdrop-filter: none; }
+
+/* Alpha cutouts retain their original colours on every card surface. */
+.product-image-blend[src$="-transparent.png"] { mix-blend-mode: normal; }
