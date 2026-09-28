@@ -116,22 +116,22 @@
     "sourceUrl": "https://vaultsource.us/products/laptop",
     "eyebrow": "Electronics",
     "category": "Electronics",
-    "image": "/products/options/laptop-silver-extra-main.jpg",
-    "cardImage": "/products/options/laptop-silver-extra-main.jpg",
+    "image": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+    "cardImage": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
     "images": [
       "/products/vaultsource/7903785254989-1.webp",
-      "/products/options/laptop-silver-extra-main.jpg",
-      "/products/options/laptop-space-grey-extra-main.jpg",
-      "/products/options/laptop-space-grey-extra--av1.jpg",
-      "/products/options/laptop-silver-extra--av1.jpg",
-      "/products/options/laptop-space-grey-extra--av2.jpg",
-      "/products/options/laptop-silver-extra--av2.jpg",
-      "/products/options/laptop-space-grey-extra--av3.jpg",
-      "/products/options/laptop-silver-extra--av3.jpg",
-      "/products/options/laptop-space-grey-extra--av4.jpg",
-      "/products/options/laptop-silver-extra--av4.jpg",
-      "/products/options/laptop-space-grey-extra--av5.jpg",
-      "/products/options/laptop-silver-extra--av5.jpg"
+      "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
     ],
     "variants": [
       "Silver / 14-inch M3 base configuration",
@@ -179,12 +179,12 @@
         "retailPence": 169900,
         "pricePence": 42475,
         "images": [
-          "/products/options/laptop-silver-extra-main.jpg",
-          "/products/options/laptop-silver-extra--av1.jpg",
-          "/products/options/laptop-silver-extra--av2.jpg",
-          "/products/options/laptop-silver-extra--av3.jpg",
-          "/products/options/laptop-silver-extra--av4.jpg",
-          "/products/options/laptop-silver-extra--av5.jpg"
+          "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
         ]
       },
       {
@@ -196,12 +196,12 @@
         "retailPence": 169900,
         "pricePence": 42475,
         "images": [
-          "/products/options/laptop-space-grey-extra-main.jpg",
-          "/products/options/laptop-space-grey-extra--av1.jpg",
-          "/products/options/laptop-space-grey-extra--av2.jpg",
-          "/products/options/laptop-space-grey-extra--av3.jpg",
-          "/products/options/laptop-space-grey-extra--av4.jpg",
-          "/products/options/laptop-space-grey-extra--av5.jpg"
+          "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp"
         ]
       }
     ],
@@ -214,62 +214,62 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/laptop-silver-extra-main.jpg",
+        "path": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
         "colour": "Silver",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra-main.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
         "colour": "Space Grey",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra--av1.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
         "colour": "Space Grey",
         "view": "_AV1"
       },
       {
-        "path": "/products/options/laptop-silver-extra--av1.jpg",
+        "path": "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
         "colour": "Silver",
         "view": "_AV1"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra--av2.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
         "colour": "Space Grey",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/laptop-silver-extra--av2.jpg",
+        "path": "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
         "colour": "Silver",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra--av3.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
         "colour": "Space Grey",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/laptop-silver-extra--av3.jpg",
+        "path": "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
         "colour": "Silver",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra--av4.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
         "colour": "Space Grey",
         "view": "_AV4"
       },
       {
-        "path": "/products/options/laptop-silver-extra--av4.jpg",
+        "path": "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
         "colour": "Silver",
         "view": "_AV4"
       },
       {
-        "path": "/products/options/laptop-space-grey-extra--av5.jpg",
+        "path": "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
         "colour": "Space Grey",
         "view": "_AV5"
       },
       {
-        "path": "/products/options/laptop-silver-extra--av5.jpg",
+        "path": "/products/cutouts/laptop-silver-extra--av5-transparent.webp",
         "colour": "Silver",
         "view": "_AV5"
       }
@@ -282,13 +282,13 @@
     "sourceUrl": "https://vaultsource.us/products/phone-17-pro",
     "eyebrow": "Electronics",
     "category": "Electronics",
-    "image": "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
-    "cardImage": "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
+    "image": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+    "cardImage": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
     "images": [
       "/products/vaultsource/7903784829005-1.webp",
-      "/products/options/phone-17-pro-silver-retailer-main.png",
-      "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
-      "/products/options/phone-17-pro-deep-blue-retailer-main.png"
+      "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
+      "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+      "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
     ],
     "variants": [
       "Cosmic Orange / 256 GB",
@@ -346,7 +346,7 @@
         "retailPence": 130000,
         "pricePence": 32500,
         "images": [
-          "/products/options/phone-17-pro-cosmic-orange-retailer-main.png"
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
       },
       {
@@ -358,7 +358,7 @@
         "retailPence": 138000,
         "pricePence": 34500,
         "images": [
-          "/products/options/phone-17-pro-cosmic-orange-retailer-main.png"
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
       },
       {
@@ -370,7 +370,7 @@
         "retailPence": 146000,
         "pricePence": 36500,
         "images": [
-          "/products/options/phone-17-pro-cosmic-orange-retailer-main.png"
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
       },
       {
@@ -382,7 +382,7 @@
         "retailPence": 130000,
         "pricePence": 32500,
         "images": [
-          "/products/options/phone-17-pro-deep-blue-retailer-main.png"
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
       },
       {
@@ -394,7 +394,7 @@
         "retailPence": 138000,
         "pricePence": 34500,
         "images": [
-          "/products/options/phone-17-pro-deep-blue-retailer-main.png"
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
       },
       {
@@ -406,7 +406,7 @@
         "retailPence": 146000,
         "pricePence": 36500,
         "images": [
-          "/products/options/phone-17-pro-deep-blue-retailer-main.png"
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
       },
       {
@@ -418,7 +418,7 @@
         "retailPence": 130000,
         "pricePence": 32500,
         "images": [
-          "/products/options/phone-17-pro-silver-retailer-main.png"
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
       },
       {
@@ -430,7 +430,7 @@
         "retailPence": 138000,
         "pricePence": 34500,
         "images": [
-          "/products/options/phone-17-pro-silver-retailer-main.png"
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
       },
       {
@@ -442,7 +442,7 @@
         "retailPence": 146000,
         "pricePence": 36500,
         "images": [
-          "/products/options/phone-17-pro-silver-retailer-main.png"
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
       }
     ],
@@ -455,17 +455,17 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/phone-17-pro-silver-retailer-main.png",
+        "path": "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
         "colour": "Silver",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
+        "path": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
         "colour": "Cosmic Orange",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-17-pro-deep-blue-retailer-main.png",
+        "path": "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp",
         "colour": "Deep Blue",
         "view": "Main"
       }
@@ -486,14 +486,14 @@
       "/products/options/iphone-18-pro-max-glacier-main.png",
       "/products/options/iphone-18-pro-max-silver-main.png",
       "/products/options/iphone-18-pro-max-burgundy-main.png",
-      "/products/options/iphone-18-pro-max-silver--av2.jpg",
-      "/products/options/iphone-18-pro-max-black--av2.jpg",
-      "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-      "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-      "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
-      "/products/options/iphone-18-pro-max-silver--av3.jpg",
-      "/products/options/iphone-18-pro-max-black--av3.jpg",
-      "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+      "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp",
+      "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp"
     ],
     "variants": [
       "Burgundy / 256 GB",
@@ -571,8 +571,8 @@
         "images": [
           "/products/iphone-18-pro-max-burgundy.png",
           "/products/options/iphone-18-pro-max-burgundy-main.png",
-          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp"
         ]
       },
       {
@@ -586,8 +586,8 @@
         "images": [
           "/products/iphone-18-pro-max-burgundy.png",
           "/products/options/iphone-18-pro-max-burgundy-main.png",
-          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp"
         ]
       },
       {
@@ -601,8 +601,8 @@
         "images": [
           "/products/iphone-18-pro-max-burgundy.png",
           "/products/options/iphone-18-pro-max-burgundy-main.png",
-          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp"
         ]
       },
       {
@@ -616,8 +616,8 @@
         "images": [
           "/products/iphone-18-pro-max-burgundy.png",
           "/products/options/iphone-18-pro-max-burgundy-main.png",
-          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp"
         ]
       },
       {
@@ -630,8 +630,8 @@
         "pricePence": 32500,
         "images": [
           "/products/options/iphone-18-pro-max-glacier-main.png",
-          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp"
         ]
       },
       {
@@ -644,8 +644,8 @@
         "pricePence": 34500,
         "images": [
           "/products/options/iphone-18-pro-max-glacier-main.png",
-          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp"
         ]
       },
       {
@@ -658,8 +658,8 @@
         "pricePence": 36500,
         "images": [
           "/products/options/iphone-18-pro-max-glacier-main.png",
-          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp"
         ]
       },
       {
@@ -672,8 +672,8 @@
         "pricePence": 38500,
         "images": [
           "/products/options/iphone-18-pro-max-glacier-main.png",
-          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp"
         ]
       },
       {
@@ -686,8 +686,8 @@
         "pricePence": 32500,
         "images": [
           "/products/options/iphone-18-pro-max-silver-main.png",
-          "/products/options/iphone-18-pro-max-silver--av2.jpg",
-          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp"
         ]
       },
       {
@@ -700,8 +700,8 @@
         "pricePence": 34500,
         "images": [
           "/products/options/iphone-18-pro-max-silver-main.png",
-          "/products/options/iphone-18-pro-max-silver--av2.jpg",
-          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp"
         ]
       },
       {
@@ -714,8 +714,8 @@
         "pricePence": 36500,
         "images": [
           "/products/options/iphone-18-pro-max-silver-main.png",
-          "/products/options/iphone-18-pro-max-silver--av2.jpg",
-          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp"
         ]
       },
       {
@@ -728,8 +728,8 @@
         "pricePence": 38500,
         "images": [
           "/products/options/iphone-18-pro-max-silver-main.png",
-          "/products/options/iphone-18-pro-max-silver--av2.jpg",
-          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp"
         ]
       },
       {
@@ -742,8 +742,8 @@
         "pricePence": 32500,
         "images": [
           "/products/options/iphone-18-pro-max-black-main.png",
-          "/products/options/iphone-18-pro-max-black--av2.jpg",
-          "/products/options/iphone-18-pro-max-black--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp"
         ]
       },
       {
@@ -756,8 +756,8 @@
         "pricePence": 34500,
         "images": [
           "/products/options/iphone-18-pro-max-black-main.png",
-          "/products/options/iphone-18-pro-max-black--av2.jpg",
-          "/products/options/iphone-18-pro-max-black--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp"
         ]
       },
       {
@@ -770,8 +770,8 @@
         "pricePence": 36500,
         "images": [
           "/products/options/iphone-18-pro-max-black-main.png",
-          "/products/options/iphone-18-pro-max-black--av2.jpg",
-          "/products/options/iphone-18-pro-max-black--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp"
         ]
       },
       {
@@ -784,8 +784,8 @@
         "pricePence": 38500,
         "images": [
           "/products/options/iphone-18-pro-max-black-main.png",
-          "/products/options/iphone-18-pro-max-black--av2.jpg",
-          "/products/options/iphone-18-pro-max-black--av3.jpg"
+          "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+          "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp"
         ]
       }
     ],
@@ -818,42 +818,42 @@
         "view": "Main"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-silver--av2.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
         "colour": "Silver",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-black--av2.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
         "colour": "Black",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
         "colour": "Glacier",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
         "colour": "Burgundy",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp",
         "colour": "Burgundy",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-silver--av3.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp",
         "colour": "Silver",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-black--av3.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp",
         "colour": "Black",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/iphone-18-pro-max-glacier--av3.jpg",
+        "path": "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp",
         "colour": "Glacier",
         "view": "_AV3"
       }
@@ -866,20 +866,20 @@
     "sourceUrl": "https://vaultsource.us/products/laptop-1",
     "eyebrow": "Electronics",
     "category": "Electronics",
-    "image": "/products/options/laptop-1-midnight-extra-main.jpg",
-    "cardImage": "/products/options/laptop-1-midnight-extra-main.jpg",
+    "image": "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp",
+    "cardImage": "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp",
     "images": [
       "/products/vaultsource/7903786500173-1.webp",
-      "/products/options/laptop-1-gallery-all-colours.jpg",
-      "/products/options/laptop-1-silver-extra-main.jpg",
-      "/products/options/laptop-1-starlight-extra-main.jpg",
-      "/products/options/laptop-1-space-grey-extra-main.jpg",
-      "/products/options/laptop-1-midnight-extra-main.jpg",
-      "/products/options/laptop-1-silver-extra--av1.jpg",
-      "/products/options/laptop-1-silver-extra--av2.jpg",
-      "/products/options/laptop-1-silver-extra--av3.jpg",
-      "/products/options/laptop-1-silver-extra--av4.jpg",
-      "/products/options/laptop-1-silver-extra--av5.jpg"
+      "/products/cutouts/laptop-1-gallery-all-colours-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra-main-transparent.webp",
+      "/products/cutouts/laptop-1-starlight-extra-main-transparent.webp",
+      "/products/cutouts/laptop-1-space-grey-extra-main-transparent.webp",
+      "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra--av1-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra--av2-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra--av3-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra--av4-transparent.webp",
+      "/products/cutouts/laptop-1-silver-extra--av5-transparent.webp"
     ],
     "variants": [
       "Midnight / 13.6-inch M2 base configuration",
@@ -931,7 +931,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/laptop-1-midnight-extra-main.jpg"
+          "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp"
         ]
       },
       {
@@ -943,7 +943,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/laptop-1-starlight-extra-main.jpg"
+          "/products/cutouts/laptop-1-starlight-extra-main-transparent.webp"
         ]
       },
       {
@@ -955,12 +955,12 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/laptop-1-silver-extra-main.jpg",
-          "/products/options/laptop-1-silver-extra--av1.jpg",
-          "/products/options/laptop-1-silver-extra--av2.jpg",
-          "/products/options/laptop-1-silver-extra--av3.jpg",
-          "/products/options/laptop-1-silver-extra--av4.jpg",
-          "/products/options/laptop-1-silver-extra--av5.jpg"
+          "/products/cutouts/laptop-1-silver-extra-main-transparent.webp",
+          "/products/cutouts/laptop-1-silver-extra--av1-transparent.webp",
+          "/products/cutouts/laptop-1-silver-extra--av2-transparent.webp",
+          "/products/cutouts/laptop-1-silver-extra--av3-transparent.webp",
+          "/products/cutouts/laptop-1-silver-extra--av4-transparent.webp",
+          "/products/cutouts/laptop-1-silver-extra--av5-transparent.webp"
         ]
       },
       {
@@ -972,7 +972,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/laptop-1-space-grey-extra-main.jpg"
+          "/products/cutouts/laptop-1-space-grey-extra-main-transparent.webp"
         ]
       }
     ],
@@ -985,52 +985,52 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/laptop-1-gallery-all-colours.jpg",
+        "path": "/products/cutouts/laptop-1-gallery-all-colours-transparent.webp",
         "colour": null,
         "view": "All colours"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra-main.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra-main-transparent.webp",
         "colour": "Silver",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-1-starlight-extra-main.jpg",
+        "path": "/products/cutouts/laptop-1-starlight-extra-main-transparent.webp",
         "colour": "Starlight",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-1-space-grey-extra-main.jpg",
+        "path": "/products/cutouts/laptop-1-space-grey-extra-main-transparent.webp",
         "colour": "Space Grey",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-1-midnight-extra-main.jpg",
+        "path": "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp",
         "colour": "Midnight",
         "view": "Main"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra--av1.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra--av1-transparent.webp",
         "colour": "Silver",
         "view": "_AV1"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra--av2.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra--av2-transparent.webp",
         "colour": "Silver",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra--av3.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra--av3-transparent.webp",
         "colour": "Silver",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra--av4.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra--av4-transparent.webp",
         "colour": "Silver",
         "view": "_AV4"
       },
       {
-        "path": "/products/options/laptop-1-silver-extra--av5.jpg",
+        "path": "/products/cutouts/laptop-1-silver-extra--av5-transparent.webp",
         "colour": "Silver",
         "view": "_AV5"
       }
@@ -1043,17 +1043,17 @@
     "sourceUrl": "https://vaultsource.us/products/phone",
     "eyebrow": "Electronics",
     "category": "Electronics",
-    "image": "/products/options/phone-titanium-grey-main.jpg",
-    "cardImage": "/products/options/phone-titanium-grey-main.jpg",
+    "image": "/products/cutouts/phone-titanium-grey-main-transparent.webp",
+    "cardImage": "/products/cutouts/phone-titanium-grey-main-transparent.webp",
     "images": [
       "/products/vaultsource/7903785156685-1.webp",
-      "/products/options/phone-titanium-grey-main.jpg",
-      "/products/options/phone-titanium-yellow-main.jpg",
-      "/products/options/phone-titanium-black-main.jpg",
-      "/products/options/phone-titanium-blue-main.jpg",
-      "/products/options/phone-titanium-violet-main.jpg",
-      "/products/options/phone-titanium-orange-main.jpg",
-      "/products/options/phone-titanium-green-main.jpg"
+      "/products/cutouts/phone-titanium-grey-main-transparent.webp",
+      "/products/cutouts/phone-titanium-yellow-main-transparent.webp",
+      "/products/cutouts/phone-titanium-black-main-transparent.webp",
+      "/products/cutouts/phone-titanium-blue-main-transparent.webp",
+      "/products/cutouts/phone-titanium-violet-main-transparent.webp",
+      "/products/cutouts/phone-titanium-orange-main-transparent.webp",
+      "/products/cutouts/phone-titanium-green-main-transparent.webp"
     ],
     "variants": [
       "Titanium Grey / 256 GB",
@@ -1127,7 +1127,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-grey-main.jpg"
+          "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
       },
       {
@@ -1139,7 +1139,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-grey-main.jpg"
+          "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
       },
       {
@@ -1151,7 +1151,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-grey-main.jpg"
+          "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
       },
       {
@@ -1163,7 +1163,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-black-main.jpg"
+          "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
       },
       {
@@ -1175,7 +1175,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-black-main.jpg"
+          "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
       },
       {
@@ -1187,7 +1187,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-black-main.jpg"
+          "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
       },
       {
@@ -1199,7 +1199,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-violet-main.jpg"
+          "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
       },
       {
@@ -1211,7 +1211,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-violet-main.jpg"
+          "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
       },
       {
@@ -1223,7 +1223,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-violet-main.jpg"
+          "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
       },
       {
@@ -1235,7 +1235,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-yellow-main.jpg"
+          "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
       },
       {
@@ -1247,7 +1247,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-yellow-main.jpg"
+          "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
       },
       {
@@ -1259,7 +1259,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-yellow-main.jpg"
+          "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
       },
       {
@@ -1271,7 +1271,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-blue-main.jpg"
+          "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
       },
       {
@@ -1283,7 +1283,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-blue-main.jpg"
+          "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
       },
       {
@@ -1295,7 +1295,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-blue-main.jpg"
+          "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
       },
       {
@@ -1307,7 +1307,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-orange-main.jpg"
+          "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
       },
       {
@@ -1319,7 +1319,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-orange-main.jpg"
+          "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
       },
       {
@@ -1331,7 +1331,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-orange-main.jpg"
+          "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
       },
       {
@@ -1343,7 +1343,7 @@
         "retailPence": 124900,
         "pricePence": 31225,
         "images": [
-          "/products/options/phone-titanium-green-main.jpg"
+          "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
       },
       {
@@ -1355,7 +1355,7 @@
         "retailPence": 134900,
         "pricePence": 33725,
         "images": [
-          "/products/options/phone-titanium-green-main.jpg"
+          "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
       },
       {
@@ -1367,7 +1367,7 @@
         "retailPence": 154900,
         "pricePence": 38725,
         "images": [
-          "/products/options/phone-titanium-green-main.jpg"
+          "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
       }
     ],
@@ -1380,37 +1380,37 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/phone-titanium-grey-main.jpg",
+        "path": "/products/cutouts/phone-titanium-grey-main-transparent.webp",
         "colour": "Titanium Grey",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-yellow-main.jpg",
+        "path": "/products/cutouts/phone-titanium-yellow-main-transparent.webp",
         "colour": "Titanium Yellow",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-black-main.jpg",
+        "path": "/products/cutouts/phone-titanium-black-main-transparent.webp",
         "colour": "Titanium Black",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-blue-main.jpg",
+        "path": "/products/cutouts/phone-titanium-blue-main-transparent.webp",
         "colour": "Titanium Blue",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-violet-main.jpg",
+        "path": "/products/cutouts/phone-titanium-violet-main-transparent.webp",
         "colour": "Titanium Violet",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-orange-main.jpg",
+        "path": "/products/cutouts/phone-titanium-orange-main-transparent.webp",
         "colour": "Titanium Orange",
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-titanium-green-main.jpg",
+        "path": "/products/cutouts/phone-titanium-green-main-transparent.webp",
         "colour": "Titanium Green",
         "view": "Main"
       }
@@ -1432,16 +1432,16 @@
       "/products/options/phone-2-white-main.png",
       "/products/options/phone-2-black-main.png",
       "/products/options/phone-2-ultramarine-main.png",
-      "/products/options/phone-2-ultramarine--av2.jpg",
-      "/products/options/phone-2-teal--av2.jpg",
-      "/products/options/phone-2-pink--av2.jpg",
-      "/products/options/phone-2-white--av2.jpg",
-      "/products/options/phone-2-black--av2.jpg",
-      "/products/options/phone-2-teal--av3.jpg",
-      "/products/options/phone-2-white--av3.jpg",
-      "/products/options/phone-2-black--av3.jpg",
-      "/products/options/phone-2-pink--av3.jpg",
-      "/products/options/phone-2-ultramarine--av3.jpg"
+      "/products/cutouts/phone-2-ultramarine--av2-transparent.webp",
+      "/products/cutouts/phone-2-teal--av2-transparent.webp",
+      "/products/cutouts/phone-2-pink--av2-transparent.webp",
+      "/products/cutouts/phone-2-white--av2-transparent.webp",
+      "/products/cutouts/phone-2-black--av2-transparent.webp",
+      "/products/cutouts/phone-2-teal--av3-transparent.webp",
+      "/products/cutouts/phone-2-white--av3-transparent.webp",
+      "/products/cutouts/phone-2-black--av3-transparent.webp",
+      "/products/cutouts/phone-2-pink--av3-transparent.webp",
+      "/products/cutouts/phone-2-ultramarine--av3-transparent.webp"
     ],
     "variants": [
       "Black / 128 GB",
@@ -1496,8 +1496,8 @@
         "pricePence": 19975,
         "images": [
           "/products/options/phone-2-black-main.png",
-          "/products/options/phone-2-black--av2.jpg",
-          "/products/options/phone-2-black--av3.jpg"
+          "/products/cutouts/phone-2-black--av2-transparent.webp",
+          "/products/cutouts/phone-2-black--av3-transparent.webp"
         ]
       },
       {
@@ -1510,8 +1510,8 @@
         "pricePence": 19975,
         "images": [
           "/products/options/phone-2-white-main.png",
-          "/products/options/phone-2-white--av2.jpg",
-          "/products/options/phone-2-white--av3.jpg"
+          "/products/cutouts/phone-2-white--av2-transparent.webp",
+          "/products/cutouts/phone-2-white--av3-transparent.webp"
         ]
       },
       {
@@ -1524,8 +1524,8 @@
         "pricePence": 19975,
         "images": [
           "/products/options/phone-2-pink-main.png",
-          "/products/options/phone-2-pink--av2.jpg",
-          "/products/options/phone-2-pink--av3.jpg"
+          "/products/cutouts/phone-2-pink--av2-transparent.webp",
+          "/products/cutouts/phone-2-pink--av3-transparent.webp"
         ]
       },
       {
@@ -1538,8 +1538,8 @@
         "pricePence": 19975,
         "images": [
           "/products/options/phone-2-teal-main.png",
-          "/products/options/phone-2-teal--av2.jpg",
-          "/products/options/phone-2-teal--av3.jpg"
+          "/products/cutouts/phone-2-teal--av2-transparent.webp",
+          "/products/cutouts/phone-2-teal--av3-transparent.webp"
         ]
       },
       {
@@ -1552,8 +1552,8 @@
         "pricePence": 19975,
         "images": [
           "/products/options/phone-2-ultramarine-main.png",
-          "/products/options/phone-2-ultramarine--av2.jpg",
-          "/products/options/phone-2-ultramarine--av3.jpg"
+          "/products/cutouts/phone-2-ultramarine--av2-transparent.webp",
+          "/products/cutouts/phone-2-ultramarine--av3-transparent.webp"
         ]
       }
     ],
@@ -1591,52 +1591,52 @@
         "view": "Main"
       },
       {
-        "path": "/products/options/phone-2-ultramarine--av2.jpg",
+        "path": "/products/cutouts/phone-2-ultramarine--av2-transparent.webp",
         "colour": "Ultramarine",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/phone-2-teal--av2.jpg",
+        "path": "/products/cutouts/phone-2-teal--av2-transparent.webp",
         "colour": "Teal",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/phone-2-pink--av2.jpg",
+        "path": "/products/cutouts/phone-2-pink--av2-transparent.webp",
         "colour": "Pink",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/phone-2-white--av2.jpg",
+        "path": "/products/cutouts/phone-2-white--av2-transparent.webp",
         "colour": "White",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/phone-2-black--av2.jpg",
+        "path": "/products/cutouts/phone-2-black--av2-transparent.webp",
         "colour": "Black",
         "view": "_AV2"
       },
       {
-        "path": "/products/options/phone-2-teal--av3.jpg",
+        "path": "/products/cutouts/phone-2-teal--av3-transparent.webp",
         "colour": "Teal",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/phone-2-white--av3.jpg",
+        "path": "/products/cutouts/phone-2-white--av3-transparent.webp",
         "colour": "White",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/phone-2-black--av3.jpg",
+        "path": "/products/cutouts/phone-2-black--av3-transparent.webp",
         "colour": "Black",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/phone-2-pink--av3.jpg",
+        "path": "/products/cutouts/phone-2-pink--av3-transparent.webp",
         "colour": "Pink",
         "view": "_AV3"
       },
       {
-        "path": "/products/options/phone-2-ultramarine--av3.jpg",
+        "path": "/products/cutouts/phone-2-ultramarine--av3-transparent.webp",
         "colour": "Ultramarine",
         "view": "_AV3"
       }
@@ -1649,18 +1649,18 @@
     "sourceUrl": "https://vaultsource.us/products/headphones",
     "eyebrow": "Electronics",
     "category": "Electronics",
-    "image": "/products/options/headphones-midnight-main.jpg",
-    "cardImage": "/products/options/headphones-midnight-main.jpg",
+    "image": "/products/cutouts/headphones-midnight-main-transparent.webp",
+    "cardImage": "/products/cutouts/headphones-midnight-main-transparent.webp",
     "images": [
       "/products/vaultsource/7903784992845-1.webp",
       "/products/vaultsource/7903784992845-2.webp",
       "/products/vaultsource/7903784992845-3.webp",
       "/products/vaultsource/7903784992845-4.webp",
-      "/products/options/headphones-midnight-main.jpg",
-      "/products/options/headphones-starlight-main.jpg",
-      "/products/options/headphones-orange-main.jpg",
-      "/products/options/headphones-purple-main.jpg",
-      "/products/options/headphones-blue-main.jpg"
+      "/products/cutouts/headphones-midnight-main-transparent.webp",
+      "/products/cutouts/headphones-starlight-main-transparent.webp",
+      "/products/cutouts/headphones-orange-main-transparent.webp",
+      "/products/cutouts/headphones-purple-main-transparent.webp",
+      "/products/cutouts/headphones-blue-main-transparent.webp"
     ],
     "variants": [
       "Midnight / USB-C",
@@ -1714,7 +1714,7 @@
         "retailPence": 49900,
         "pricePence": 12475,
         "images": [
-          "/products/options/headphones-midnight-main.jpg"
+          "/products/cutouts/headphones-midnight-main-transparent.webp"
         ]
       },
       {
@@ -1726,7 +1726,7 @@
         "retailPence": 49900,
         "pricePence": 12475,
         "images": [
-          "/products/options/headphones-starlight-main.jpg"
+          "/products/cutouts/headphones-starlight-main-transparent.webp"
         ]
       },
       {
@@ -1738,7 +1738,7 @@
         "retailPence": 49900,
         "pricePence": 12475,
         "images": [
-          "/products/options/headphones-blue-main.jpg"
+          "/products/cutouts/headphones-blue-main-transparent.webp"
         ]
       },
       {
@@ -1750,7 +1750,7 @@
         "retailPence": 49900,
         "pricePence": 12475,
         "images": [
-          "/products/options/headphones-orange-main.jpg"
+          "/products/cutouts/headphones-orange-main-transparent.webp"
         ]
       },
       {
@@ -1762,7 +1762,7 @@
         "retailPence": 49900,
         "pricePence": 12475,
         "images": [
-          "/products/options/headphones-purple-main.jpg"
+          "/products/cutouts/headphones-purple-main-transparent.webp"
         ]
       }
     ],
@@ -1775,27 +1775,27 @@
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
-        "path": "/products/options/headphones-midnight-main.jpg",
+        "path": "/products/cutouts/headphones-midnight-main-transparent.webp",
         "colour": "Midnight",
         "view": "Main"
       },
       {
-        "path": "/products/options/headphones-starlight-main.jpg",
+        "path": "/products/cutouts/headphones-starlight-main-transparent.webp",
         "colour": "Starlight",
         "view": "Main"
       },
       {
-        "path": "/products/options/headphones-orange-main.jpg",
+        "path": "/products/cutouts/headphones-orange-main-transparent.webp",
         "colour": "Orange",
         "view": "Main"
       },
       {
-        "path": "/products/options/headphones-purple-main.jpg",
+        "path": "/products/cutouts/headphones-purple-main-transparent.webp",
         "colour": "Purple",
         "view": "Main"
       },
       {
-        "path": "/products/options/headphones-blue-main.jpg",
+        "path": "/products/cutouts/headphones-blue-main-transparent.webp",
         "colour": "Blue",
         "view": "Main"
       }
@@ -1805,10 +1805,10 @@
     "id": "apple-watch-3-smartwatch-49mm",
     "name": "Apple Watch 3 Smartwatch 49mm",
     "category": "Watches",
-    "image": "/products/apple-watch-3-smartwatch-49mm.png",
-    "cardImage": "/products/apple-watch-3-smartwatch-49mm.png",
+    "image": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp",
+    "cardImage": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp",
     "images": [
-      "/products/apple-watch-3-smartwatch-49mm.png"
+      "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp"
     ],
     "variants": [
       "Black",
@@ -2348,10 +2348,10 @@
     "id": "airpod-pro-3",
     "name": "AirPod Pro 3",
     "category": "Electronics",
-    "image": "/products/airpods-render.jpeg",
-    "cardImage": "/products/airpods-line.jpeg",
+    "image": "/products/cutouts/airpods-render-transparent.webp",
+    "cardImage": "/products/cutouts/airpods-render-transparent.webp",
     "images": [
-      "/products/airpods-render.jpeg",
+      "/products/cutouts/airpods-render-transparent.webp",
       "/products/airpods-stock-slide-1.jpeg",
       "/products/airpods-stock-slide-2.jpeg",
       "/products/airpods-box-stock.jpeg"
@@ -2848,17 +2848,17 @@
     "sourceUrl": "https://vaultsource.us/products/dnm-hoodie",
     "eyebrow": "Designers",
     "category": "Designers",
-    "image": "/products/options/dnm-hoodie-black-main.jpg",
-    "cardImage": "/products/options/dnm-hoodie-black-main.jpg",
+    "image": "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+    "cardImage": "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
     "images": [
       "/products/vaultsource/7905350680653-1.png",
       "/products/vaultsource/7905350680653-2.png",
-      "/products/options/dnm-hoodie-black-main.jpg",
-      "/products/options/dnm-hoodie-black-detail-1.jpg",
-      "/products/options/dnm-hoodie-grey-extra-main.jpg",
-      "/products/options/dnm-hoodie-blue-extra-main.jpg",
-      "/products/options/dnm-hoodie-grey-extra-detail-1.jpg",
-      "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+      "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+      "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp",
+      "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+      "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+      "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp",
+      "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
       "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
     ],
     "variants": [
@@ -2921,8 +2921,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-black-main.jpg",
-          "/products/options/dnm-hoodie-black-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp"
         ]
       },
       {
@@ -2934,8 +2934,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-black-main.jpg",
-          "/products/options/dnm-hoodie-black-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp"
         ]
       },
       {
@@ -2947,8 +2947,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-black-main.jpg",
-          "/products/options/dnm-hoodie-black-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp"
         ]
       },
       {
@@ -2960,8 +2960,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-black-main.jpg",
-          "/products/options/dnm-hoodie-black-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp"
         ]
       },
       {
@@ -2973,8 +2973,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-grey-extra-main.jpg",
-          "/products/options/dnm-hoodie-grey-extra-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp"
         ]
       },
       {
@@ -2986,8 +2986,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-grey-extra-main.jpg",
-          "/products/options/dnm-hoodie-grey-extra-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp"
         ]
       },
       {
@@ -2999,8 +2999,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-grey-extra-main.jpg",
-          "/products/options/dnm-hoodie-grey-extra-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp"
         ]
       },
       {
@@ -3012,8 +3012,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-grey-extra-main.jpg",
-          "/products/options/dnm-hoodie-grey-extra-detail-1.jpg"
+          "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp"
         ]
       },
       {
@@ -3025,8 +3025,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-blue-extra-main.jpg",
-          "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+          "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
           "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
         ]
       },
@@ -3039,8 +3039,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-blue-extra-main.jpg",
-          "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+          "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
           "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
         ]
       },
@@ -3053,8 +3053,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-blue-extra-main.jpg",
-          "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+          "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
           "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
         ]
       },
@@ -3067,8 +3067,8 @@
         "retailPence": 16500,
         "pricePence": 4125,
         "images": [
-          "/products/options/dnm-hoodie-blue-extra-main.jpg",
-          "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+          "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+          "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
           "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
         ]
       }
@@ -3080,32 +3080,32 @@
     "originalCategory": "Clothing",
     "galleryAssets": [
       {
-        "path": "/products/options/dnm-hoodie-black-main.jpg",
+        "path": "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
         "colour": "Black",
         "view": "Main"
       },
       {
-        "path": "/products/options/dnm-hoodie-black-detail-1.jpg",
+        "path": "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp",
         "colour": "Black",
         "view": "Detail 1"
       },
       {
-        "path": "/products/options/dnm-hoodie-grey-extra-main.jpg",
+        "path": "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
         "colour": "Grey",
         "view": "Main"
       },
       {
-        "path": "/products/options/dnm-hoodie-blue-extra-main.jpg",
+        "path": "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
         "colour": "Blue",
         "view": "Main"
       },
       {
-        "path": "/products/options/dnm-hoodie-grey-extra-detail-1.jpg",
+        "path": "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp",
         "colour": "Grey",
         "view": "Detail 1"
       },
       {
-        "path": "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+        "path": "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
         "colour": "Blue",
         "view": "Detail 1"
       },

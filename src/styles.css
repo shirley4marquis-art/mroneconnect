@@ -2082,7 +2082,8 @@ body::selection {
 @media (min-width: 640px) { .home-slideshow { aspect-ratio: auto; height: calc(100svh - 80px); min-height: 650px; max-height: 1100px; } }
 
 .product-card { background-color: #0b0d0e; isolation: isolate; backdrop-filter: none; }
-.surface-card:has(.product-image-blend) { background-color: #17191a; isolation: isolate; backdrop-filter: none; }
+.surface-card:has(.product-image-blend) { min-width: 0; background-color: #17191a; isolation: isolate; backdrop-filter: none; }
 
 /* Alpha cutouts retain their original colours on every card surface. */
-.product-image-blend[src$="-transparent.png"] { mix-blend-mode: normal; }
+.product-image-blend[src$="-transparent.png"],
+.product-image-blend[src$="-transparent.webp"] { mix-blend-mode: normal; }

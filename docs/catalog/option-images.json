@@ -5,9 +5,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-silver-202609_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNFBqZGJBdFZFTS8vTUNaYm50ajFyQjhSd1ZmVkZET2tSb0UxRUVEVUNhdFAvU3JjZHd1MTRSd0VqZnNnTGdmZmxEOCtYRWJRK0xNTUUwNDE3VlliTTdqeFFxSVJXVFEyak5aRXM1amV5dXZB",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-silver--av2.jpg",
-    "bytes": 65231,
-    "sha256": "d3b97d4853476337788a64ace40ba351952f314a9167d48207c26cac5a639df3"
+    "path": "/products/cutouts/iphone-18-pro-max-silver--av2-transparent.webp",
+    "bytes": 145728,
+    "sha256": "5cd319748b71cd7bb99e84ad90edc591d378bd74c13077b656036ca1a0b276bb",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-silver--av2.jpg",
+      "bytes": 65231,
+      "sha256": "d3b97d4853476337788a64ace40ba351952f314a9167d48207c26cac5a639df3"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -15,9 +21,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-black-202609_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNndLQk1qNUQvQTVwNnc4cW9FV2IwNkVuS0VWTHhnemtKUlRaOFZUQ0cxcUd4YXJFQWFnVmkrMkUzQ3k2TDVtN0h4M1NEU0c2TVEwbFZkaEN4Y2xnVXdlODBad1VqYUZ3RW54YkRKL2hzbXVR",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-black--av2.jpg",
-    "bytes": 67940,
-    "sha256": "cc27a41c0ce4aa03ef6c4d2cbc99592428c06bb7709fa2897afba55ec32961c1"
+    "path": "/products/cutouts/iphone-18-pro-max-black--av2-transparent.webp",
+    "bytes": 154204,
+    "sha256": "8a4c5f727ce7bbe3045edb76a6aedc5ed966fa989c8cfbd827b28aa2b094a28a",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-black--av2.jpg",
+      "bytes": 67940,
+      "sha256": "cc27a41c0ce4aa03ef6c4d2cbc99592428c06bb7709fa2897afba55ec32961c1"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -25,9 +37,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-glacier-202609_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNUE3TmE3YnJQWFgzNUVkVTF1cElhWmpzTEluckFmWmFodkg3aDQrVnFnTHlVZUljRWR1UW5tNjlwQnVNUkxlZzBCa2tyS3BNdURWUlF6eHg0ME5yTmJSMm84Uy9oSE50RTV3M2Nmbm1XOE5n",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-glacier--av2.jpg",
-    "bytes": 81037,
-    "sha256": "37e1ce6f4f82bd7bbc6ac06ae7a44acf59a65c63aa40659033551733b75dc554"
+    "path": "/products/cutouts/iphone-18-pro-max-glacier--av2-transparent.webp",
+    "bytes": 202402,
+    "sha256": "64d108a1d1f8305d53a5c09e717848877dedbc74ac1120b9026de342db370534",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+      "bytes": 81037,
+      "sha256": "37e1ce6f4f82bd7bbc6ac06ae7a44acf59a65c63aa40659033551733b75dc554"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -35,9 +53,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-burgundy-202609_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNUczeU83bkpqVjJNa0hHTzZGMFJkOUJzS0RYWXBINXM3OEFKMGgwUWg2N1o0S3NIczRMdVY1Tlh2SlRSaUw4bXdvVyt2VmxhZU4zZHRmY1FSYWRXV1h5R2dydEZKdjJpNHZab2plQ1FnV29B",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
-    "bytes": 85318,
-    "sha256": "0f440141ff0f39f3bcb6ecbe34c9af5158b3336fab3d7a0f3531737908b333d6"
+    "path": "/products/cutouts/iphone-18-pro-max-burgundy--av2-transparent.webp",
+    "bytes": 215336,
+    "sha256": "7b8eadd6b789b8627698c9a07b7c8a1ee68c1ed90f23b62fb4fe61694f78444c",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+      "bytes": 85318,
+      "sha256": "0f440141ff0f39f3bcb6ecbe34c9af5158b3336fab3d7a0f3531737908b333d6"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -45,9 +69,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-burgundy-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNUczeU83bkpqVjJNa0hHTzZGMFJkOVFuQjZjSmRjMXNZcElQdU4waFJ0eFV0by82bDBFdkNndDhBTFluM0VxYjJCenZneDNnUnVvL1hHOUtKSmxXcnNybWl4K1JOcVBkQzNaTjZjdEw5azN3",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
-    "bytes": 191147,
-    "sha256": "17e9f4c768911d18b24d0a22ae593b8932ed2e949de76f90684f9ec73958d511"
+    "path": "/products/cutouts/iphone-18-pro-max-burgundy--av3-transparent.webp",
+    "bytes": 479354,
+    "sha256": "39dcabea127c4657cff17b56186984252d90f98185e50d94015a650f41aa36d0",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
+      "bytes": 191147,
+      "sha256": "17e9f4c768911d18b24d0a22ae593b8932ed2e949de76f90684f9ec73958d511"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -55,9 +85,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-silver-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNFBqZGJBdFZFTS8vTUNaYm50ajFyQkhxRTloN1hOU2xITVJsZm5HSHFjWDZPbTNPRG1iVGRaRjZwRUlsaytteW1NZlA4MkZYcU9WQkJvSmVKQ1VZUHloVGdLeCsyTVArTGhWRjJCZGUzWitR",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-silver--av3.jpg",
-    "bytes": 139447,
-    "sha256": "4c9a222a3888e095b0f918b1febe7dae620ee3fd98263ce01b730531a87ba1f7"
+    "path": "/products/cutouts/iphone-18-pro-max-silver--av3-transparent.webp",
+    "bytes": 317070,
+    "sha256": "9d1fd6f3054618fb0cd8fe64111479d7977228110f2a8d1db2cfe0d1a98cbbdc",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-silver--av3.jpg",
+      "bytes": 139447,
+      "sha256": "4c9a222a3888e095b0f918b1febe7dae620ee3fd98263ce01b730531a87ba1f7"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -65,9 +101,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-black-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNkl6dWtDRUhtM05OU20zcmZoOXAxVnoyK0dsYUNhbGM0emtITUd6QnFkaDRXWm5qWGdXN3hGRFhnR2I1UnV5RlFsajhsWTUxRHNVUjZxQ2NiVUdrQzZLY0lWS3grVm5NUXdqS3EzR1ZwL0xn",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-black--av3.jpg",
-    "bytes": 155337,
-    "sha256": "2384984b005305b10ee4dd095e165937ed87ed06fb305246f6fe756fe2121d39"
+    "path": "/products/cutouts/iphone-18-pro-max-black--av3-transparent.webp",
+    "bytes": 355108,
+    "sha256": "1fe058bfcc34e7b1c98b0534b4e97981cbccc171f5fd663b8c82e0333ae9fc81",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-black--av3.jpg",
+      "bytes": 155337,
+      "sha256": "2384984b005305b10ee4dd095e165937ed87ed06fb305246f6fe756fe2121d39"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -95,9 +137,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-ultramarine-select-202409_AV2?wid=750&hei=506&fmt=jpeg&qlt=90&.v=aWI5aGdudlZCalMrV3A2QU5NeUlaUS9CQ2hhaHB3cVp0QldQUmg0R3F6NllxU28wRmJ4M1hpa3FkUmRTa2QzR3JjdDZMRlVXdmhWTll0OTAwWGNkeVFXTjFyWXN6MmFjVTVuYkt2UFozY1c1dlhmNHBVNHcrZU96OHBHOXk0MC8",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-ultramarine--av2.jpg",
-    "bytes": 60339,
-    "sha256": "050a81f739c491a637b7db57a12f5605878d810a996f1df1e38843595078b2dc"
+    "path": "/products/cutouts/phone-2-ultramarine--av2-transparent.webp",
+    "bytes": 164182,
+    "sha256": "175f5c00d14888c22680ecccd7cf5046a49c4d4bac2238389fe34705216d1a35",
+    "originalImage": {
+      "path": "/products/options/phone-2-ultramarine--av2.jpg",
+      "bytes": 60339,
+      "sha256": "050a81f739c491a637b7db57a12f5605878d810a996f1df1e38843595078b2dc"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -115,9 +163,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-teal-select-202409_AV2?wid=750&hei=506&fmt=jpeg&qlt=90&.v=ZWQwWE02eFY3dENRdXRQQkhqUUNjcEgwZTRaemxBbktKckRwNzVUYjAxZGRSUmkrR2JFODhaM2JuczlVS3lGdGJGcXNRQnFCV0w3WVRjTExvdm1ic2Ridk5LM2czd3JHZVpQMXpnVkt6cWxBU25Ob2N5dVQyQmxkN0IyWWVHdW0",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-teal--av2.jpg",
-    "bytes": 51728,
-    "sha256": "6e1051905a3d8fc83793f62e4d2e24700a3b5ea80105387aa7bce35c82e6c4a0"
+    "path": "/products/cutouts/phone-2-teal--av2-transparent.webp",
+    "bytes": 132372,
+    "sha256": "d48611fc34c0f23a6544867d27a1454fccbb4381cd27cc09701a41c2c4666cb4",
+    "originalImage": {
+      "path": "/products/options/phone-2-teal--av2.jpg",
+      "bytes": 51728,
+      "sha256": "6e1051905a3d8fc83793f62e4d2e24700a3b5ea80105387aa7bce35c82e6c4a0"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -125,9 +179,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-glacier-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNUE3TmE3YnJQWFgzNUVkVTF1cElhWll4dWxEY0RLV2lzQW5uM28weUV3UkZkK3JJcWpXak1FU1Zra3Vhc2lTUDNnRS9RbjZRdDRTMkVuODJ4VTM3NmJERjIzZ1VCL3hONnZ4Ty9rdDJxNkZn",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-    "path": "/products/options/iphone-18-pro-max-glacier--av3.jpg",
-    "bytes": 173135,
-    "sha256": "0fdc773e9792f725e93bda3e75c2de3a036101eba8e6da79456f9e474eccf11f"
+    "path": "/products/cutouts/iphone-18-pro-max-glacier--av3-transparent.webp",
+    "bytes": 430762,
+    "sha256": "b9ad2a4c5f6afefad023d19953556eed97c5f803b1fe0869391529a4a28dddb7",
+    "originalImage": {
+      "path": "/products/options/iphone-18-pro-max-glacier--av3.jpg",
+      "bytes": 173135,
+      "sha256": "0fdc773e9792f725e93bda3e75c2de3a036101eba8e6da79456f9e474eccf11f"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -135,9 +195,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pink-select-202409_AV2?wid=750&hei=506&fmt=jpeg&qlt=90&.v=UVNpeHhuaEtmVmFjT28wSWtUWE40cEgwZTRaemxBbktKckRwNzVUYjAxZGRSUmkrR2JFODhaM2JuczlVS3lGdGJGcXNRQnFCV0w3WVRjTExvdm1ic1FrR3JSM1A3VmovL1ZlSkthZlQxZWlKTExiOEFsRmxtQ2Nua0tRSC83MkI",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-pink--av2.jpg",
-    "bytes": 54443,
-    "sha256": "1e30808b6a13c4e031f1e68abe5bf2f5f05ed4913946a931a88512238146935e"
+    "path": "/products/cutouts/phone-2-pink--av2-transparent.webp",
+    "bytes": 141084,
+    "sha256": "71b0404ba5b7fad9f9fb75ef365a59bf9c49a577aced337d308d650831120b14",
+    "originalImage": {
+      "path": "/products/options/phone-2-pink--av2.jpg",
+      "bytes": 54443,
+      "sha256": "1e30808b6a13c4e031f1e68abe5bf2f5f05ed4913946a931a88512238146935e"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-18-pro-max",
@@ -155,9 +221,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-white-select-202409_AV2?wid=750&hei=506&fmt=jpeg&qlt=90&.v=MkE3NkkvUnNnYkI2clJibUlEOUdsNDM1V0R6OFo3WGM4c3lzSTVieDZpNEcrWCswM1N5SnZBdDYrTlArY3NCYUJ3b1EyanZvd0crOUVVd3ZSZWl3MmNjOWEybjhuUHNzZ2JMS0ljTlpHNVpaWDhEMFFmU2JnYUhUVExpcTQwVFU",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-white--av2.jpg",
-    "bytes": 38483,
-    "sha256": "45a868d84e0a04d5c9a1f27ca922f46742ecbb988da68f40d160aa3db52710b9"
+    "path": "/products/cutouts/phone-2-white--av2-transparent.webp",
+    "bytes": 79216,
+    "sha256": "25f06bbf8ff51943bcfab6d8ec98c1573e6fa43029cb64ae2fae6aee0204edfc",
+    "originalImage": {
+      "path": "/products/options/phone-2-white--av2.jpg",
+      "bytes": 38483,
+      "sha256": "45a868d84e0a04d5c9a1f27ca922f46742ecbb988da68f40d160aa3db52710b9"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -165,9 +237,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-black-select-202409_AV2?wid=750&hei=506&fmt=jpeg&qlt=90&.v=Y1l1MmFiWkNUWmJ0WXkrVTNiMnhxWTM1V0R6OFo3WGM4c3lzSTVieDZpNEcrWCswM1N5SnZBdDYrTlArY3NCYUJ3b1EyanZvd0crOUVVd3ZSZWl3MlZBTnB4bmE5ZElvWXRicmdzWWNHOFVjOTJmQXRpKzduNkhpcGpXOURSNkg",
     "view": "_AV2",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-black--av2.jpg",
-    "bytes": 59501,
-    "sha256": "8265e0c1f1116a33de0ceaf7ca71d9e2a2936a009f6e24c048999642a44a498f"
+    "path": "/products/cutouts/phone-2-black--av2-transparent.webp",
+    "bytes": 140552,
+    "sha256": "dfc0b81740e3743f69d3de4d723d6d2e21db0256b67140f4fac769956add68bb",
+    "originalImage": {
+      "path": "/products/options/phone-2-black--av2.jpg",
+      "bytes": 59501,
+      "sha256": "8265e0c1f1116a33de0ceaf7ca71d9e2a2936a009f6e24c048999642a44a498f"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -175,9 +253,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-teal-select-202409_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=ZWQwWE02eFY3dENRdXRQQkhqUUNjanorcTNYMDVXRDRPM3FYZXpUVkY3M1BiNGFWb0pxVnpqT1Fjd2JNR3AySGhabWVOZUJidkVVTmVBWnZsRzdJVkpNdlZGYS9pUUpmMm02QzgvSStNT016cmdmdG5TYWJ5Ujlld2hKcGZuaGc",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-teal--av3.jpg",
-    "bytes": 127320,
-    "sha256": "6583f70e9559e2eda6f13191571a0f32720c8b928f8d6329e45cf296fad6a74f"
+    "path": "/products/cutouts/phone-2-teal--av3-transparent.webp",
+    "bytes": 394494,
+    "sha256": "ab95f7ef9adb5848dabae9d5c9a9ad9fbbbce692cbda2493996eb10d0c1f1c99",
+    "originalImage": {
+      "path": "/products/options/phone-2-teal--av3.jpg",
+      "bytes": 127320,
+      "sha256": "6583f70e9559e2eda6f13191571a0f32720c8b928f8d6329e45cf296fad6a74f"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -185,9 +269,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-white-select-202409_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=MkE3NkkvUnNnYkI2clJibUlEOUdsNDM1V0R6OFo3WGM4c3lzSTVieDZpNGVvVDJIdGMxS1VjeEdWK2NZZXB4Zm82YmM0T1p0TjFrWHFrUWlXVDZiS2FqWEU1S2NzTGlReHhFVjRPaFBEZzRWNGZFZnFiUTlTZTQyMkZWaVVUZlc",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-white--av3.jpg",
-    "bytes": 105565,
-    "sha256": "ac2e1e925f800b1d00dfa8e538e38d32ce504a4c4440091651250ad1480ca2d2"
+    "path": "/products/cutouts/phone-2-white--av3-transparent.webp",
+    "bytes": 243032,
+    "sha256": "36e062702d066fdf39d3366abc5911e0b65437a96b460ede2fbc51ab94580876",
+    "originalImage": {
+      "path": "/products/options/phone-2-white--av3.jpg",
+      "bytes": 105565,
+      "sha256": "ac2e1e925f800b1d00dfa8e538e38d32ce504a4c4440091651250ad1480ca2d2"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -195,9 +285,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-black-select-202409_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=Y1l1MmFiWkNUWmJ0WXkrVTNiMnhxWTM1V0R6OFo3WGM4c3lzSTVieDZpNGVvVDJIdGMxS1VjeEdWK2NZZXB4Zm82YmM0T1p0TjFrWHFrUWlXVDZiS1ZOTEY4bkxRWkFLaXg5YlorNEUwMWV1eXMzaTNuNzZWUWRtU1pQczQwZFo",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-black--av3.jpg",
-    "bytes": 109877,
-    "sha256": "fa3a0657f910fd56e65c4f0a2c20aa7b88a38f0d441da64dc52afb47a4d3174c"
+    "path": "/products/cutouts/phone-2-black--av3-transparent.webp",
+    "bytes": 262044,
+    "sha256": "67624eab50f9c1784505094c459e3246a1a10797423270721d8de8965b61458a",
+    "originalImage": {
+      "path": "/products/options/phone-2-black--av3.jpg",
+      "bytes": 109877,
+      "sha256": "fa3a0657f910fd56e65c4f0a2c20aa7b88a38f0d441da64dc52afb47a4d3174c"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -205,9 +301,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pink-select-202409_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=UVNpeHhuaEtmVmFjT28wSWtUWE40anorcTNYMDVXRDRPM3FYZXpUVkY3M1BiNGFWb0pxVnpqT1Fjd2JNR3AySGhabWVOZUJidkVVTmVBWnZsRzdJVkpMdUFTNkVPN1JRY0dtdDhBSFU2WlZuMU9BZXZDZlFoMkQrRm9RMzZBT24",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-pink--av3.jpg",
-    "bytes": 128629,
-    "sha256": "31d03c87d4d337d9040f048f434ce60dbcec8f51d61ea6562c4f69516aeb6e96"
+    "path": "/products/cutouts/phone-2-pink--av3-transparent.webp",
+    "bytes": 360468,
+    "sha256": "81b84aee4aa103ac8cf04de58e991ebdfc6c67dc72520592855c0c577bf24e77",
+    "originalImage": {
+      "path": "/products/options/phone-2-pink--av3.jpg",
+      "bytes": 128629,
+      "sha256": "31d03c87d4d337d9040f048f434ce60dbcec8f51d61ea6562c4f69516aeb6e96"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -225,9 +327,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-ultramarine-select-202409_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=aWI5aGdudlZCalMrV3A2QU5NeUlaUS9CQ2hhaHB3cVp0QldQUmg0R3F6NDRZM2hiRjNTRld2M201ZXQrQVpvNk1HdERxc1JTR0JKeGRITUM3NTliOWRSR0liZklwWjJ2eGlOd1dxRHFuOXA3ck1BalRTbjZTOTd3ZlhKc2VObzQ",
     "view": "_AV3",
     "source": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
-    "path": "/products/options/phone-2-ultramarine--av3.jpg",
-    "bytes": 134127,
-    "sha256": "9fe0bc433489dfcce5335f07f373122343b6d823bab9f752d04fc5ee0f3f7d10"
+    "path": "/products/cutouts/phone-2-ultramarine--av3-transparent.webp",
+    "bytes": 412128,
+    "sha256": "4df492188e1c6d9c737dbfa06099a1fe991a9b7fb36abbeb5ebd162801e61b9c",
+    "originalImage": {
+      "path": "/products/options/phone-2-ultramarine--av3.jpg",
+      "bytes": 134127,
+      "sha256": "9fe0bc433489dfcce5335f07f373122343b6d823bab9f752d04fc5ee0f3f7d10"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -255,9 +363,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/buy-airpods/airpods-max",
-    "path": "/products/options/headphones-midnight-main.jpg",
-    "bytes": 101242,
-    "sha256": "be933786b631c81dea34e219b5ceea4d4a57d056895d9451a1af9bdd6b6abb48"
+    "path": "/products/cutouts/headphones-midnight-main-transparent.webp",
+    "bytes": 168854,
+    "sha256": "11997cf2df92d5a62bef6295b4803390d331fdf8c34fded88400a8a853696d4e",
+    "originalImage": {
+      "path": "/products/options/headphones-midnight-main.jpg",
+      "bytes": 101242,
+      "sha256": "be933786b631c81dea34e219b5ceea4d4a57d056895d9451a1af9bdd6b6abb48"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -275,9 +389,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PS1Rpbjg5MjlaRWkwN0JTZEtNR2p3b2dmcFJCOTlLWlREUEJzL3lTN2VnL0cvVnNUQWxFNHNrME94a1pxdUNOU29FM01jakdGSHhMVXhHQ21YeXBIKzU",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/buy-airpods/airpods-max",
-    "path": "/products/options/headphones-starlight-main.jpg",
-    "bytes": 84437,
-    "sha256": "c2113fa031e07942e80a1fb59a9e622d57970f1b68af2d4c3c08aec81e55cbfe"
+    "path": "/products/cutouts/headphones-starlight-main-transparent.webp",
+    "bytes": 209552,
+    "sha256": "7e450921cf7eac57ef2048fe7176ba02244192222fdb51799bc14ddf441f82c6",
+    "originalImage": {
+      "path": "/products/options/headphones-starlight-main.jpg",
+      "bytes": 84437,
+      "sha256": "c2113fa031e07942e80a1fb59a9e622d57970f1b68af2d4c3c08aec81e55cbfe"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "headphones",
@@ -285,9 +405,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnk3Zm5tZm5FR0tlWnFHbkRhQU5lZmc",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/buy-airpods/airpods-max",
-    "path": "/products/options/headphones-orange-main.jpg",
-    "bytes": 117064,
-    "sha256": "d9a08b51a54fda2d288c60af1aee0298d23dbc2ae416ff050ad75394f76528d4"
+    "path": "/products/cutouts/headphones-orange-main-transparent.webp",
+    "bytes": 310034,
+    "sha256": "1529276497133b8d00ca0f10a540bf00b062c5a3c5e49f90fadf342a8ffb4f03",
+    "originalImage": {
+      "path": "/products/options/headphones-orange-main.jpg",
+      "bytes": 117064,
+      "sha256": "d9a08b51a54fda2d288c60af1aee0298d23dbc2ae416ff050ad75394f76528d4"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "headphones",
@@ -295,9 +421,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnhzQVNZV1grZHBseDduSWhqSlA3QUE",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/buy-airpods/airpods-max",
-    "path": "/products/options/headphones-purple-main.jpg",
-    "bytes": 84036,
-    "sha256": "ece772a9f0278b0748ccf7462bb54f1e622643864f078e04396c5d5dae05b04d"
+    "path": "/products/cutouts/headphones-purple-main-transparent.webp",
+    "bytes": 176952,
+    "sha256": "fecf0094f92b9dbd58291a8419c934a3f100e7594e0af5b0d3d2891f34ded4d6",
+    "originalImage": {
+      "path": "/products/options/headphones-purple-main.jpg",
+      "bytes": 84036,
+      "sha256": "ece772a9f0278b0748ccf7462bb54f1e622643864f078e04396c5d5dae05b04d"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "headphones",
@@ -305,9 +437,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmaVZsckZUTTZZd1pFb3lRTGNlYkF0Yy9BSXRGSWdwVEs0NXdLd3JPRVQ3TGROL2hTdHRlcnVBMFhCNlFSVHgrS01jL2RQeWJYZ1FmWXUzRFBMSzJrTlJTZy9JeUNjV2pzbzd6anYzTldHVWw",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/buy-airpods/airpods-max",
-    "path": "/products/options/headphones-blue-main.jpg",
-    "bytes": 108134,
-    "sha256": "639b8dfb5e93510ffce7d37474da5c21521ac94cddab1b3f5d2d74a4045da399"
+    "path": "/products/cutouts/headphones-blue-main-transparent.webp",
+    "bytes": 212108,
+    "sha256": "26bf6bcb0b5ae30f53d17604d4ce52dbfafa73149d53c6d070b5e5706602802a",
+    "originalImage": {
+      "path": "/products/options/headphones-blue-main.jpg",
+      "bytes": 108134,
+      "sha256": "639b8dfb5e93510ffce7d37474da5c21521ac94cddab1b3f5d2d74a4045da399"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-2",
@@ -325,9 +463,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Grey_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-grey-main.jpg",
-    "bytes": 33373,
-    "sha256": "db7ecb5a7bc289678e0de03052cedb66ea13c54e8d1d4473a639f6c2318a355d"
+    "path": "/products/cutouts/phone-titanium-grey-main-transparent.webp",
+    "bytes": 70124,
+    "sha256": "0f8d39b6dc5b7e037f326240d489effab08d077530a9da7b9d621eda808f84ad",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-grey-main.jpg",
+      "bytes": 33373,
+      "sha256": "db7ecb5a7bc289678e0de03052cedb66ea13c54e8d1d4473a639f6c2318a355d"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -335,9 +479,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Yellow_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-yellow-main.jpg",
-    "bytes": 34180,
-    "sha256": "2731829028c54ceb9681bc97329f8f107a756a938bc552d03e36cde9d2565229"
+    "path": "/products/cutouts/phone-titanium-yellow-main-transparent.webp",
+    "bytes": 72706,
+    "sha256": "2453c65fb6c535bcaf774a513ef340c010db939a84847f87e9d82c2f1439b674",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-yellow-main.jpg",
+      "bytes": 34180,
+      "sha256": "2731829028c54ceb9681bc97329f8f107a756a938bc552d03e36cde9d2565229"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -345,9 +495,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Black_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-black-main.jpg",
-    "bytes": 37894,
-    "sha256": "0cb1587e5178d3ad436f0354b89409eda6d8bf1c9a403cc6290d1c349265e5c8"
+    "path": "/products/cutouts/phone-titanium-black-main-transparent.webp",
+    "bytes": 62644,
+    "sha256": "c4d74655b595af0d9a8dfaa1af65ca598903a8ad4be2976f3f9adb05aaf11d91",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-black-main.jpg",
+      "bytes": 37894,
+      "sha256": "0cb1587e5178d3ad436f0354b89409eda6d8bf1c9a403cc6290d1c349265e5c8"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -355,9 +511,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Blue_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-blue-main.jpg",
-    "bytes": 31639,
-    "sha256": "2c4e1fc3d8edb90f70dda2c360cb6c0f1704f9c133afc388d2aac0c5c3855977"
+    "path": "/products/cutouts/phone-titanium-blue-main-transparent.webp",
+    "bytes": 66552,
+    "sha256": "e673c8925d7486e1efff3814adec0138b76b04255811a185e11588e6ead7ce0c",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-blue-main.jpg",
+      "bytes": 31639,
+      "sha256": "2c4e1fc3d8edb90f70dda2c360cb6c0f1704f9c133afc388d2aac0c5c3855977"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -365,9 +527,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Violet_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-violet-main.jpg",
-    "bytes": 34285,
-    "sha256": "eaa2697baed236cf19e25f8f8ed5671e44e89641582f02776863d5774e321550"
+    "path": "/products/cutouts/phone-titanium-violet-main-transparent.webp",
+    "bytes": 74138,
+    "sha256": "ca7a83693f76f3733be80786d53743e373ad322ef432956f277ce59ee2428310",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-violet-main.jpg",
+      "bytes": 34285,
+      "sha256": "eaa2697baed236cf19e25f8f8ed5671e44e89641582f02776863d5774e321550"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -375,9 +543,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Orange_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-orange-main.jpg",
-    "bytes": 35489,
-    "sha256": "e060509c02f429480287d351bbdde12afc013f2b9320c8cf83a38b1ef7e16707"
+    "path": "/products/cutouts/phone-titanium-orange-main-transparent.webp",
+    "bytes": 78316,
+    "sha256": "12b28ebb06e504d998a50d7c37f36199cee57d80eb6c0aeb06f80a1dcd8ac97e",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-orange-main.jpg",
+      "bytes": 35489,
+      "sha256": "e060509c02f429480287d351bbdde12afc013f2b9320c8cf83a38b1ef7e16707"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -385,9 +559,15 @@
     "url": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-WWDC22-MacBook-Air-4up-colors-hero-220606_big.jpg.large.jpg",
     "view": "All colours",
     "source": "https://www.apple.com/uk/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/",
-    "path": "/products/options/laptop-1-gallery-all-colours.jpg",
-    "bytes": 37599,
-    "sha256": "0466a13fc046614d3aeb7c40a9079ac7e7334e32993991652a3863d8f8cec4b4"
+    "path": "/products/cutouts/laptop-1-gallery-all-colours-transparent.webp",
+    "bytes": 56430,
+    "sha256": "e68e8fa213ab6776dc2674a1b180be216dc68cc71491443af092802e71361f50",
+    "originalImage": {
+      "path": "/products/options/laptop-1-gallery-all-colours.jpg",
+      "bytes": 37599,
+      "sha256": "0466a13fc046614d3aeb7c40a9079ac7e7334e32993991652a3863d8f8cec4b4"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone",
@@ -395,9 +575,15 @@
     "url": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Green_MO_0524.jpg",
     "view": "Main",
     "source": "https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/",
-    "path": "/products/options/phone-titanium-green-main.jpg",
-    "bytes": 31310,
-    "sha256": "443a0c2745a18a3b6de43c3b3121b4bc149400f358fe78520e56d806c9218e8c"
+    "path": "/products/cutouts/phone-titanium-green-main-transparent.webp",
+    "bytes": 63644,
+    "sha256": "201f9d1e7c9ac3c319129e9a6b08e6f42c4b9b8abe780f7ed25397cd8e62898d",
+    "originalImage": {
+      "path": "/products/options/phone-titanium-green-main.jpg",
+      "bytes": 31310,
+      "sha256": "443a0c2745a18a3b6de43c3b3121b4bc149400f358fe78520e56d806c9218e8c"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -405,9 +591,15 @@
     "url": "https://cdn.shopify.com/s/files/1/0487/8188/5596/files/AOCottonWreathHoodie-Black-Front_60330b92-dc01-41ee-b232-141b4cad22e1.jpg?v=1775819640",
     "view": "Main",
     "source": "https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-black-ss26-aothd1303",
-    "path": "/products/options/dnm-hoodie-black-main.jpg",
-    "bytes": 658518,
-    "sha256": "4a9c2f89ed0e6791d04146ea895af17c021adc116c03ae975d772212a3db47d7"
+    "path": "/products/cutouts/dnm-hoodie-black-main-transparent.webp",
+    "bytes": 597026,
+    "sha256": "f00cab49b4ee555fe2f568b98e0e0fbe268c8a62729fe204591890e299e1e8f8",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-black-main.jpg",
+      "bytes": 658518,
+      "sha256": "4a9c2f89ed0e6791d04146ea895af17c021adc116c03ae975d772212a3db47d7"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -415,9 +607,15 @@
     "url": "https://cdn.shopify.com/s/files/1/0487/8188/5596/files/AOCottonWreathHoodie-Black-Back_b5f93c24-6ca4-4f79-b208-49c3d1157551.jpg?v=1775819639",
     "view": "Detail 1",
     "source": "https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-black-ss26-aothd1303",
-    "path": "/products/options/dnm-hoodie-black-detail-1.jpg",
-    "bytes": 620170,
-    "sha256": "9f4df3176cd6cfda7e8bdc6f2099697d92fe25fc5093cf1eb997e1df7d551535"
+    "path": "/products/cutouts/dnm-hoodie-black-detail-1-transparent.webp",
+    "bytes": 543120,
+    "sha256": "60361d645f533779da91b8b774c4231dde683d141d0584f288ae5cf7ab404774",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-black-detail-1.jpg",
+      "bytes": 620170,
+      "sha256": "9f4df3176cd6cfda7e8bdc6f2099697d92fe25fc5093cf1eb997e1df7d551535"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -425,9 +623,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708365630469",
     "view": "_AV1",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra--av1.jpg",
-    "bytes": 42090,
-    "sha256": "58ba1a0ee86ad547183bf8b7b3c3289bd4de50bad50b44d2a4941285d27231a8"
+    "path": "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+    "bytes": 13292,
+    "sha256": "a2f5d9ee9074617cb9b3d8520d1d761d38bc963770a6d9c11418830e31524a3e",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra--av1.jpg",
+      "bytes": 42090,
+      "sha256": "58ba1a0ee86ad547183bf8b7b3c3289bd4de50bad50b44d2a4941285d27231a8"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -435,9 +639,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402_AV4?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708365636546",
     "view": "_AV4",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra--av4.jpg",
-    "bytes": 63030,
-    "sha256": "06fbe12dbe049c757fc301a4551abb8370457ce2ee525ef0cb2507223fc2c8df"
+    "path": "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+    "bytes": 79540,
+    "sha256": "e4c0477edba6faf9a73cdb57f2a72c4b5d7eb7f11db933d4981014ef4547de25",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra--av4.jpg",
+      "bytes": 63030,
+      "sha256": "06fbe12dbe049c757fc301a4551abb8370457ce2ee525ef0cb2507223fc2c8df"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -445,9 +655,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402_AV3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708365629638",
     "view": "_AV3",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra--av3.jpg",
-    "bytes": 35372,
-    "sha256": "5f87736c619bf35feed6916e61cbe39d3cfa46199b09d448b83977bdf7dd30fc"
+    "path": "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+    "bytes": 7590,
+    "sha256": "98fc23294f73cb6ff8a296cfc7ceb61f08868bff71140c32e5e2321634b8d2ce",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra--av3.jpg",
+      "bytes": 35372,
+      "sha256": "5f87736c619bf35feed6916e61cbe39d3cfa46199b09d448b83977bdf7dd30fc"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -455,9 +671,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402_AV5?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1707260114814",
     "view": "_AV5",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra--av5.jpg",
-    "bytes": 41816,
-    "sha256": "0ddced5f8b49e707671671bec9eb8e8d7c2a3e45bece1aafbacddc70e9badce5"
+    "path": "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
+    "bytes": 31620,
+    "sha256": "6bbb988c4522f2106dbaba11cc39dae1c512ee66f2c92ebfc0d1dc5f3a1609c3",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra--av5.jpg",
+      "bytes": 41816,
+      "sha256": "0ddced5f8b49e707671671bec9eb8e8d7c2a3e45bece1aafbacddc70e9badce5"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -465,9 +687,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402_AV3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708968075986",
     "view": "_AV3",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra--av3.jpg",
-    "bytes": 34853,
-    "sha256": "ed4146bb8b4d8eca3e0b4eebbfdfc1dad819420ef81f7788fca9a2c2cc312b1e"
+    "path": "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+    "bytes": 7212,
+    "sha256": "999728cb55a1e31c17d1b0eb834eac53bc1cf33667bf20c1cdc86df8bbdee320",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra--av3.jpg",
+      "bytes": 34853,
+      "sha256": "ed4146bb8b4d8eca3e0b4eebbfdfc1dad819420ef81f7788fca9a2c2cc312b1e"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -475,9 +703,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708968079323",
     "view": "Main",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra-main.jpg",
-    "bytes": 79022,
-    "sha256": "38f3a1838783bb3912c23baeb3f498c22fe538a7bad9cab0ee0ba373394af679"
+    "path": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+    "bytes": 83610,
+    "sha256": "8c93fb718f9a2ce773632dc7d4fc1f89eca54780f04e80abc480a1841c5db3ae",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra-main.jpg",
+      "bytes": 79022,
+      "sha256": "38f3a1838783bb3912c23baeb3f498c22fe538a7bad9cab0ee0ba373394af679"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -485,9 +719,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402_AV2?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708365633478",
     "view": "_AV2",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra--av2.jpg",
-    "bytes": 60028,
-    "sha256": "24e816c1cfc2643bfbf36670ee335d3d467f56c487719822d228cca59b26b1d3"
+    "path": "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+    "bytes": 43768,
+    "sha256": "4969f14bb52171cb89d96c769da8ee98f00678834604fa5b96c4ea5ed65192eb",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra--av2.jpg",
+      "bytes": 60028,
+      "sha256": "24e816c1cfc2643bfbf36670ee335d3d467f56c487719822d228cca59b26b1d3"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -495,9 +735,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-spacegray-202402?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1707260126041",
     "view": "Main",
     "source": "https://www.apple.com/shop/product/ftl73ll/a",
-    "path": "/products/options/laptop-space-grey-extra-main.jpg",
-    "bytes": 79914,
-    "sha256": "5bace9c44fc2b077740056cc31b1a1e10ff896aa24dbe15a01cf6dc8c3ca2b4d"
+    "path": "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+    "bytes": 86224,
+    "sha256": "caf39357449a82f7924f4ecb7c3549f98311bdf0c20889698b8d4d3da76ab389",
+    "originalImage": {
+      "path": "/products/options/laptop-space-grey-extra-main.jpg",
+      "bytes": 79914,
+      "sha256": "5bace9c44fc2b077740056cc31b1a1e10ff896aa24dbe15a01cf6dc8c3ca2b4d"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -505,9 +751,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402_AV2?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708968076655",
     "view": "_AV2",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra--av2.jpg",
-    "bytes": 57295,
-    "sha256": "b95a2488a22503f376ea0eb480fcfef87b8a90ab59e271a77799f8f8ff63b1f6"
+    "path": "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+    "bytes": 40190,
+    "sha256": "125c8b96504c9c060d175e2d610af16a475a94db9c8699b2792202ed9a980e3f",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra--av2.jpg",
+      "bytes": 57295,
+      "sha256": "b95a2488a22503f376ea0eb480fcfef87b8a90ab59e271a77799f8f8ff63b1f6"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -515,9 +767,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402_AV5?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1707260114546",
     "view": "_AV5",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra--av5.jpg",
-    "bytes": 41816,
-    "sha256": "0ddced5f8b49e707671671bec9eb8e8d7c2a3e45bece1aafbacddc70e9badce5"
+    "path": "/products/cutouts/laptop-silver-extra--av5-transparent.webp",
+    "bytes": 31620,
+    "sha256": "6bbb988c4522f2106dbaba11cc39dae1c512ee66f2c92ebfc0d1dc5f3a1609c3",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra--av5.jpg",
+      "bytes": 41816,
+      "sha256": "0ddced5f8b49e707671671bec9eb8e8d7c2a3e45bece1aafbacddc70e9badce5"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -525,9 +783,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402_AV4?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708968079488",
     "view": "_AV4",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra--av4.jpg",
-    "bytes": 59690,
-    "sha256": "5d69c2de370044138fe3e82639db51e90c0e247d0c3c491507b5b110e82825a4"
+    "path": "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+    "bytes": 73602,
+    "sha256": "3de9bc2ad22c8a0d9a28984741bfd9d5ea77ac1ff0fffef9be4d2487c19a5722",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra--av4.jpg",
+      "bytes": 59690,
+      "sha256": "5d69c2de370044138fe3e82639db51e90c0e247d0c3c491507b5b110e82825a4"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop",
@@ -535,9 +799,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m3-silver-202402_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1708968076111",
     "view": "_AV1",
     "source": "https://www.apple.com/de/shop/product/g1aa1d/a",
-    "path": "/products/options/laptop-silver-extra--av1.jpg",
-    "bytes": 41481,
-    "sha256": "eca488d515a2148ef862ff06d56277b08b9ea92ccdbdb7912d424fe2e0a4d08d"
+    "path": "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+    "bytes": 12612,
+    "sha256": "fe66060c20f0d7568ce58cd7038a646e45d9c4f5b68c5e1e7083d50ee8ade11f",
+    "originalImage": {
+      "path": "/products/options/laptop-silver-extra--av1.jpg",
+      "bytes": 41481,
+      "sha256": "eca488d515a2148ef862ff06d56277b08b9ea92ccdbdb7912d424fe2e0a4d08d"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -545,9 +815,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208_AV4?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659114463787",
     "view": "_AV4",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra--av4.jpg",
-    "bytes": 36548,
-    "sha256": "567bcf0b18b186d1e781eccd3ea041089482ebf6c0919b6fbe4dfdb82d15ddec"
+    "path": "/products/cutouts/laptop-1-silver-extra--av4-transparent.webp",
+    "bytes": 7232,
+    "sha256": "2595146d94c3f406b833996e5eeba1e772c6f6338cac63b7e031d65989ba7b78",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra--av4.jpg",
+      "bytes": 36548,
+      "sha256": "567bcf0b18b186d1e781eccd3ea041089482ebf6c0919b6fbe4dfdb82d15ddec"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -555,9 +831,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208_AV3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659114464298",
     "view": "_AV3",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra--av3.jpg",
-    "bytes": 45007,
-    "sha256": "806976b7cb10c9ae1481ec57dea6a8bb65ed1049af8b7e3c5b2413b4fa074b16"
+    "path": "/products/cutouts/laptop-1-silver-extra--av3-transparent.webp",
+    "bytes": 16272,
+    "sha256": "45beafb8b735f662a15ee7868a3b6c1706c7a39c33f9db8a062de2188f2ffdab",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra--av3.jpg",
+      "bytes": 45007,
+      "sha256": "806976b7cb10c9ae1481ec57dea6a8bb65ed1049af8b7e3c5b2413b4fa074b16"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -565,9 +847,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659114467665",
     "view": "Main",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra-main.jpg",
-    "bytes": 171218,
-    "sha256": "1b1be02177573c99cea958a6606dcaf6c19919cb608e8694e9a1f231c17af7a0"
+    "path": "/products/cutouts/laptop-1-silver-extra-main-transparent.webp",
+    "bytes": 309316,
+    "sha256": "764ce138329452be5faa63d66c2449d141e611794158dfb345e529c6b0ce911c",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra-main.jpg",
+      "bytes": 171218,
+      "sha256": "1b1be02177573c99cea958a6606dcaf6c19919cb608e8694e9a1f231c17af7a0"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -575,9 +863,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208_AV5?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659120723304",
     "view": "_AV5",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra--av5.jpg",
-    "bytes": 44210,
-    "sha256": "72ebebd0e1e0df27d8c2b4a03a435a66f82ea1995e8fcc4aa133e92555f8d66c"
+    "path": "/products/cutouts/laptop-1-silver-extra--av5-transparent.webp",
+    "bytes": 37872,
+    "sha256": "0fab8304b8adfef8330756da7b6e385c0e42704a5c0b1267ebfcddc727868af4",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra--av5.jpg",
+      "bytes": 44210,
+      "sha256": "72ebebd0e1e0df27d8c2b4a03a435a66f82ea1995e8fcc4aa133e92555f8d66c"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -585,9 +879,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659114465269",
     "view": "_AV1",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra--av1.jpg",
-    "bytes": 71747,
-    "sha256": "f51b97dda08de1e32d610aa18fc58c0537428d2a2756eae6eafc2265fd31a2fb"
+    "path": "/products/cutouts/laptop-1-silver-extra--av1-transparent.webp",
+    "bytes": 111512,
+    "sha256": "0f7176e7b666e047e29a6b63edc9556d8596d6e5b732aa3a24f2fe3bf299425d",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra--av1.jpg",
+      "bytes": 71747,
+      "sha256": "f51b97dda08de1e32d610aa18fc58c0537428d2a2756eae6eafc2265fd31a2fb"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -595,9 +895,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208_AV2?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1659114463792",
     "view": "_AV2",
     "source": "https://www.apple.com/shop/product/g15w9ll/a",
-    "path": "/products/options/laptop-1-silver-extra--av2.jpg",
-    "bytes": 37305,
-    "sha256": "3f614722b8e110e45eb0ab587553b02cd28e216b98bfce8bf754ecdc3176d6f7"
+    "path": "/products/cutouts/laptop-1-silver-extra--av2-transparent.webp",
+    "bytes": 8442,
+    "sha256": "77d21a998d7f624e5fe60fb7aafbae1e8b2e0f1f8ffd8d1228275c003c1580af",
+    "originalImage": {
+      "path": "/products/options/laptop-1-silver-extra--av2.jpg",
+      "bytes": 37305,
+      "sha256": "3f614722b8e110e45eb0ab587553b02cd28e216b98bfce8bf754ecdc3176d6f7"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -606,9 +912,15 @@
     "view": "Main",
     "source": "https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-grey-ss26-aothd1303",
     "sourceColour": "Grey",
-    "path": "/products/options/dnm-hoodie-grey-extra-main.jpg",
-    "bytes": 1083924,
-    "sha256": "861a461021cdb97bdfd1f62754eda09eb9dfa399bcbfb94476752427f871ea61"
+    "path": "/products/cutouts/dnm-hoodie-grey-extra-main-transparent.webp",
+    "bytes": 1034590,
+    "sha256": "b82f542338beba744a3df771a7aa9ff43a480b6e84933a4b05c5ead2f053bbc2",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-grey-extra-main.jpg",
+      "bytes": 1083924,
+      "sha256": "861a461021cdb97bdfd1f62754eda09eb9dfa399bcbfb94476752427f871ea61"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -616,9 +928,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-starlight-202208?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1659114447434",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/refurbished/mac",
-    "path": "/products/options/laptop-1-starlight-extra-main.jpg",
-    "bytes": 1247842,
-    "sha256": "2a02b4dc0639c8134d5b4b1e35a96e94edf01df18d5f184a797d5da483e9e676"
+    "path": "/products/cutouts/laptop-1-starlight-extra-main-transparent.webp",
+    "bytes": 760502,
+    "sha256": "818c2fe4df01893ae731ea67c83062693eacf26a77911d1d5ca75c659ba4d2ae",
+    "originalImage": {
+      "path": "/products/options/laptop-1-starlight-extra-main.jpg",
+      "bytes": 1247842,
+      "sha256": "2a02b4dc0639c8134d5b4b1e35a96e94edf01df18d5f184a797d5da483e9e676"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -627,9 +945,15 @@
     "view": "Main",
     "source": "https://denimtears.com/products/ss26-powder-cotton-wreath-hoodie-blue",
     "sourceColour": "Powder Blue",
-    "path": "/products/options/dnm-hoodie-blue-extra-main.jpg",
-    "bytes": 431558,
-    "sha256": "73cbe6e3a285e7c4a96fdbda069314eb33e228a91dc37afb2dd3166c24050238"
+    "path": "/products/cutouts/dnm-hoodie-blue-extra-main-transparent.webp",
+    "bytes": 611884,
+    "sha256": "00865508f3a162224866ab81b8c803d1c82c0f52c79495268dab9151ab706baf",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-blue-extra-main.jpg",
+      "bytes": 431558,
+      "sha256": "73cbe6e3a285e7c4a96fdbda069314eb33e228a91dc37afb2dd3166c24050238"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -638,9 +962,15 @@
     "view": "Detail 1",
     "source": "https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-grey-ss26-aothd1303",
     "sourceColour": "Grey",
-    "path": "/products/options/dnm-hoodie-grey-extra-detail-1.jpg",
-    "bytes": 938084,
-    "sha256": "c2250d4e89c0277c28dbbee92df5e53d7884b8f1c477e788c22a65b5cf2e101e"
+    "path": "/products/cutouts/dnm-hoodie-grey-extra-detail-1-transparent.webp",
+    "bytes": 947582,
+    "sha256": "fed5aadd8b5950ca9e8388608deb270ef70673ed4f6bac2a8e243cba61fafe5a",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-grey-extra-detail-1.jpg",
+      "bytes": 938084,
+      "sha256": "c2250d4e89c0277c28dbbee92df5e53d7884b8f1c477e788c22a65b5cf2e101e"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "dnm-hoodie",
@@ -660,9 +990,15 @@
     "view": "Detail 1",
     "source": "https://denimtears.com/products/ss26-powder-cotton-wreath-hoodie-blue",
     "sourceColour": "Powder Blue",
-    "path": "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
-    "bytes": 394323,
-    "sha256": "1afd276f14c45d5339c919a1f6bdda9fa4776048ff5db4c3d225c5e5e12276f1"
+    "path": "/products/cutouts/dnm-hoodie-blue-extra-detail-1-transparent.webp",
+    "bytes": 575710,
+    "sha256": "4b83d141d33c9695914d4c2b80d97645f4dc50ef778f2eb58f37731a63429eac",
+    "originalImage": {
+      "path": "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+      "bytes": 394323,
+      "sha256": "1afd276f14c45d5339c919a1f6bdda9fa4776048ff5db4c3d225c5e5e12276f1"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -670,9 +1006,15 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-spacegray-202208?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1659114425525",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/refurbished/mac",
-    "path": "/products/options/laptop-1-space-grey-extra-main.jpg",
-    "bytes": 1349238,
-    "sha256": "95af8b7cc90b30006862d481ef780c3731099aea959577609c6d5b78e9f27af5"
+    "path": "/products/cutouts/laptop-1-space-grey-extra-main-transparent.webp",
+    "bytes": 767734,
+    "sha256": "2e8fb33b3a97a3f2319fd2fa0d4387b9689bd8a073a1342e5a3b00b223dda6be",
+    "originalImage": {
+      "path": "/products/options/laptop-1-space-grey-extra-main.jpg",
+      "bytes": 1349238,
+      "sha256": "95af8b7cc90b30006862d481ef780c3731099aea959577609c6d5b78e9f27af5"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "laptop-1",
@@ -680,39 +1022,63 @@
     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-midnight-202208?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1659114484307",
     "view": "Main",
     "source": "https://www.apple.com/uk/shop/refurbished/mac",
-    "path": "/products/options/laptop-1-midnight-extra-main.jpg",
-    "bytes": 1394865,
-    "sha256": "dbf73f0cf783bd6b9e2709763c9ef235132ba0c9cc45067a57ee09380bbbcba8"
+    "path": "/products/cutouts/laptop-1-midnight-extra-main-transparent.webp",
+    "bytes": 808052,
+    "sha256": "5d1624b5fb3d63ecc77eb31a21066bc1b26d3cebd3b25d79a682114781d632fa",
+    "originalImage": {
+      "path": "/products/options/laptop-1-midnight-extra-main.jpg",
+      "bytes": 1394865,
+      "sha256": "dbf73f0cf783bd6b9e2709763c9ef235132ba0c9cc45067a57ee09380bbbcba8"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-17-pro",
     "colour": "Silver",
     "url": "https://media.currys.biz/i/currysprod/M10290119_silver-grey?w=1000&fmt=png",
-    "path": "/products/options/phone-17-pro-silver-retailer-main.png",
+    "path": "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
     "view": "Main",
     "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro",
-    "bytes": 242318,
-    "sha256": "c59c5ca75cd54f3c575f5b3cc7410c24692598b6b24bc466bb757209aefe14e3"
+    "bytes": 151890,
+    "sha256": "05de46e66ca22bc6457a36e4f4aa6cf2ea9e18829c3a2277a0a1ad287fc881a8",
+    "originalImage": {
+      "path": "/products/options/phone-17-pro-silver-retailer-main.png",
+      "bytes": 242318,
+      "sha256": "c59c5ca75cd54f3c575f5b3cc7410c24692598b6b24bc466bb757209aefe14e3"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-17-pro",
     "colour": "Cosmic Orange",
     "url": "https://media.currys.biz/i/currysprod/M10290119_orange?w=1000&fmt=png",
-    "path": "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
+    "path": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
     "view": "Main",
     "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro",
-    "bytes": 347610,
-    "sha256": "be44867ea79cd16c0e06f787933f0e645c8507ec9a807a8a32015c77372f7c71"
+    "bytes": 246544,
+    "sha256": "a170eb3a93c7ac9066b8c6f235457bddb3e8dbf1bba8a34a2d759d83353a74a6",
+    "originalImage": {
+      "path": "/products/options/phone-17-pro-cosmic-orange-retailer-main.png",
+      "bytes": 347610,
+      "sha256": "be44867ea79cd16c0e06f787933f0e645c8507ec9a807a8a32015c77372f7c71"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "phone-17-pro",
     "colour": "Deep Blue",
     "url": "https://media.currys.biz/i/currysprod/M10290119_blue?w=1000&fmt=png",
-    "path": "/products/options/phone-17-pro-deep-blue-retailer-main.png",
+    "path": "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp",
     "view": "Main",
     "source": "https://www.currys.co.uk/phones/mobile-phones/mobile-phones/iphone-17-pro",
-    "bytes": 261986,
-    "sha256": "3b0ebe41237ce841fec2220322a36a4ca7056ca1a6ac179ef0c756eba719348e"
+    "bytes": 165204,
+    "sha256": "f2dcdef1e667f8b703a8c45fd4e052f15ce24bf822f9da5db2d31439148b8aaa",
+    "originalImage": {
+      "path": "/products/options/phone-17-pro-deep-blue-retailer-main.png",
+      "bytes": 261986,
+      "sha256": "3b0ebe41237ce841fec2220322a36a4ca7056ca1a6ac179ef0c756eba719348e"
+    },
+    "backgroundProcessing": "Local exterior background extraction with alpha transparency"
   },
   {
     "product": "iphone-17-pro-max",

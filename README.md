@@ -47,3 +47,5 @@ Customer descriptions focus on the physical products. Reference data is internal
 Run `npm run build`, then `npm run test:uk-catalog` against the running dev server to check image mapping, original prices, encoded product routes, metadata and mobile layout.
 
 A further 32 colour images cover every listed MacBook Pro M3, MacBook Air M2, iPhone 17 Pro, iPhone 17 Pro Max and Denim Tears hoodie colour. The Blue hoodie gallery shows the manufacturer's Powder Blue finish. The original 49mm watch requires its exact supplier/model identification before matching its five strap colours. Images and source hashes are recorded in the option-image manifest.
+
+White studio backgrounds have been removed from 63 catalogue images. Transparent WebP cutouts are stored in `public/products/cutouts/`; the source-to-output map and hashes are in `docs/catalog/background-cutouts.json`. White product bodies and packaging use corrected silhouettes to preserve detail. The AirPod Pro 3 card now shows the photographic product render instead of its line drawing. Original source assets remain available for provenance; stock photos and fabric close-ups retain their real scene/product content.
