@@ -1,0 +1,28 @@
+{
+  "restored": [
+    {
+      "id": "iphone-17-pro-max",
+      "price": 600,
+      "reseller": 500,
+      "minimum": 3
+    },
+    {
+      "id": "airpod-pro-3",
+      "price": 75,
+      "reseller": 45,
+      "minimum": 4
+    },
+    {
+      "id": "apple-watch-3-smartwatch-49mm",
+      "price": 120
+    }
+  ],
+  "superseded": [
+    {
+      "oldId": "airpods-max",
+      "newId": "headphones",
+      "reason": "Same AirPods Max product; newer catalogue entry takes precedence."
+    }
+  ],
+  "total": 42
+}

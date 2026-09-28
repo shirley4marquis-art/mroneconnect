@@ -1,0 +1,4227 @@
+[
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "category": "Electronics",
+    "image": "/products/iphone-stock-slide-1.jpeg",
+    "cardImage": "/products/iphone-line.jpeg",
+    "images": [
+      "/products/iphone-stock-slide-1.jpeg",
+      "/products/iphone-stock-slide-2.jpeg",
+      "/products/iphone-stock-slide-3.jpeg",
+      "/products/iphone-colors-stock.jpeg"
+    ],
+    "variants": [
+      "Cosmic Orange",
+      "Silver",
+      "Blue"
+    ],
+    "description": "An iPhone 17 Pro Max-style phone with a large-screen design and triple-camera styling. Choose Cosmic Orange, Silver or Blue. Single-unit and reseller quantity pricing are available.",
+    "price": 600,
+    "reseller": 500,
+    "minimum": 3,
+    "eyebrow": "Electronics",
+    "sourceTitle": "iPhone 17 Pro Max",
+    "sourceUrl": null,
+    "legacy": true,
+    "pricePence": 60000,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 600,
+        "minimum": 1
+      },
+      "reseller": {
+        "label": "Reseller price",
+        "price": 500,
+        "minimum": 3
+      }
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cosmic Orange",
+          "Silver",
+          "Blue"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Cosmic Orange",
+        "values": {
+          "Colour": "Cosmic Orange"
+        },
+        "pricePence": 60000,
+        "retailPence": null
+      },
+      {
+        "label": "Silver",
+        "values": {
+          "Colour": "Silver"
+        },
+        "pricePence": 60000,
+        "retailPence": null
+      },
+      {
+        "label": "Blue",
+        "values": {
+          "Colour": "Blue"
+        },
+        "pricePence": 60000,
+        "retailPence": null
+      }
+    ],
+    "defaultVariant": "Cosmic Orange",
+    "variantAliases": {},
+    "retailReference": {
+      "name": "Original storefront price",
+      "retailPence": null,
+      "url": null,
+      "basis": "Original prices restored without repricing"
+    },
+    "optionAvailability": "",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "laptop",
+    "name": "Apple MacBook Pro M3, 14-inch",
+    "sourceTitle": "LAPTOP",
+    "sourceUrl": "https://vaultsource.us/products/laptop",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903785254989-1.webp",
+    "cardImage": "/products/vaultsource/7903785254989-1.webp",
+    "images": [
+      "/products/vaultsource/7903785254989-1.webp"
+    ],
+    "variants": [
+      "Silver / 14-inch M3 base configuration",
+      "Space Grey / 14-inch M3 base configuration"
+    ],
+    "description": "A 14-inch MacBook Pro with an M3 model configuration, a full-size keyboard and a slim aluminium design. Choose Silver or Space Grey for your workspace, study or everyday projects.",
+    "pricePence": 42475,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 424.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple MacBook Pro M3, 14-inch — selected configuration",
+      "retailPence": 169900,
+      "url": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
+      "basis": "UK launch RRP, October 2023; processor, size and storage unconfirmed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Silver",
+          "Space Grey"
+        ]
+      },
+      {
+        "name": "Configuration",
+        "values": [
+          "14-inch M3 base configuration"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Silver / 14-inch M3 base configuration",
+        "values": {
+          "Colour": "Silver",
+          "Configuration": "14-inch M3 base configuration"
+        },
+        "retailPence": 169900,
+        "pricePence": 42475
+      },
+      {
+        "label": "Space Grey / 14-inch M3 base configuration",
+        "values": {
+          "Colour": "Space Grey",
+          "Configuration": "14-inch M3 base configuration"
+        },
+        "retailPence": 169900,
+        "pricePence": 42475
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Silver / 14-inch M3 base configuration"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Silver / 14-inch M3 base configuration",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "phone-17-pro",
+    "name": "Apple iPhone 17 Pro",
+    "sourceTitle": "PHONE 17 PRO",
+    "sourceUrl": "https://vaultsource.us/products/phone-17-pro",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903784829005-1.webp",
+    "cardImage": "/products/vaultsource/7903784829005-1.webp",
+    "images": [
+      "/products/vaultsource/7903784829005-1.webp"
+    ],
+    "variants": [
+      "Cosmic Orange / 256 GB",
+      "Cosmic Orange / 512 GB",
+      "Cosmic Orange / 1 TB",
+      "Deep Blue / 256 GB",
+      "Deep Blue / 512 GB",
+      "Deep Blue / 1 TB",
+      "Silver / 256 GB",
+      "Silver / 512 GB",
+      "Silver / 1 TB"
+    ],
+    "description": "An iPhone 17 Pro with a distinctive raised camera panel and a compact Pro design. Choose Cosmic Orange, Deep Blue or Silver, then select your preferred storage capacity.",
+    "pricePence": 32500,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 325,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple iPhone 17 Pro — selected configuration",
+      "retailPence": 130000,
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-512gb-silver?purchaseOption=ipi",
+      "basis": "Manufacturer page lists 256 GB option at GBP 1,099; assumed storage",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cosmic Orange",
+          "Deep Blue",
+          "Silver"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "256 GB",
+          "512 GB",
+          "1 TB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Cosmic Orange / 256 GB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500
+      },
+      {
+        "label": "Cosmic Orange / 512 GB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500
+      },
+      {
+        "label": "Cosmic Orange / 1 TB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500
+      },
+      {
+        "label": "Deep Blue / 256 GB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500
+      },
+      {
+        "label": "Deep Blue / 512 GB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500
+      },
+      {
+        "label": "Deep Blue / 1 TB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500
+      },
+      {
+        "label": "Silver / 256 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500
+      },
+      {
+        "label": "Silver / 512 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500
+      },
+      {
+        "label": "Silver / 1 TB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Cosmic Orange / 256 GB"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Cosmic Orange / 256 GB",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "iphone-18-pro-max",
+    "name": "Apple iPhone 18 Pro Max",
+    "sourceTitle": "iPhone 18 Pro Max — user supplied replacement",
+    "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro/6.9-inch-display-256gb-burgundy",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/iphone-18-pro-max-burgundy.png",
+    "cardImage": "/products/iphone-18-pro-max-burgundy.png",
+    "images": [
+      "/products/iphone-18-pro-max-burgundy.png",
+      "/products/options/iphone-18-pro-max-black-main.png",
+      "/products/options/iphone-18-pro-max-glacier-main.png",
+      "/products/options/iphone-18-pro-max-silver-main.png",
+      "/products/options/iphone-18-pro-max-burgundy-main.png",
+      "/products/options/iphone-18-pro-max-silver--av2.jpg",
+      "/products/options/iphone-18-pro-max-black--av2.jpg",
+      "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+      "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+      "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
+      "/products/options/iphone-18-pro-max-silver--av3.jpg",
+      "/products/options/iphone-18-pro-max-black--av3.jpg",
+      "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+    ],
+    "variants": [
+      "Burgundy / 256 GB",
+      "Burgundy / 512 GB",
+      "Burgundy / 1 TB",
+      "Burgundy / 2 TB",
+      "Glacier / 256 GB",
+      "Glacier / 512 GB",
+      "Glacier / 1 TB",
+      "Glacier / 2 TB",
+      "Silver / 256 GB",
+      "Silver / 512 GB",
+      "Silver / 1 TB",
+      "Silver / 2 TB",
+      "Black / 256 GB",
+      "Black / 512 GB",
+      "Black / 1 TB",
+      "Black / 2 TB"
+    ],
+    "description": "The iPhone 18 Pro Max pairs a large-screen design with a triple rear-camera layout. Choose Burgundy, Glacier, Silver or Black, with 256 GB, 512 GB, 1 TB and 2 TB storage options.",
+    "pricePence": 32500,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 325,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple iPhone 18 Pro Max — selected configuration",
+      "retailPence": 130000,
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro/6.9-inch-display-256gb-burgundy",
+      "basis": "Manufacturer UK retail listing; base 256 GB configuration",
+      "checkedAt": "2026-09-28",
+      "verification": "Product model and image supplied by the user; physical stock and specification require confirmation."
+    },
+    "replacedSource": {
+      "id": "phone-1",
+      "title": "Phone",
+      "url": "https://vaultsource.us/products/phone-1",
+      "images": [
+        "/products/vaultsource/7903785812045-1.webp"
+      ]
+    },
+    "imageSource": "User attachment, 28 September 2026",
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy",
+          "Glacier",
+          "Silver",
+          "Black"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "256 GB",
+          "512 GB",
+          "1 TB",
+          "2 TB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Burgundy / 256 GB",
+        "values": {
+          "Colour": "Burgundy",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/iphone-18-pro-max-burgundy.png",
+          "/products/options/iphone-18-pro-max-burgundy-main.png",
+          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+        ]
+      },
+      {
+        "label": "Burgundy / 512 GB",
+        "values": {
+          "Colour": "Burgundy",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/iphone-18-pro-max-burgundy.png",
+          "/products/options/iphone-18-pro-max-burgundy-main.png",
+          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+        ]
+      },
+      {
+        "label": "Burgundy / 1 TB",
+        "values": {
+          "Colour": "Burgundy",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/iphone-18-pro-max-burgundy.png",
+          "/products/options/iphone-18-pro-max-burgundy-main.png",
+          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+        ]
+      },
+      {
+        "label": "Burgundy / 2 TB",
+        "values": {
+          "Colour": "Burgundy",
+          "Storage": "2 TB"
+        },
+        "retailPence": 154000,
+        "pricePence": 38500,
+        "images": [
+          "/products/iphone-18-pro-max-burgundy.png",
+          "/products/options/iphone-18-pro-max-burgundy-main.png",
+          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+        ]
+      },
+      {
+        "label": "Glacier / 256 GB",
+        "values": {
+          "Colour": "Glacier",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/options/iphone-18-pro-max-glacier-main.png",
+          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+        ]
+      },
+      {
+        "label": "Glacier / 512 GB",
+        "values": {
+          "Colour": "Glacier",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/options/iphone-18-pro-max-glacier-main.png",
+          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+        ]
+      },
+      {
+        "label": "Glacier / 1 TB",
+        "values": {
+          "Colour": "Glacier",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/options/iphone-18-pro-max-glacier-main.png",
+          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+        ]
+      },
+      {
+        "label": "Glacier / 2 TB",
+        "values": {
+          "Colour": "Glacier",
+          "Storage": "2 TB"
+        },
+        "retailPence": 154000,
+        "pricePence": 38500,
+        "images": [
+          "/products/options/iphone-18-pro-max-glacier-main.png",
+          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+        ]
+      },
+      {
+        "label": "Silver / 256 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/options/iphone-18-pro-max-silver-main.png",
+          "/products/options/iphone-18-pro-max-silver--av2.jpg",
+          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+        ]
+      },
+      {
+        "label": "Silver / 512 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/options/iphone-18-pro-max-silver-main.png",
+          "/products/options/iphone-18-pro-max-silver--av2.jpg",
+          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+        ]
+      },
+      {
+        "label": "Silver / 1 TB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/options/iphone-18-pro-max-silver-main.png",
+          "/products/options/iphone-18-pro-max-silver--av2.jpg",
+          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+        ]
+      },
+      {
+        "label": "Silver / 2 TB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "2 TB"
+        },
+        "retailPence": 154000,
+        "pricePence": 38500,
+        "images": [
+          "/products/options/iphone-18-pro-max-silver-main.png",
+          "/products/options/iphone-18-pro-max-silver--av2.jpg",
+          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+        ]
+      },
+      {
+        "label": "Black / 256 GB",
+        "values": {
+          "Colour": "Black",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/options/iphone-18-pro-max-black-main.png",
+          "/products/options/iphone-18-pro-max-black--av2.jpg",
+          "/products/options/iphone-18-pro-max-black--av3.jpg"
+        ]
+      },
+      {
+        "label": "Black / 512 GB",
+        "values": {
+          "Colour": "Black",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/options/iphone-18-pro-max-black-main.png",
+          "/products/options/iphone-18-pro-max-black--av2.jpg",
+          "/products/options/iphone-18-pro-max-black--av3.jpg"
+        ]
+      },
+      {
+        "label": "Black / 1 TB",
+        "values": {
+          "Colour": "Black",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/options/iphone-18-pro-max-black-main.png",
+          "/products/options/iphone-18-pro-max-black--av2.jpg",
+          "/products/options/iphone-18-pro-max-black--av3.jpg"
+        ]
+      },
+      {
+        "label": "Black / 2 TB",
+        "values": {
+          "Colour": "Black",
+          "Storage": "2 TB"
+        },
+        "retailPence": 154000,
+        "pricePence": 38500,
+        "images": [
+          "/products/options/iphone-18-pro-max-black-main.png",
+          "/products/options/iphone-18-pro-max-black--av2.jpg",
+          "/products/options/iphone-18-pro-max-black--av3.jpg"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Burgundy": "Burgundy / 256 GB"
+    },
+    "optionSource": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Burgundy / 256 GB",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/iphone-18-pro-max-black-main.png",
+        "colour": "Black",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-glacier-main.png",
+        "colour": "Glacier",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-silver-main.png",
+        "colour": "Silver",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-burgundy-main.png",
+        "colour": "Burgundy",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-silver--av2.jpg",
+        "colour": "Silver",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-black--av2.jpg",
+        "colour": "Black",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+        "colour": "Glacier",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+        "colour": "Burgundy",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-burgundy--av3.jpg",
+        "colour": "Burgundy",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-silver--av3.jpg",
+        "colour": "Silver",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-black--av3.jpg",
+        "colour": "Black",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/iphone-18-pro-max-glacier--av3.jpg",
+        "colour": "Glacier",
+        "view": "_AV3"
+      }
+    ]
+  },
+  {
+    "id": "laptop-1",
+    "name": "Apple MacBook Air M2, 13.6-inch",
+    "sourceTitle": "LAPTOP",
+    "sourceUrl": "https://vaultsource.us/products/laptop-1",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903786500173-1.webp",
+    "cardImage": "/products/vaultsource/7903786500173-1.webp",
+    "images": [
+      "/products/vaultsource/7903786500173-1.webp",
+      "/products/options/laptop-1-gallery-all-colours.jpg"
+    ],
+    "variants": [
+      "Midnight / 13.6-inch M2 base configuration",
+      "Starlight / 13.6-inch M2 base configuration",
+      "Silver / 13.6-inch M2 base configuration",
+      "Space Grey / 13.6-inch M2 base configuration"
+    ],
+    "description": "A lightweight 13.6-inch MacBook Air in the M2 configuration, with a slim profile for work, study and travel. Available in Midnight, Starlight, Silver and Space Grey.",
+    "pricePence": 31225,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 312.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple MacBook Air M2, 13.6-inch — selected configuration",
+      "retailPence": 124900,
+      "url": "https://www.apple.com/uk/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/",
+      "basis": "UK launch RRP, July 2022; size, processor and storage unconfirmed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Midnight",
+          "Starlight",
+          "Silver",
+          "Space Grey"
+        ]
+      },
+      {
+        "name": "Configuration",
+        "values": [
+          "13.6-inch M2 base configuration"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Midnight / 13.6-inch M2 base configuration",
+        "values": {
+          "Colour": "Midnight",
+          "Configuration": "13.6-inch M2 base configuration"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225
+      },
+      {
+        "label": "Starlight / 13.6-inch M2 base configuration",
+        "values": {
+          "Colour": "Starlight",
+          "Configuration": "13.6-inch M2 base configuration"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225
+      },
+      {
+        "label": "Silver / 13.6-inch M2 base configuration",
+        "values": {
+          "Colour": "Silver",
+          "Configuration": "13.6-inch M2 base configuration"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225
+      },
+      {
+        "label": "Space Grey / 13.6-inch M2 base configuration",
+        "values": {
+          "Colour": "Space Grey",
+          "Configuration": "13.6-inch M2 base configuration"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Midnight / 13.6-inch M2 base configuration"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Midnight / 13.6-inch M2 base configuration",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/laptop-1-gallery-all-colours.jpg",
+        "colour": null,
+        "view": "All colours"
+      }
+    ]
+  },
+  {
+    "id": "phone",
+    "name": "Samsung Galaxy S24 Ultra",
+    "sourceTitle": "Phone",
+    "sourceUrl": "https://vaultsource.us/products/phone",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/options/phone-titanium-grey-main.jpg",
+    "cardImage": "/products/options/phone-titanium-grey-main.jpg",
+    "images": [
+      "/products/vaultsource/7903785156685-1.webp",
+      "/products/options/phone-titanium-grey-main.jpg",
+      "/products/options/phone-titanium-yellow-main.jpg",
+      "/products/options/phone-titanium-black-main.jpg",
+      "/products/options/phone-titanium-blue-main.jpg",
+      "/products/options/phone-titanium-violet-main.jpg",
+      "/products/options/phone-titanium-orange-main.jpg",
+      "/products/options/phone-titanium-green-main.jpg"
+    ],
+    "variants": [
+      "Titanium Grey / 256 GB",
+      "Titanium Grey / 512 GB",
+      "Titanium Grey / 1 TB",
+      "Titanium Black / 256 GB",
+      "Titanium Black / 512 GB",
+      "Titanium Black / 1 TB",
+      "Titanium Violet / 256 GB",
+      "Titanium Violet / 512 GB",
+      "Titanium Violet / 1 TB",
+      "Titanium Yellow / 256 GB",
+      "Titanium Yellow / 512 GB",
+      "Titanium Yellow / 1 TB",
+      "Titanium Blue / 256 GB",
+      "Titanium Blue / 512 GB",
+      "Titanium Blue / 1 TB",
+      "Titanium Orange / 256 GB",
+      "Titanium Orange / 512 GB",
+      "Titanium Orange / 1 TB",
+      "Titanium Green / 256 GB",
+      "Titanium Green / 512 GB",
+      "Titanium Green / 1 TB"
+    ],
+    "description": "The Galaxy S24 Ultra features a squared-edge design, a large display and an integrated S Pen. Choose from seven Titanium finishes and 256 GB, 512 GB or 1 TB storage.",
+    "pricePence": 31225,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 312.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Samsung Galaxy S24 Ultra — selected configuration",
+      "retailPence": 124900,
+      "url": "https://news.samsung.com/uk/enter-the-new-era-of-mobile-ai-with-samsung-galaxy-s24-series",
+      "basis": "UK launch RRP, January 2024; assumed 256 GB",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Titanium Grey",
+          "Titanium Black",
+          "Titanium Violet",
+          "Titanium Yellow",
+          "Titanium Blue",
+          "Titanium Orange",
+          "Titanium Green"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "256 GB",
+          "512 GB",
+          "1 TB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Titanium Grey / 256 GB",
+        "values": {
+          "Colour": "Titanium Grey",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-grey-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Grey / 512 GB",
+        "values": {
+          "Colour": "Titanium Grey",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-grey-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Grey / 1 TB",
+        "values": {
+          "Colour": "Titanium Grey",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-grey-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Black / 256 GB",
+        "values": {
+          "Colour": "Titanium Black",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-black-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Black / 512 GB",
+        "values": {
+          "Colour": "Titanium Black",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-black-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Black / 1 TB",
+        "values": {
+          "Colour": "Titanium Black",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-black-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Violet / 256 GB",
+        "values": {
+          "Colour": "Titanium Violet",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-violet-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Violet / 512 GB",
+        "values": {
+          "Colour": "Titanium Violet",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-violet-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Violet / 1 TB",
+        "values": {
+          "Colour": "Titanium Violet",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-violet-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Yellow / 256 GB",
+        "values": {
+          "Colour": "Titanium Yellow",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-yellow-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Yellow / 512 GB",
+        "values": {
+          "Colour": "Titanium Yellow",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-yellow-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Yellow / 1 TB",
+        "values": {
+          "Colour": "Titanium Yellow",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-yellow-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Blue / 256 GB",
+        "values": {
+          "Colour": "Titanium Blue",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-blue-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Blue / 512 GB",
+        "values": {
+          "Colour": "Titanium Blue",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-blue-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Blue / 1 TB",
+        "values": {
+          "Colour": "Titanium Blue",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-blue-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Orange / 256 GB",
+        "values": {
+          "Colour": "Titanium Orange",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-orange-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Orange / 512 GB",
+        "values": {
+          "Colour": "Titanium Orange",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-orange-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Orange / 1 TB",
+        "values": {
+          "Colour": "Titanium Orange",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-orange-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Green / 256 GB",
+        "values": {
+          "Colour": "Titanium Green",
+          "Storage": "256 GB"
+        },
+        "retailPence": 124900,
+        "pricePence": 31225,
+        "images": [
+          "/products/options/phone-titanium-green-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Green / 512 GB",
+        "values": {
+          "Colour": "Titanium Green",
+          "Storage": "512 GB"
+        },
+        "retailPence": 134900,
+        "pricePence": 33725,
+        "images": [
+          "/products/options/phone-titanium-green-main.jpg"
+        ]
+      },
+      {
+        "label": "Titanium Green / 1 TB",
+        "values": {
+          "Colour": "Titanium Green",
+          "Storage": "1 TB"
+        },
+        "retailPence": 154900,
+        "pricePence": 38725,
+        "images": [
+          "/products/options/phone-titanium-green-main.jpg"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Titanium Grey / 256 GB"
+    },
+    "optionSource": "https://news.samsung.com/uk/enter-the-new-era-of-mobile-ai-with-samsung-galaxy-s24-series",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Titanium Grey / 256 GB",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/phone-titanium-grey-main.jpg",
+        "colour": "Titanium Grey",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-yellow-main.jpg",
+        "colour": "Titanium Yellow",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-black-main.jpg",
+        "colour": "Titanium Black",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-blue-main.jpg",
+        "colour": "Titanium Blue",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-violet-main.jpg",
+        "colour": "Titanium Violet",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-orange-main.jpg",
+        "colour": "Titanium Orange",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-titanium-green-main.jpg",
+        "colour": "Titanium Green",
+        "view": "Main"
+      }
+    ]
+  },
+  {
+    "id": "phone-2",
+    "name": "Apple iPhone 16",
+    "sourceTitle": "PHONE",
+    "sourceUrl": "https://vaultsource.us/products/phone-2",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/options/phone-2-black-main.png",
+    "cardImage": "/products/options/phone-2-black-main.png",
+    "images": [
+      "/products/vaultsource/7903786434637-1.webp",
+      "/products/options/phone-2-teal-main.png",
+      "/products/options/phone-2-pink-main.png",
+      "/products/options/phone-2-white-main.png",
+      "/products/options/phone-2-black-main.png",
+      "/products/options/phone-2-ultramarine-main.png",
+      "/products/options/phone-2-ultramarine--av2.jpg",
+      "/products/options/phone-2-teal--av2.jpg",
+      "/products/options/phone-2-pink--av2.jpg",
+      "/products/options/phone-2-white--av2.jpg",
+      "/products/options/phone-2-black--av2.jpg",
+      "/products/options/phone-2-teal--av3.jpg",
+      "/products/options/phone-2-white--av3.jpg",
+      "/products/options/phone-2-black--av3.jpg",
+      "/products/options/phone-2-pink--av3.jpg",
+      "/products/options/phone-2-ultramarine--av3.jpg"
+    ],
+    "variants": [
+      "Black / 128 GB",
+      "White / 128 GB",
+      "Pink / 128 GB",
+      "Teal / 128 GB",
+      "Ultramarine / 128 GB"
+    ],
+    "description": "The iPhone 16 has a dual rear-camera design and a 128 GB storage option. Available in Black, White, Pink, Teal and Ultramarine.",
+    "pricePence": 19975,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 199.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple iPhone 16 — selected configuration",
+      "retailPence": 79900,
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-16?step=select",
+      "basis": "Manufacturer retail reference; assumed 128 GB",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black",
+          "White",
+          "Pink",
+          "Teal",
+          "Ultramarine"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "128 GB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / 128 GB",
+        "values": {
+          "Colour": "Black",
+          "Storage": "128 GB"
+        },
+        "retailPence": 79900,
+        "pricePence": 19975,
+        "images": [
+          "/products/options/phone-2-black-main.png",
+          "/products/options/phone-2-black--av2.jpg",
+          "/products/options/phone-2-black--av3.jpg"
+        ]
+      },
+      {
+        "label": "White / 128 GB",
+        "values": {
+          "Colour": "White",
+          "Storage": "128 GB"
+        },
+        "retailPence": 79900,
+        "pricePence": 19975,
+        "images": [
+          "/products/options/phone-2-white-main.png",
+          "/products/options/phone-2-white--av2.jpg",
+          "/products/options/phone-2-white--av3.jpg"
+        ]
+      },
+      {
+        "label": "Pink / 128 GB",
+        "values": {
+          "Colour": "Pink",
+          "Storage": "128 GB"
+        },
+        "retailPence": 79900,
+        "pricePence": 19975,
+        "images": [
+          "/products/options/phone-2-pink-main.png",
+          "/products/options/phone-2-pink--av2.jpg",
+          "/products/options/phone-2-pink--av3.jpg"
+        ]
+      },
+      {
+        "label": "Teal / 128 GB",
+        "values": {
+          "Colour": "Teal",
+          "Storage": "128 GB"
+        },
+        "retailPence": 79900,
+        "pricePence": 19975,
+        "images": [
+          "/products/options/phone-2-teal-main.png",
+          "/products/options/phone-2-teal--av2.jpg",
+          "/products/options/phone-2-teal--av3.jpg"
+        ]
+      },
+      {
+        "label": "Ultramarine / 128 GB",
+        "values": {
+          "Colour": "Ultramarine",
+          "Storage": "128 GB"
+        },
+        "retailPence": 79900,
+        "pricePence": 19975,
+        "images": [
+          "/products/options/phone-2-ultramarine-main.png",
+          "/products/options/phone-2-ultramarine--av2.jpg",
+          "/products/options/phone-2-ultramarine--av3.jpg"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black / 128 GB"
+    },
+    "optionSource": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / 128 GB",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/phone-2-teal-main.png",
+        "colour": "Teal",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-2-pink-main.png",
+        "colour": "Pink",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-2-white-main.png",
+        "colour": "White",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-2-black-main.png",
+        "colour": "Black",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-2-ultramarine-main.png",
+        "colour": "Ultramarine",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/phone-2-ultramarine--av2.jpg",
+        "colour": "Ultramarine",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/phone-2-teal--av2.jpg",
+        "colour": "Teal",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/phone-2-pink--av2.jpg",
+        "colour": "Pink",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/phone-2-white--av2.jpg",
+        "colour": "White",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/phone-2-black--av2.jpg",
+        "colour": "Black",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/options/phone-2-teal--av3.jpg",
+        "colour": "Teal",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/phone-2-white--av3.jpg",
+        "colour": "White",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/phone-2-black--av3.jpg",
+        "colour": "Black",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/phone-2-pink--av3.jpg",
+        "colour": "Pink",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/options/phone-2-ultramarine--av3.jpg",
+        "colour": "Ultramarine",
+        "view": "_AV3"
+      }
+    ]
+  },
+  {
+    "id": "headphones",
+    "name": "Apple AirPods Max, USB-C, 2024",
+    "sourceTitle": "HEADPHONES",
+    "sourceUrl": "https://vaultsource.us/products/headphones",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/options/headphones-midnight-main.jpg",
+    "cardImage": "/products/options/headphones-midnight-main.jpg",
+    "images": [
+      "/products/vaultsource/7903784992845-1.webp",
+      "/products/vaultsource/7903784992845-2.webp",
+      "/products/vaultsource/7903784992845-3.webp",
+      "/products/vaultsource/7903784992845-4.webp",
+      "/products/options/headphones-midnight-main.jpg",
+      "/products/options/headphones-starlight-main.jpg",
+      "/products/options/headphones-orange-main.jpg",
+      "/products/options/headphones-purple-main.jpg",
+      "/products/options/headphones-blue-main.jpg"
+    ],
+    "variants": [
+      "Midnight / USB-C",
+      "Starlight / USB-C",
+      "Blue / USB-C",
+      "Orange / USB-C",
+      "Purple / USB-C"
+    ],
+    "description": "AirPods Max over-ear headphones with cushioned ear cups, a mesh headband and a USB-C connection. Choose Midnight, Starlight, Blue, Orange or Purple.",
+    "pricePence": 12475,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 124.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple AirPods Max, USB-C, 2024 — selected configuration",
+      "retailPence": 49900,
+      "url": "https://images.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/",
+      "basis": "UK launch RRP, September 2024; connector and generation unconfirmed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Midnight",
+          "Starlight",
+          "Blue",
+          "Orange",
+          "Purple"
+        ]
+      },
+      {
+        "name": "Connector",
+        "values": [
+          "USB-C"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Midnight / USB-C",
+        "values": {
+          "Colour": "Midnight",
+          "Connector": "USB-C"
+        },
+        "retailPence": 49900,
+        "pricePence": 12475,
+        "images": [
+          "/products/options/headphones-midnight-main.jpg"
+        ]
+      },
+      {
+        "label": "Starlight / USB-C",
+        "values": {
+          "Colour": "Starlight",
+          "Connector": "USB-C"
+        },
+        "retailPence": 49900,
+        "pricePence": 12475,
+        "images": [
+          "/products/options/headphones-starlight-main.jpg"
+        ]
+      },
+      {
+        "label": "Blue / USB-C",
+        "values": {
+          "Colour": "Blue",
+          "Connector": "USB-C"
+        },
+        "retailPence": 49900,
+        "pricePence": 12475,
+        "images": [
+          "/products/options/headphones-blue-main.jpg"
+        ]
+      },
+      {
+        "label": "Orange / USB-C",
+        "values": {
+          "Colour": "Orange",
+          "Connector": "USB-C"
+        },
+        "retailPence": 49900,
+        "pricePence": 12475,
+        "images": [
+          "/products/options/headphones-orange-main.jpg"
+        ]
+      },
+      {
+        "label": "Purple / USB-C",
+        "values": {
+          "Colour": "Purple",
+          "Connector": "USB-C"
+        },
+        "retailPence": 49900,
+        "pricePence": 12475,
+        "images": [
+          "/products/options/headphones-purple-main.jpg"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Midnight / USB-C"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Midnight / USB-C",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/headphones-midnight-main.jpg",
+        "colour": "Midnight",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/headphones-starlight-main.jpg",
+        "colour": "Starlight",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/headphones-orange-main.jpg",
+        "colour": "Orange",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/headphones-purple-main.jpg",
+        "colour": "Purple",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/headphones-blue-main.jpg",
+        "colour": "Blue",
+        "view": "Main"
+      }
+    ]
+  },
+  {
+    "id": "apple-watch-3-smartwatch-49mm",
+    "name": "Apple Watch 3 Smartwatch 49mm",
+    "category": "Watches",
+    "image": "/products/apple-watch-3-smartwatch-49mm.png",
+    "cardImage": "/products/apple-watch-3-smartwatch-49mm.png",
+    "images": [
+      "/products/apple-watch-3-smartwatch-49mm.png"
+    ],
+    "variants": [
+      "Black",
+      "White",
+      "Orange",
+      "Blue",
+      "Green"
+    ],
+    "description": "A 49mm smartwatch with a rectangular display and a sporty strap design. Choose Black, White, Orange, Blue or Green to suit your everyday look.",
+    "price": 120,
+    "eyebrow": "Watches",
+    "sourceTitle": "Apple Watch 3 Smartwatch 49mm",
+    "sourceUrl": null,
+    "legacy": true,
+    "pricePence": 12000,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 120,
+        "minimum": 1
+      }
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black",
+          "White",
+          "Orange",
+          "Blue",
+          "Green"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black",
+        "values": {
+          "Colour": "Black"
+        },
+        "pricePence": 12000,
+        "retailPence": null
+      },
+      {
+        "label": "White",
+        "values": {
+          "Colour": "White"
+        },
+        "pricePence": 12000,
+        "retailPence": null
+      },
+      {
+        "label": "Orange",
+        "values": {
+          "Colour": "Orange"
+        },
+        "pricePence": 12000,
+        "retailPence": null
+      },
+      {
+        "label": "Blue",
+        "values": {
+          "Colour": "Blue"
+        },
+        "pricePence": 12000,
+        "retailPence": null
+      },
+      {
+        "label": "Green",
+        "values": {
+          "Colour": "Green"
+        },
+        "pricePence": 12000,
+        "retailPence": null
+      }
+    ],
+    "defaultVariant": "Black",
+    "variantAliases": {},
+    "retailReference": {
+      "name": "Original storefront price",
+      "retailPence": null,
+      "url": null,
+      "basis": "Original prices restored without repricing"
+    },
+    "optionAvailability": "",
+    "originalCategory": "Watches",
+    "galleryAssets": []
+  },
+  {
+    "id": "belt",
+    "name": "Louis Vuitton LV Initials reversible belt",
+    "sourceTitle": "BELT",
+    "sourceUrl": "https://vaultsource.us/products/belt",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7904194887757-1.webp",
+    "cardImage": "/products/vaultsource/7904194887757-1.webp",
+    "images": [
+      "/products/vaultsource/7904194887757-1.webp"
+    ],
+    "variants": [
+      "Monogram Eclipse Reverse / 100 cm"
+    ],
+    "description": "A dark Monogram Eclipse Reverse belt with a silver-tone LV Initials buckle. The reversible design offers two coordinated looks, with the listed 100 cm size available to select.",
+    "pricePence": 11125,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 111.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "LV Initials 40 mm reversible belt, Monogram Eclipse Reverse, M0285S",
+      "retailPence": 44500,
+      "url": "https://uk.louisvuitton.com/eng-gb/products/lv-initials-40mm-reversible-belt-nvprod2370004v/M0285S",
+      "basis": "Manufacturer retail reference; exact canvas and size unconfirmed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Finish",
+        "values": [
+          "Monogram Eclipse Reverse"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "100 cm"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Monogram Eclipse Reverse / 100 cm",
+        "values": {
+          "Finish": "Monogram Eclipse Reverse",
+          "Size": "100 cm"
+        },
+        "retailPence": 44500,
+        "pricePence": 11125
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Monogram Eclipse Reverse / 100 cm"
+    },
+    "optionSource": "https://uk.louisvuitton.com/eng-gb/products/lv-initials-40mm-reversible-belt-nvprod2370004v/M0285S",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Monogram Eclipse Reverse / 100 cm",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "spdr-hoodie",
+    "name": "Sp5der P*NK hoodie, black",
+    "sourceTitle": "SPDR HOODIE",
+    "sourceUrl": "https://vaultsource.us/products/spdr-hoodie",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7905355006029-1.png",
+    "cardImage": "/products/vaultsource/7905355006029-1.png",
+    "images": [
+      "/products/vaultsource/7905355006029-1.png"
+    ],
+    "variants": [
+      "Black / Confirm size"
+    ],
+    "description": "A black Sp5der P*NK pullover hoodie with a bold pink graphic and contrasting web-inspired details. A casual layer with a hood, long sleeves and a front pouch pocket.",
+    "pricePence": 10375,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 103.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Sp5der P*NK hoodie, black",
+      "retailPence": 41500,
+      "url": "https://sidekicks.co.uk/products/sp5der-p-nk-hoodie-black",
+      "basis": "UK retailer listing",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "Confirm size"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / Confirm size",
+        "values": {
+          "Colour": "Black",
+          "Size": "Confirm size"
+        },
+        "retailPence": 41500,
+        "pricePence": 10375
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black / Confirm size"
+    },
+    "optionSource": "https://sidekicks.co.uk/products/sp5der-p-nk-hoodie-black",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / Confirm size",
+    "originalCategory": "Clothing",
+    "galleryAssets": []
+  },
+  {
+    "id": "sun-glasses",
+    "name": "Prada PR17WS sunglasses",
+    "sourceTitle": "SUN GLASSES",
+    "sourceUrl": "https://vaultsource.us/products/sun-glasses",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7904195412045-1.webp",
+    "cardImage": "/products/vaultsource/7904195412045-1.webp",
+    "images": [
+      "/products/vaultsource/7904195412045-1.webp"
+    ],
+    "variants": [
+      "Black / Grey"
+    ],
+    "description": "Prada PR17WS sunglasses with a black rectangular frame, broad temples and grey lenses. The angular shape gives the design a bold, structured finish.",
+    "pricePence": 9900,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 99,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Prada PR17WS 1AB5S0, black/grey",
+      "retailPence": 39600,
+      "url": "https://www.visionexpress.com/sunglasses/prada-pr-17ws-1ab5s0/8056597418478",
+      "basis": "UK retailer listing",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Frame",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Lens",
+        "values": [
+          "Grey"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / Grey",
+        "values": {
+          "Frame": "Black",
+          "Lens": "Grey"
+        },
+        "retailPence": 39600,
+        "pricePence": 9900
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black / Grey"
+    },
+    "optionSource": "https://www.visionexpress.com/sunglasses/prada-pr-17ws-1ab5s0/8056597418478",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / Grey",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "wallet-1",
+    "name": "Louis Vuitton Multiple Wallet, Damier Graphite",
+    "sourceTitle": "WALLET",
+    "sourceUrl": "https://vaultsource.us/products/wallet-1",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7904194396237-1.png",
+    "cardImage": "/products/vaultsource/7904194396237-1.png",
+    "images": [
+      "/products/vaultsource/7904194396237-1.png"
+    ],
+    "variants": [
+      "Damier Graphite"
+    ],
+    "description": "A Louis Vuitton Multiple Wallet in dark Damier Graphite canvas. The bifold format keeps cards and notes together in a compact design for everyday carry.",
+    "pricePence": 9625,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 96.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Louis Vuitton Multiple Wallet, Damier Graphite, N62663",
+      "retailPence": 38500,
+      "url": "https://uk.louisvuitton.com/eng-gb/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/damier-graphite-canvas/_/N-t1iazbp7-au17lqk2v",
+      "basis": "Manufacturer retail listing",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Canvas",
+        "values": [
+          "Damier Graphite"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Damier Graphite",
+        "values": {
+          "Canvas": "Damier Graphite"
+        },
+        "retailPence": 38500,
+        "pricePence": 9625
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Damier Graphite"
+    },
+    "optionSource": "https://uk.louisvuitton.com/eng-gb/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/damier-graphite-canvas/_/N-t1iazbp7-au17lqk2v",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Damier Graphite",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "bcrt",
+    "name": "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait",
+    "sourceTitle": "BCRT",
+    "sourceUrl": "https://vaultsource.us/products/bcrt",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904046350413-1.webp",
+    "cardImage": "/products/vaultsource/7904046350413-1.webp",
+    "images": [
+      "/products/vaultsource/7904046350413-1.webp"
+    ],
+    "variants": [
+      "70 ml / Extrait de Parfum"
+    ],
+    "description": "Baccarat Rouge 540 Extrait de Parfum in a 70 ml bottle. A woody, amber and floral fragrance presented in a deep red bottle with gold-tone details.",
+    "pricePence": 9375,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 93.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait, 70 ml",
+      "retailPence": 37500,
+      "url": "https://www.franciskurkdjian.com/uk-en/p/baccarat-rouge-540-extrait-de-parfum-RA142321.html",
+      "basis": "Manufacturer retail reference; assumed 70 ml Extrait",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "70 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Extrait de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "70 ml / Extrait de Parfum",
+        "values": {
+          "Bottle size": "70 ml",
+          "Concentration": "Extrait de Parfum"
+        },
+        "retailPence": 37500,
+        "pricePence": 9375
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "70 ml / Extrait de Parfum"
+    },
+    "optionSource": "https://www.franciskurkdjian.com/uk-en/p/baccarat-rouge-540-extrait-de-parfum-RA142321.html",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "70 ml / Extrait de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "cologne",
+    "name": "Creed Aventus",
+    "sourceTitle": "CRD",
+    "sourceUrl": "https://vaultsource.us/products/cologne",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904123027533-1.png",
+    "cardImage": "/products/vaultsource/7904123027533-1.png",
+    "images": [
+      "/products/vaultsource/7904123027533-1.png"
+    ],
+    "variants": [
+      "100 ml / Eau de Parfum",
+      "30 ml / Eau de Parfum",
+      "50 ml / Eau de Parfum",
+      "240 ml / Eau de Parfum",
+      "490 ml / Eau de Parfum",
+      "980 ml / Eau de Parfum"
+    ],
+    "description": "Creed Aventus Eau de Parfum blends a fresh citrus opening with fruity and woody notes. Choose your bottle size from the available options.",
+    "pricePence": 7750,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 77.5,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Creed Aventus — selected configuration",
+      "retailPence": 31000,
+      "url": "https://www.creedfragrances.co.uk/products/aventus",
+      "basis": "Manufacturer retail reference; assumed 100 ml",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml",
+          "30 ml",
+          "50 ml",
+          "240 ml",
+          "490 ml",
+          "980 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 31000,
+        "pricePence": 7750
+      },
+      {
+        "label": "30 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "30 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": null,
+        "pricePence": null
+      },
+      {
+        "label": "50 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "50 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": null,
+        "pricePence": null
+      },
+      {
+        "label": "240 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "240 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": null,
+        "pricePence": null
+      },
+      {
+        "label": "490 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "490 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": null,
+        "pricePence": null
+      },
+      {
+        "label": "980 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "980 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Parfum"
+    },
+    "optionSource": "https://www.creedfragrances.co.uk/products/aventus",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "airpod-pro-3",
+    "name": "AirPod Pro 3",
+    "category": "Electronics",
+    "image": "/products/airpods-render.jpeg",
+    "cardImage": "/products/airpods-line.jpeg",
+    "images": [
+      "/products/airpods-render.jpeg",
+      "/products/airpods-stock-slide-1.jpeg",
+      "/products/airpods-stock-slide-2.jpeg",
+      "/products/airpods-box-stock.jpeg"
+    ],
+    "variants": [
+      "White",
+      "Retail Box"
+    ],
+    "description": "White in-ear wireless earphones with a compact charging case and a simple everyday design. Choose the listed White or Retail Box option; reseller pricing applies from four units.",
+    "price": 75,
+    "reseller": 45,
+    "minimum": 4,
+    "eyebrow": "Electronics",
+    "sourceTitle": "AirPod Pro 3",
+    "sourceUrl": null,
+    "legacy": true,
+    "pricePence": 7500,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 75,
+        "minimum": 1
+      },
+      "reseller": {
+        "label": "Reseller price",
+        "price": 45,
+        "minimum": 4
+      }
+    },
+    "optionGroups": [
+      {
+        "name": "Option",
+        "values": [
+          "White",
+          "Retail Box"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "White",
+        "values": {
+          "Option": "White"
+        },
+        "pricePence": 7500,
+        "retailPence": null
+      },
+      {
+        "label": "Retail Box",
+        "values": {
+          "Option": "Retail Box"
+        },
+        "pricePence": 7500,
+        "retailPence": null
+      }
+    ],
+    "defaultVariant": "White",
+    "variantAliases": {},
+    "retailReference": {
+      "name": "Original storefront price",
+      "retailPence": null,
+      "url": null,
+      "basis": "Original prices restored without repricing"
+    },
+    "optionAvailability": "",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "fragrance",
+    "name": "Louis Vuitton Imagination",
+    "sourceTitle": "IMGN",
+    "sourceUrl": "https://vaultsource.us/products/fragrance",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904079052877-1.png",
+    "cardImage": "/products/vaultsource/7904079052877-1.png",
+    "images": [
+      "/products/vaultsource/7904079052877-1.png"
+    ],
+    "variants": [
+      "100 ml / Eau de Parfum"
+    ],
+    "description": "Louis Vuitton Imagination Eau de Parfum in a 100 ml bottle. A fresh citrus and amber fragrance presented in a pale blue bottle with a black cap.",
+    "pricePence": 6625,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 66.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Louis Vuitton Imagination, 100 ml, LP0476",
+      "retailPence": 26500,
+      "url": "https://uk.louisvuitton.com/eng-gb/products/imagination-nvprod7340011v/LP0476",
+      "basis": "Manufacturer retail reference; assumed 100 ml",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 26500,
+        "pricePence": 6625
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Parfum"
+    },
+    "optionSource": "https://uk.louisvuitton.com/eng-gb/products/imagination-nvprod7340011v/LP0476",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "fragrance-1",
+    "name": "Louis Vuitton Pacific Chill",
+    "sourceTitle": "PCF CHL",
+    "sourceUrl": "https://vaultsource.us/products/fragrance-1",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904097402957-1.png",
+    "cardImage": "/products/vaultsource/7904097402957-1.png",
+    "images": [
+      "/products/vaultsource/7904097402957-1.png"
+    ],
+    "variants": [
+      "100 ml / Eau de Parfum"
+    ],
+    "description": "Louis Vuitton Pacific Chill Eau de Parfum in a 100 ml bottle. A fresh, fruity fragrance presented in a green-toned bottle with a black cap.",
+    "pricePence": 6625,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 66.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Louis Vuitton Pacific Chill, 100 ml, LP0460",
+      "retailPence": 26500,
+      "url": "https://uk.louisvuitton.com/eng-gb/products/pacific-chill-perfume-nvprod7220018v/LP0460",
+      "basis": "Manufacturer retail reference; assumed 100 ml",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 26500,
+        "pricePence": 6625
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Parfum"
+    },
+    "optionSource": "https://uk.louisvuitton.com/eng-gb/products/pacific-chill-perfume-nvprod7220018v/LP0460",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "earbuds-inspired-by-apple®-airpods-pro-2-special-sale",
+    "name": "Apple AirPods Pro 2, USB-C",
+    "sourceTitle": "EARBUDS",
+    "sourceUrl": "https://vaultsource.us/products/earbuds-inspired-by-apple%C2%AE-airpods-pro-2-special-sale",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903783518285-1.png",
+    "cardImage": "/products/vaultsource/7903783518285-1.png",
+    "images": [
+      "/products/vaultsource/7903783518285-1.png"
+    ],
+    "variants": [
+      "White / USB-C"
+    ],
+    "description": "White AirPods Pro 2-style in-ear earbuds with silicone tips and a compact USB-C charging case. The in-ear format offers a snug fit for everyday listening.",
+    "pricePence": 5725,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 57.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple AirPods Pro 2, USB-C",
+      "retailPence": 22900,
+      "url": "https://www.apple.com/uk-business/shop/buy-airpods/airpods-pro-2",
+      "basis": "Manufacturer UK listed retail reference; generation and connector assumed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "White"
+        ]
+      },
+      {
+        "name": "Connector",
+        "values": [
+          "USB-C"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "White / USB-C",
+        "values": {
+          "Colour": "White",
+          "Connector": "USB-C"
+        },
+        "retailPence": 22900,
+        "pricePence": 5725
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "White / USB-C"
+    },
+    "optionSource": "https://www.apple.com/uk-business/shop/buy-airpods/airpods-pro-2",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "White / USB-C",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "ai-smart-glasses",
+    "name": "Ray-Ban Meta Wayfarer",
+    "sourceTitle": "AI GLASSES",
+    "sourceUrl": "https://vaultsource.us/products/ai-smart-glasses",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903786565709-1.webp",
+    "cardImage": "/products/vaultsource/7903786565709-1.webp",
+    "images": [
+      "/products/vaultsource/7903786565709-1.webp"
+    ],
+    "variants": [
+      "Black Wayfarer / Non-polarised / Gen 1"
+    ],
+    "description": "Ray-Ban Meta Wayfarer-style smart glasses in Black with non-polarised lenses. A classic frame shape with integrated camera detailing.",
+    "pricePence": 5600,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 56,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Ray-Ban Meta Wayfarer, generation 1, non-polarised lenses",
+      "retailPence": 22400,
+      "url": "https://www.ray-ban.com/uk/ray-ban-meta-ai-glasses-gen-1",
+      "basis": "Manufacturer retail reference; generation and lenses assumed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Frame",
+        "values": [
+          "Black Wayfarer"
+        ]
+      },
+      {
+        "name": "Lens",
+        "values": [
+          "Non-polarised"
+        ]
+      },
+      {
+        "name": "Generation",
+        "values": [
+          "Gen 1"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black Wayfarer / Non-polarised / Gen 1",
+        "values": {
+          "Frame": "Black Wayfarer",
+          "Lens": "Non-polarised",
+          "Generation": "Gen 1"
+        },
+        "retailPence": 22400,
+        "pricePence": 5600
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black Wayfarer / Non-polarised / Gen 1"
+    },
+    "optionSource": "https://www.ray-ban.com/uk/ray-ban-meta-ai-glasses-gen-1",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black Wayfarer / Non-polarised / Gen 1",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "tf-cologne-1",
+    "name": "Tom Ford Lost Cherry Eau de Parfum",
+    "sourceTitle": "TF",
+    "sourceUrl": "https://vaultsource.us/products/tf-cologne-1",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904175521869-1.webp",
+    "cardImage": "/products/vaultsource/7904175521869-1.webp",
+    "images": [
+      "/products/vaultsource/7904175521869-1.webp"
+    ],
+    "variants": [
+      "50 ml / Eau de Parfum",
+      "30 ml / Eau de Parfum",
+      "100 ml / Eau de Parfum"
+    ],
+    "description": "Tom Ford Lost Cherry Eau de Parfum combines a cherry-led fruity character with warm amber notes. Choose a 30 ml, 50 ml or 100 ml bottle.",
+    "pricePence": 4700,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 47,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Tom Ford Lost Cherry Eau de Parfum — selected configuration",
+      "retailPence": 18800,
+      "url": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum",
+      "basis": "Manufacturer retail reference; assumed 50 ml",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "50 ml",
+          "30 ml",
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "50 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "50 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 29000,
+        "pricePence": 7250
+      },
+      {
+        "label": "30 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "30 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 18800,
+        "pricePence": 4700
+      },
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 39500,
+        "pricePence": 9875
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "50 ml / Eau de Parfum"
+    },
+    "optionSource": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "30 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "brick-set",
+    "name": "LEGO Technic Porsche 911 RSR",
+    "sourceTitle": "BRICK SET",
+    "sourceUrl": "https://vaultsource.us/products/brick-set",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7904191152205-1.jpg",
+    "cardImage": "/products/vaultsource/7904191152205-1.jpg",
+    "images": [
+      "/products/vaultsource/7904191152205-1.jpg"
+    ],
+    "variants": [
+      "Porsche 911 RSR 42096"
+    ],
+    "description": "The LEGO Technic Porsche 911 RSR 42096 is a 1,580-piece racing-car construction set. Its white, red and black bodywork includes a large rear wing and detailed racing-inspired styling.",
+    "pricePence": 4250,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 42.5,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "LEGO Technic Porsche 911 RSR, 42096, 1,580 pieces",
+      "retailPence": 16999,
+      "url": "https://www.lego.com/en-gb/product/porsche-911-rsr-42096",
+      "basis": "Retired product; last manufacturer listed retail price",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Model",
+        "values": [
+          "Porsche 911 RSR 42096"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Porsche 911 RSR 42096",
+        "values": {
+          "Model": "Porsche 911 RSR 42096"
+        },
+        "retailPence": 16999,
+        "pricePence": 4250
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Porsche 911 RSR 42096"
+    },
+    "optionSource": "https://www.lego.com/en-gb/product/porsche-911-rsr-42096",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Porsche 911 RSR 42096",
+    "originalCategory": "Collectibles",
+    "galleryAssets": []
+  },
+  {
+    "id": "dnm-hoodie",
+    "name": "Denim Tears Cotton Wreath hoodie",
+    "sourceTitle": "DNM HOODIE",
+    "sourceUrl": "https://vaultsource.us/products/dnm-hoodie",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/options/dnm-hoodie-black-main.jpg",
+    "cardImage": "/products/options/dnm-hoodie-black-main.jpg",
+    "images": [
+      "/products/vaultsource/7905350680653-1.png",
+      "/products/vaultsource/7905350680653-2.png",
+      "/products/options/dnm-hoodie-black-main.jpg",
+      "/products/options/dnm-hoodie-black-detail-1.jpg"
+    ],
+    "variants": [
+      "Black / XS",
+      "Black / S",
+      "Black / M",
+      "Black / L",
+      "Grey / XS",
+      "Grey / S",
+      "Grey / M",
+      "Grey / L",
+      "Blue / XS",
+      "Blue / S",
+      "Blue / M",
+      "Blue / L"
+    ],
+    "description": "A Denim Tears cotton wreath pullover hoodie with an all-over wreath motif, long sleeves and a front pocket. Choose Black, Grey or Blue in sizes XS, S, M or L.",
+    "pricePence": 4125,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 41.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Denim Tears Cotton Wreath hoodie — selected configuration",
+      "retailPence": 16500,
+      "url": "https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-black-ss26-aothd1303",
+      "basis": "UK retailer listing; black reference used across colours",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black",
+          "Grey",
+          "Blue"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / XS",
+        "values": {
+          "Colour": "Black",
+          "Size": "XS"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125,
+        "images": [
+          "/products/options/dnm-hoodie-black-main.jpg",
+          "/products/options/dnm-hoodie-black-detail-1.jpg"
+        ]
+      },
+      {
+        "label": "Black / S",
+        "values": {
+          "Colour": "Black",
+          "Size": "S"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125,
+        "images": [
+          "/products/options/dnm-hoodie-black-main.jpg",
+          "/products/options/dnm-hoodie-black-detail-1.jpg"
+        ]
+      },
+      {
+        "label": "Black / M",
+        "values": {
+          "Colour": "Black",
+          "Size": "M"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125,
+        "images": [
+          "/products/options/dnm-hoodie-black-main.jpg",
+          "/products/options/dnm-hoodie-black-detail-1.jpg"
+        ]
+      },
+      {
+        "label": "Black / L",
+        "values": {
+          "Colour": "Black",
+          "Size": "L"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125,
+        "images": [
+          "/products/options/dnm-hoodie-black-main.jpg",
+          "/products/options/dnm-hoodie-black-detail-1.jpg"
+        ]
+      },
+      {
+        "label": "Grey / XS",
+        "values": {
+          "Colour": "Grey",
+          "Size": "XS"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Grey / S",
+        "values": {
+          "Colour": "Grey",
+          "Size": "S"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Grey / M",
+        "values": {
+          "Colour": "Grey",
+          "Size": "M"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Grey / L",
+        "values": {
+          "Colour": "Grey",
+          "Size": "L"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Blue / XS",
+        "values": {
+          "Colour": "Blue",
+          "Size": "XS"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Blue / S",
+        "values": {
+          "Colour": "Blue",
+          "Size": "S"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Blue / M",
+        "values": {
+          "Colour": "Blue",
+          "Size": "M"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      },
+      {
+        "label": "Blue / L",
+        "values": {
+          "Colour": "Blue",
+          "Size": "L"
+        },
+        "retailPence": 16500,
+        "pricePence": 4125
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/dnm-hoodie",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / XS",
+    "originalCategory": "Clothing",
+    "galleryAssets": [
+      {
+        "path": "/products/options/dnm-hoodie-black-main.jpg",
+        "colour": "Black",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/dnm-hoodie-black-detail-1.jpg",
+        "colour": "Black",
+        "view": "Detail 1"
+      }
+    ]
+  },
+  {
+    "id": "earbuds",
+    "name": "Apple AirPods 4",
+    "sourceTitle": "Earbuds",
+    "sourceUrl": "https://vaultsource.us/products/earbuds",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903787286605-1.png",
+    "cardImage": "/products/vaultsource/7903787286605-1.png",
+    "images": [
+      "/products/vaultsource/7903787286605-1.png"
+    ],
+    "variants": [
+      "White / Standard",
+      "White / Active Noise Cancellation"
+    ],
+    "description": "White open-fit AirPods 4 with a compact charging case. Choose the Standard model or the Active Noise Cancellation option to suit your listening preferences.",
+    "pricePence": 3225,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 32.25,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple AirPods 4 — selected configuration",
+      "retailPence": 12900,
+      "url": "https://images.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/",
+      "basis": "UK launch RRP, September 2024; base model reference",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "White"
+        ]
+      },
+      {
+        "name": "Model",
+        "values": [
+          "Standard",
+          "Active Noise Cancellation"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "White / Standard",
+        "values": {
+          "Colour": "White",
+          "Model": "Standard"
+        },
+        "retailPence": 12900,
+        "pricePence": 3225
+      },
+      {
+        "label": "White / Active Noise Cancellation",
+        "values": {
+          "Colour": "White",
+          "Model": "Active Noise Cancellation"
+        },
+        "retailPence": 17900,
+        "pricePence": 4475
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "White / Standard"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "White / Standard",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "bdc-fragrance",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "sourceTitle": "BDC",
+    "sourceUrl": "https://vaultsource.us/products/bdc-fragrance",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904133840973-1.webp",
+    "cardImage": "/products/vaultsource/7904133840973-1.webp",
+    "images": [
+      "/products/vaultsource/7904133840973-1.webp"
+    ],
+    "variants": [
+      "100 ml / Eau de Parfum"
+    ],
+    "description": "Bleu de Chanel Eau de Parfum in a 100 ml spray bottle. An aromatic woody fragrance with amber and musky notes, presented in a dark square bottle.",
+    "pricePence": 3200,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 32,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Bleu de Chanel Eau de Parfum, 100 ml",
+      "retailPence": 12800,
+      "url": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+      "basis": "Manufacturer retail reference; assumed 100 ml EDP",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 12800,
+        "pricePence": 3200
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Parfum"
+    },
+    "optionSource": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "jpg-fragrance",
+    "name": "Jean Paul Gaultier Le Male Le Parfum",
+    "sourceTitle": "JP",
+    "sourceUrl": "https://vaultsource.us/products/jpg-fragrance",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904059949133-1.webp",
+    "cardImage": "/products/vaultsource/7904059949133-1.webp",
+    "images": [
+      "/products/vaultsource/7904059949133-1.webp"
+    ],
+    "variants": [
+      "125 ml / Le Parfum"
+    ],
+    "description": "Jean Paul Gaultier Le Male Le Parfum in a 125 ml bottle. A warm, woody amber fragrance presented in the signature dark torso-shaped bottle with gold-tone details.",
+    "pricePence": 2800,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 28,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Jean Paul Gaultier Le Male Le Parfum, 125 ml",
+      "retailPence": 11200,
+      "url": "https://www.jeanpaulgaultier.com/uk/en/p/range-le-male/le-male-le-parfum-eau-de-parfum-intense-000000000065156533",
+      "basis": "Manufacturer retail reference; assumed 125 ml Le Parfum",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "125 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Le Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "125 ml / Le Parfum",
+        "values": {
+          "Bottle size": "125 ml",
+          "Concentration": "Le Parfum"
+        },
+        "retailPence": 11200,
+        "pricePence": 2800
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "125 ml / Le Parfum"
+    },
+    "optionSource": "https://www.jeanpaulgaultier.com/uk/en/p/range-le-male/le-male-le-parfum-eau-de-parfum-intense-000000000065156533",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "125 ml / Le Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "vrsc",
+    "name": "Versace Eros Eau de Toilette",
+    "sourceTitle": "VRSC",
+    "sourceUrl": "https://vaultsource.us/products/vrsc",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904140591181-1.png",
+    "cardImage": "/products/vaultsource/7904140591181-1.png",
+    "images": [
+      "/products/vaultsource/7904140591181-1.png"
+    ],
+    "variants": [
+      "100 ml / Eau de Toilette"
+    ],
+    "description": "Versace Eros Eau de Toilette in a 100 ml bottle. A fresh aromatic fragrance with a warm base, presented in a blue bottle with raised decorative details.",
+    "pricePence": 2400,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 24,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Versace Eros Eau de Toilette, 100 ml",
+      "retailPence": 9600,
+      "url": "https://www.versace.com/gb/en/men/accessories/fragrances-body-care/eros/eros-edt-100-ml-blue/R740010-R100MLS_RNUL.html",
+      "basis": "Manufacturer retail reference; assumed 100 ml EDT",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Toilette"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Toilette",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Toilette"
+        },
+        "retailPence": 9600,
+        "pricePence": 2400
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Toilette"
+    },
+    "optionSource": "https://www.versace.com/gb/en/men/accessories/fragrances-body-care/eros/eros-edt-100-ml-blue/R740010-R100MLS_RNUL.html",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Toilette",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "vltn",
+    "name": "Valentino Uomo Born in Roma",
+    "sourceTitle": "VLTN",
+    "sourceUrl": "https://vaultsource.us/products/vltn",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904129679437-1.webp",
+    "cardImage": "/products/vaultsource/7904129679437-1.webp",
+    "images": [
+      "/products/vaultsource/7904129679437-1.webp"
+    ],
+    "variants": [
+      "100 ml / Eau de Toilette"
+    ],
+    "description": "Valentino Uomo Born in Roma Eau de Toilette in a 100 ml bottle. A woody aromatic fragrance in a dark studded bottle with a contrasting pink label.",
+    "pricePence": 2375,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 23.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Valentino Uomo Born in Roma Eau de Toilette, 100 ml",
+      "retailPence": 9500,
+      "url": "https://www.valentino.com/en-gb/product-born-in-roma-for-him-eau-de-toilette-spray-100-ml-8LB040500_000",
+      "basis": "Manufacturer retail reference; assumed 100 ml EDT",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Toilette"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Toilette",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Toilette"
+        },
+        "retailPence": 9500,
+        "pricePence": 2375
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Toilette"
+    },
+    "optionSource": "https://www.valentino.com/en-gb/product-born-in-roma-for-him-eau-de-toilette-spray-100-ml-8LB040500_000",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "100 ml / Eau de Toilette",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "tf-cologne",
+    "name": "Tom Ford Fucking Fabulous Eau de Parfum",
+    "sourceTitle": "TF",
+    "sourceUrl": "https://vaultsource.us/products/tf-cologne",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904174112845-1.webp",
+    "cardImage": "/products/vaultsource/7904174112845-1.webp",
+    "images": [
+      "/products/vaultsource/7904174112845-1.webp"
+    ],
+    "variants": [
+      "50 ml / Eau de Parfum",
+      "10 ml / Eau de Parfum",
+      "30 ml / Eau de Parfum",
+      "100 ml / Eau de Parfum",
+      "250 ml / Eau de Parfum"
+    ],
+    "description": "Tom Ford Fucking Fabulous Eau de Parfum has a warm leather and amber character. Select a 10 ml, 30 ml, 50 ml, 100 ml or 250 ml format.",
+    "pricePence": 2250,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 22.5,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Tom Ford Fucking Fabulous Eau de Parfum — selected configuration",
+      "retailPence": 9000,
+      "url": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum?size=50_ml",
+      "basis": "Manufacturer retail reference; assumed 50 ml",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "50 ml",
+          "10 ml",
+          "30 ml",
+          "100 ml",
+          "250 ml"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "50 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "50 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 29000,
+        "pricePence": 7250
+      },
+      {
+        "label": "10 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "10 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 9000,
+        "pricePence": 2250
+      },
+      {
+        "label": "30 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "30 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 18800,
+        "pricePence": 4700
+      },
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 39500,
+        "pricePence": 9875
+      },
+      {
+        "label": "250 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "250 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 72000,
+        "pricePence": 18000
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "50 ml / Eau de Parfum"
+    },
+    "optionSource": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum?size=50_ml",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "10 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "backpack",
+    "name": "Nike Hoops Elite 32L backpack",
+    "sourceTitle": "BACKPACK",
+    "sourceUrl": "https://vaultsource.us/products/backpack",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7904189710413-1.png",
+    "cardImage": "/products/vaultsource/7904189710413-1.png",
+    "images": [
+      "/products/vaultsource/7904189710413-1.png"
+    ],
+    "variants": [
+      "Black / 32 L"
+    ],
+    "description": "A black Nike Hoops Elite basketball backpack with a 32-litre capacity and multiple zipped compartments. A practical shape for carrying kit, clothing and everyday essentials.",
+    "pricePence": 1700,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 17,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Nike Hoops Elite 32L, DX9786-010",
+      "retailPence": 6799,
+      "url": "https://www.bstn.com/uk_en/p/nike-nike-hoops-elite-backpack-32l-dx9786-010-0296914",
+      "basis": "UK retailer listed price; sold out",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Capacity",
+        "values": [
+          "32 L"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / 32 L",
+        "values": {
+          "Colour": "Black",
+          "Capacity": "32 L"
+        },
+        "retailPence": 6799,
+        "pricePence": 1700
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black / 32 L"
+    },
+    "optionSource": "https://www.bstn.com/uk_en/p/nike-nike-hoops-elite-backpack-32l-dx9786-010-0296914",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / 32 L",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "fragrance-2",
+    "name": "Yves Saint Laurent Y Eau de Parfum",
+    "sourceTitle": "VSL",
+    "sourceUrl": "https://vaultsource.us/products/fragrance-2",
+    "eyebrow": "Perfumes",
+    "category": "Perfumes",
+    "image": "/products/vaultsource/7904171753549-1.webp",
+    "cardImage": "/products/vaultsource/7904171753549-1.webp",
+    "images": [
+      "/products/vaultsource/7904171753549-1.webp"
+    ],
+    "variants": [
+      "100 ml / Eau de Parfum",
+      "40 ml / Eau de Parfum",
+      "60 ml / Eau de Parfum",
+      "200 ml / Eau de Parfum",
+      "150 ml refill / Eau de Parfum"
+    ],
+    "description": "Yves Saint Laurent Y Eau de Parfum is a fresh, woody aromatic fragrance in a blue-toned bottle. Choose a spray-bottle size or the 150 ml refill option.",
+    "pricePence": 1650,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 16.5,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Yves Saint Laurent Y Eau de Parfum — selected configuration",
+      "retailPence": 6600,
+      "url": "https://www.yslbeauty.co.uk/icons/novelties/refill/y-eau-de-parfum/3614274057348.html?geo=false",
+      "basis": "Manufacturer retail reference; assumed 100 ml EDP",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Bottle size",
+        "values": [
+          "100 ml",
+          "40 ml",
+          "60 ml",
+          "200 ml",
+          "150 ml refill"
+        ]
+      },
+      {
+        "name": "Concentration",
+        "values": [
+          "Eau de Parfum"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "100 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "100 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 11500,
+        "pricePence": 2875
+      },
+      {
+        "label": "40 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "40 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 6600,
+        "pricePence": 1650
+      },
+      {
+        "label": "60 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "60 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 8500,
+        "pricePence": 2125
+      },
+      {
+        "label": "200 ml / Eau de Parfum",
+        "values": {
+          "Bottle size": "200 ml",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 15900,
+        "pricePence": 3975
+      },
+      {
+        "label": "150 ml refill / Eau de Parfum",
+        "values": {
+          "Bottle size": "150 ml refill",
+          "Concentration": "Eau de Parfum"
+        },
+        "retailPence": 13500,
+        "pricePence": 3375
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "100 ml / Eau de Parfum"
+    },
+    "optionSource": "https://www.yslbeauty.co.uk/icons/novelties/refill/y-eau-de-parfum/3614274057348.html?geo=false",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "40 ml / Eau de Parfum",
+    "originalCategory": "Fragrance",
+    "galleryAssets": []
+  },
+  {
+    "id": "shirt",
+    "name": "camouflage designer graphic T-shirt",
+    "sourceTitle": "SHIRT",
+    "sourceUrl": "https://vaultsource.us/products/shirt",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7904195805261-1.webp",
+    "cardImage": "/products/vaultsource/7904195805261-1.webp",
+    "images": [
+      "/products/vaultsource/7904195805261-1.webp"
+    ],
+    "variants": [
+      "Black / red graphic / Confirm size"
+    ],
+    "description": "A black crew-neck T-shirt with a red camouflage ape-head graphic. The short-sleeved design is a casual addition to an everyday wardrobe; contact us to confirm your size.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Exact design and UK retail price need confirmation",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black / red graphic"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "Confirm size"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Black / red graphic / Confirm size",
+        "values": {
+          "Colour": "Black / red graphic",
+          "Size": "Confirm size"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Black / red graphic / Confirm size"
+    },
+    "optionSource": "https://vaultsource.us/products/shirt",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Black / red graphic / Confirm size",
+    "originalCategory": "Clothing",
+    "galleryAssets": []
+  },
+  {
+    "id": "lv1-bundle-pack",
+    "name": "designer leather accessories bundle",
+    "sourceTitle": "LV1 BUNDLE PACK",
+    "sourceUrl": "https://vaultsource.us/products/lv1-bundle-pack",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7903830900813-1.png",
+    "cardImage": "/products/vaultsource/7903830900813-1.png",
+    "images": [
+      "/products/vaultsource/7903830900813-1.png",
+      "/products/vaultsource/7903830900813-2.png",
+      "/products/vaultsource/7903830900813-3.png"
+    ],
+    "variants": [
+      "Pictured style"
+    ],
+    "description": "A selection of patterned belts, wallets and small leather accessories. Contact us to choose the items, sizes and quantities for your bundle.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Bundle contents and quantities must be specified",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Selection",
+        "values": [
+          "Pictured style"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured style",
+        "values": {
+          "Selection": "Pictured style"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/lv1-bundle-pack",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured style",
+    "originalCategory": "Bundles",
+    "galleryAssets": []
+  },
+  {
+    "id": "wallet",
+    "name": "Goyard Saint-Sulpice cardholder",
+    "sourceTitle": "WALLET",
+    "sourceUrl": "https://vaultsource.us/products/wallet",
+    "eyebrow": "Designers",
+    "category": "Designers",
+    "image": "/products/vaultsource/7903835848781-1.webp",
+    "cardImage": "/products/vaultsource/7903835848781-1.webp",
+    "images": [
+      "/products/vaultsource/7903835848781-1.webp"
+    ],
+    "variants": [
+      "Green"
+    ],
+    "description": "A slim green patterned cardholder with contrasting card slots. The compact shape keeps essential cards together without the bulk of a full wallet.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Goyard Saint-Sulpice-style design; verifiable UK retail price unavailable",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Green"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Green",
+        "values": {
+          "Colour": "Green"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Green"
+    },
+    "optionSource": "https://vaultsource.us/products/wallet",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Green",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "speaker",
+    "name": "JBL Pulse-style portable speaker",
+    "sourceTitle": "SPEAKER",
+    "sourceUrl": "https://vaultsource.us/products/speaker",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903790760013-1.webp",
+    "cardImage": "/products/vaultsource/7903790760013-1.webp",
+    "images": [
+      "/products/vaultsource/7903790760013-1.webp"
+    ],
+    "variants": [
+      "Pictured finish"
+    ],
+    "description": "An upright portable speaker with a cylindrical body and illuminated design. Contact us to confirm the model, included accessories and availability.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "JBL Pulse 5-style speaker; current UK retail reference needs verification",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Pictured finish"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured finish",
+        "values": {
+          "Colour": "Pictured finish"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Pictured finish"
+    },
+    "optionSource": "https://vaultsource.us/products/speaker",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured finish",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  },
+  {
+    "id": "all-electronics-bundle-best-seller",
+    "name": "mixed consumer electronics bundle",
+    "sourceTitle": "ALL ELECTRONICS BUNDLE",
+    "sourceUrl": "https://vaultsource.us/products/all-electronics-bundle-best-seller",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7903781290061-1.webp",
+    "cardImage": "/products/vaultsource/7903781290061-1.webp",
+    "images": [
+      "/products/vaultsource/7903781290061-1.webp",
+      "/products/vaultsource/7903781290061-2.webp",
+      "/products/vaultsource/7903781290061-3.png",
+      "/products/vaultsource/7903781290061-4.webp"
+    ],
+    "variants": [
+      "Pictured style"
+    ],
+    "description": "A mixed electronics selection covering phones, laptops and audio accessories. Contact us with your preferred models and quantities for a tailored bundle quote.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Exact models, storage, contents and quantities must be specified",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Selection",
+        "values": [
+          "Pictured style"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured style",
+        "values": {
+          "Selection": "Pictured style"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/all-electronics-bundle-best-seller",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured style",
+    "originalCategory": "Bundles",
+    "galleryAssets": []
+  },
+  {
+    "id": "all-clothing-bundle",
+    "name": "mixed designer clothing bundle",
+    "sourceTitle": "CLOTHING BUNDLE",
+    "sourceUrl": "https://vaultsource.us/products/all-clothing-bundle",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7903803113549-1.webp",
+    "cardImage": "/products/vaultsource/7903803113549-1.webp",
+    "images": [
+      "/products/vaultsource/7903803113549-1.webp",
+      "/products/vaultsource/7903803113549-2.webp",
+      "/products/vaultsource/7903803113549-3.png"
+    ],
+    "variants": [
+      "Pictured style"
+    ],
+    "description": "A mixed selection of graphic hoodies, T-shirts and shorts. Send your preferred sizes and colours so the contents of your clothing bundle can be confirmed before ordering.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Designs, sizes, contents and quantities must be specified",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Selection",
+        "values": [
+          "Pictured style"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured style",
+        "values": {
+          "Selection": "Pictured style"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/all-clothing-bundle",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured style",
+    "originalCategory": "Bundles",
+    "galleryAssets": []
+  },
+  {
+    "id": "fragrances-bundle-best-seller",
+    "name": "mixed designer fragrance bundle",
+    "sourceTitle": "FRAGRANCE BUNDLE",
+    "sourceUrl": "https://vaultsource.us/products/fragrances-bundle-best-seller",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7903825363021-1.png",
+    "cardImage": "/products/vaultsource/7903825363021-1.png",
+    "images": [
+      "/products/vaultsource/7903825363021-1.png",
+      "/products/vaultsource/7903825363021-2.webp",
+      "/products/vaultsource/7903825363021-3.webp",
+      "/products/vaultsource/7903825363021-4.webp"
+    ],
+    "variants": [
+      "Pictured style"
+    ],
+    "description": "A selection of fragrance styles for a mixed perfume bundle. Choose your preferred scents and bottle sizes with our team before confirming the contents and price.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Bottle sizes, concentrations, contents and quantities must be specified",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Selection",
+        "values": [
+          "Pictured style"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured style",
+        "values": {
+          "Selection": "Pictured style"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/fragrances-bundle-best-seller",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured style",
+    "originalCategory": "Bundles",
+    "galleryAssets": []
+  },
+  {
+    "id": "starter-bundle-best-seller",
+    "name": "mixed starter products bundle",
+    "sourceTitle": "STARTER BUNDLE",
+    "sourceUrl": "https://vaultsource.us/products/starter-bundle-best-seller",
+    "eyebrow": "Extras",
+    "category": "Extras",
+    "image": "/products/vaultsource/7903771623501-1.png",
+    "cardImage": "/products/vaultsource/7903771623501-1.png",
+    "images": [
+      "/products/vaultsource/7903771623501-1.png"
+    ],
+    "variants": [
+      "Pictured style"
+    ],
+    "description": "A mixed starter selection combining clothing, fragrance and audio accessories. Tell us your preferred items, colours and sizes so we can confirm the bundle contents.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Exact items, sizes and quantities must be specified",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Selection",
+        "values": [
+          "Pictured style"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Pictured style",
+        "values": {
+          "Selection": "Pictured style"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/starter-bundle-best-seller",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Pictured style",
+    "originalCategory": "Bundles",
+    "galleryAssets": []
+  },
+  {
+    "id": "moissanite-watch",
+    "name": "moissanite iced watch",
+    "sourceTitle": "WATCH",
+    "sourceUrl": "https://vaultsource.us/products/moissanite-watch",
+    "eyebrow": "Watches",
+    "category": "Watches",
+    "image": "/products/vaultsource/7903783256141-1.webp",
+    "cardImage": "/products/vaultsource/7903783256141-1.webp",
+    "images": [
+      "/products/vaultsource/7903783256141-1.webp"
+    ],
+    "variants": [
+      "Silver tone / Confirm wrist size"
+    ],
+    "description": "A silver-tone watch with an octagonal bezel and a stone-set bracelet. Contact us to confirm wrist sizing, movement and stone specifications before ordering.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Watch manufacturer, movement, materials and stone specification required",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Finish",
+        "values": [
+          "Silver tone"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "Confirm wrist size"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Silver tone / Confirm wrist size",
+        "values": {
+          "Finish": "Silver tone",
+          "Size": "Confirm wrist size"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Silver tone / Confirm wrist size"
+    },
+    "optionSource": "https://vaultsource.us/products/moissanite-watch",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Silver tone / Confirm wrist size",
+    "originalCategory": "Accessories",
+    "galleryAssets": []
+  },
+  {
+    "id": "budget-oem-electric-bike",
+    "name": "OEM electric bicycle",
+    "sourceTitle": "BUDGET OEM E-BIKES",
+    "sourceUrl": "https://vaultsource.us/products/budget-oem-electric-bike",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7904184205389-1.webp",
+    "cardImage": "/products/vaultsource/7904184205389-1.webp",
+    "images": [
+      "/products/vaultsource/7904184205389-1.webp",
+      "/products/vaultsource/7904184205389-2.webp",
+      "/products/vaultsource/7904184205389-3.webp",
+      "/products/vaultsource/7904184205389-4.webp",
+      "/products/vaultsource/7904184205389-5.webp",
+      "/products/vaultsource/7904184205389-6.webp",
+      "/products/vaultsource/7904184205389-7.webp",
+      "/products/vaultsource/7904184205389-8.webp",
+      "/products/vaultsource/7904184205389-9.webp"
+    ],
+    "variants": [
+      "Sur-Ron Light Bee X",
+      "Talaria MX5 Pro",
+      "Talaria XXX (X3)",
+      "E Ride Pro SS",
+      "SUPER73 Z Adventure",
+      "Sur-Ron Ultra Bee",
+      "Macfox X2",
+      "Ride1Up Revv 1",
+      "Ridstar Q20"
+    ],
+    "description": "Choose from the listed OEM electric-bike styles, including off-road and urban-inspired designs. Battery, motor, dimensions and intended use vary by model; request the specification for your selected bike.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Possible OEM electric bicycle — selected configuration",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Model",
+        "values": [
+          "Sur-Ron Light Bee X",
+          "Talaria MX5 Pro",
+          "Talaria XXX (X3)",
+          "E Ride Pro SS",
+          "SUPER73 Z Adventure",
+          "Sur-Ron Ultra Bee",
+          "Macfox X2",
+          "Ride1Up Revv 1",
+          "Ridstar Q20"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Sur-Ron Light Bee X",
+        "values": {
+          "Model": "Sur-Ron Light Bee X"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-1.webp"
+        ]
+      },
+      {
+        "label": "Talaria MX5 Pro",
+        "values": {
+          "Model": "Talaria MX5 Pro"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-2.webp"
+        ]
+      },
+      {
+        "label": "Talaria XXX (X3)",
+        "values": {
+          "Model": "Talaria XXX (X3)"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-3.webp"
+        ]
+      },
+      {
+        "label": "E Ride Pro SS",
+        "values": {
+          "Model": "E Ride Pro SS"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-4.webp"
+        ]
+      },
+      {
+        "label": "SUPER73 Z Adventure",
+        "values": {
+          "Model": "SUPER73 Z Adventure"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-7.webp"
+        ]
+      },
+      {
+        "label": "Sur-Ron Ultra Bee",
+        "values": {
+          "Model": "Sur-Ron Ultra Bee"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-6.webp"
+        ]
+      },
+      {
+        "label": "Macfox X2",
+        "values": {
+          "Model": "Macfox X2"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-7.webp"
+        ]
+      },
+      {
+        "label": "Ride1Up Revv 1",
+        "values": {
+          "Model": "Ride1Up Revv 1"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-8.webp"
+        ]
+      },
+      {
+        "label": "Ridstar Q20",
+        "values": {
+          "Model": "Ridstar Q20"
+        },
+        "retailPence": null,
+        "pricePence": null,
+        "images": [
+          "/products/vaultsource/7904184205389-9.webp"
+        ]
+      }
+    ],
+    "variantAliases": {},
+    "optionSource": "https://vaultsource.us/products/budget-oem-electric-bike",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Sur-Ron Light Bee X",
+    "originalCategory": "Electric bikes",
+    "galleryAssets": []
+  },
+  {
+    "id": "phone-17-pro-m",
+    "name": "silver iPhone Pro model",
+    "sourceTitle": "PHONE 17 PRO",
+    "sourceUrl": "https://vaultsource.us/products/phone-17-pro-m",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/vaultsource/7903784599629-1.webp",
+    "cardImage": "/products/vaultsource/7903784599629-1.webp",
+    "images": [
+      "/products/vaultsource/7903784599629-1.webp"
+    ],
+    "variants": [
+      "Silver / Confirm exact model"
+    ],
+    "description": "A silver smartphone with a triple rear-camera layout. Contact us to confirm the exact model, storage capacity and available configuration.",
+    "pricePence": null,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": null,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Source title and image conflict; exact model and storage must be confirmed",
+      "retailPence": null,
+      "url": null,
+      "basis": "Pending exact specification or source",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Silver"
+        ]
+      },
+      {
+        "name": "Model",
+        "values": [
+          "Confirm exact model"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Silver / Confirm exact model",
+        "values": {
+          "Colour": "Silver",
+          "Model": "Confirm exact model"
+        },
+        "retailPence": null,
+        "pricePence": null
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Silver / Confirm exact model"
+    },
+    "optionSource": "https://vaultsource.us/products/phone-17-pro-m",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Silver / Confirm exact model",
+    "originalCategory": "Electronics",
+    "galleryAssets": []
+  }
+]

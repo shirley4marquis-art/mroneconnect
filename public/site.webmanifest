@@ -1,0 +1,19 @@
+{
+  "name": "1:1 Connect",
+  "short_name": "1:1 Connect",
+  "description": "Shop electronics, designer clothing, perfumes, watches and accessories with GBP pricing and UK order support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#070707",
+  "icons": [
+    {
+      "src": "/mrconnect-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-GB"
+}

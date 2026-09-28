@@ -1,0 +1,52 @@
+{
+  "rewrites": [
+    {
+      "source": "/products/:id",
+      "destination": "/seo/products/:id.html"
+    },
+    {
+      "source": "/products",
+      "destination": "/seo/products.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/seo/contact.html"
+    },
+    {
+      "source": "/reviews",
+      "destination": "/seo/reviews.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/seo/terms.html"
+    },
+    {
+      "source": "/refund-policy",
+      "destination": "/seo/refund-policy.html"
+    },
+    {
+      "source": "/privacy-policy",
+      "destination": "/seo/privacy-policy.html"
+    },
+    {
+      "source": "/cart",
+      "destination": "/seo/cart.html"
+    },
+    {
+      "source": "/checkout",
+      "destination": "/seo/checkout.html"
+    },
+    {
+      "source": "/login",
+      "destination": "/seo/login.html"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "/seo/dashboard.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

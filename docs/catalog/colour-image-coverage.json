@@ -1,0 +1,370 @@
+[
+  {
+    "product": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "colours": [
+      {
+        "colour": "Cosmic Orange",
+        "matchedImages": []
+      },
+      {
+        "colour": "Silver",
+        "matchedImages": []
+      },
+      {
+        "colour": "Blue",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "laptop",
+    "name": "Apple MacBook Pro M3, 14-inch",
+    "colours": [
+      {
+        "colour": "Silver",
+        "matchedImages": []
+      },
+      {
+        "colour": "Space Grey",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "phone-17-pro",
+    "name": "Apple iPhone 17 Pro",
+    "colours": [
+      {
+        "colour": "Cosmic Orange",
+        "matchedImages": []
+      },
+      {
+        "colour": "Deep Blue",
+        "matchedImages": []
+      },
+      {
+        "colour": "Silver",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "iphone-18-pro-max",
+    "name": "Apple iPhone 18 Pro Max",
+    "colours": [
+      {
+        "colour": "Burgundy",
+        "matchedImages": [
+          "/products/iphone-18-pro-max-burgundy.png",
+          "/products/options/iphone-18-pro-max-burgundy-main.png",
+          "/products/options/iphone-18-pro-max-burgundy--av2.jpg",
+          "/products/options/iphone-18-pro-max-burgundy--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Glacier",
+        "matchedImages": [
+          "/products/options/iphone-18-pro-max-glacier-main.png",
+          "/products/options/iphone-18-pro-max-glacier--av2.jpg",
+          "/products/options/iphone-18-pro-max-glacier--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Silver",
+        "matchedImages": [
+          "/products/options/iphone-18-pro-max-silver-main.png",
+          "/products/options/iphone-18-pro-max-silver--av2.jpg",
+          "/products/options/iphone-18-pro-max-silver--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Black",
+        "matchedImages": [
+          "/products/options/iphone-18-pro-max-black-main.png",
+          "/products/options/iphone-18-pro-max-black--av2.jpg",
+          "/products/options/iphone-18-pro-max-black--av3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "laptop-1",
+    "name": "Apple MacBook Air M2, 13.6-inch",
+    "colours": [
+      {
+        "colour": "Midnight",
+        "matchedImages": []
+      },
+      {
+        "colour": "Starlight",
+        "matchedImages": []
+      },
+      {
+        "colour": "Silver",
+        "matchedImages": []
+      },
+      {
+        "colour": "Space Grey",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "phone",
+    "name": "Samsung Galaxy S24 Ultra",
+    "colours": [
+      {
+        "colour": "Titanium Grey",
+        "matchedImages": [
+          "/products/options/phone-titanium-grey-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Black",
+        "matchedImages": [
+          "/products/options/phone-titanium-black-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Violet",
+        "matchedImages": [
+          "/products/options/phone-titanium-violet-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Yellow",
+        "matchedImages": [
+          "/products/options/phone-titanium-yellow-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Blue",
+        "matchedImages": [
+          "/products/options/phone-titanium-blue-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Orange",
+        "matchedImages": [
+          "/products/options/phone-titanium-orange-main.jpg"
+        ]
+      },
+      {
+        "colour": "Titanium Green",
+        "matchedImages": [
+          "/products/options/phone-titanium-green-main.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "phone-2",
+    "name": "Apple iPhone 16",
+    "colours": [
+      {
+        "colour": "Black",
+        "matchedImages": [
+          "/products/options/phone-2-black-main.png",
+          "/products/options/phone-2-black--av2.jpg",
+          "/products/options/phone-2-black--av3.jpg"
+        ]
+      },
+      {
+        "colour": "White",
+        "matchedImages": [
+          "/products/options/phone-2-white-main.png",
+          "/products/options/phone-2-white--av2.jpg",
+          "/products/options/phone-2-white--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Pink",
+        "matchedImages": [
+          "/products/options/phone-2-pink-main.png",
+          "/products/options/phone-2-pink--av2.jpg",
+          "/products/options/phone-2-pink--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Teal",
+        "matchedImages": [
+          "/products/options/phone-2-teal-main.png",
+          "/products/options/phone-2-teal--av2.jpg",
+          "/products/options/phone-2-teal--av3.jpg"
+        ]
+      },
+      {
+        "colour": "Ultramarine",
+        "matchedImages": [
+          "/products/options/phone-2-ultramarine-main.png",
+          "/products/options/phone-2-ultramarine--av2.jpg",
+          "/products/options/phone-2-ultramarine--av3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "headphones",
+    "name": "Apple AirPods Max, USB-C, 2024",
+    "colours": [
+      {
+        "colour": "Midnight",
+        "matchedImages": [
+          "/products/options/headphones-midnight-main.jpg"
+        ]
+      },
+      {
+        "colour": "Starlight",
+        "matchedImages": [
+          "/products/options/headphones-starlight-main.jpg"
+        ]
+      },
+      {
+        "colour": "Blue",
+        "matchedImages": [
+          "/products/options/headphones-blue-main.jpg"
+        ]
+      },
+      {
+        "colour": "Orange",
+        "matchedImages": [
+          "/products/options/headphones-orange-main.jpg"
+        ]
+      },
+      {
+        "colour": "Purple",
+        "matchedImages": [
+          "/products/options/headphones-purple-main.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "apple-watch-3-smartwatch-49mm",
+    "name": "Apple Watch 3 Smartwatch 49mm",
+    "colours": [
+      {
+        "colour": "Black",
+        "matchedImages": []
+      },
+      {
+        "colour": "White",
+        "matchedImages": []
+      },
+      {
+        "colour": "Orange",
+        "matchedImages": []
+      },
+      {
+        "colour": "Blue",
+        "matchedImages": []
+      },
+      {
+        "colour": "Green",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "spdr-hoodie",
+    "name": "Sp5der P*NK hoodie, black",
+    "colours": [
+      {
+        "colour": "Black",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "earbuds-inspired-by-apple®-airpods-pro-2-special-sale",
+    "name": "Apple AirPods Pro 2, USB-C",
+    "colours": [
+      {
+        "colour": "White",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "dnm-hoodie",
+    "name": "Denim Tears Cotton Wreath hoodie",
+    "colours": [
+      {
+        "colour": "Black",
+        "matchedImages": [
+          "/products/options/dnm-hoodie-black-main.jpg",
+          "/products/options/dnm-hoodie-black-detail-1.jpg"
+        ]
+      },
+      {
+        "colour": "Grey",
+        "matchedImages": []
+      },
+      {
+        "colour": "Blue",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "earbuds",
+    "name": "Apple AirPods 4",
+    "colours": [
+      {
+        "colour": "White",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "backpack",
+    "name": "Nike Hoops Elite 32L backpack",
+    "colours": [
+      {
+        "colour": "Black",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "shirt",
+    "name": "camouflage designer graphic T-shirt",
+    "colours": [
+      {
+        "colour": "Black / red graphic",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "wallet",
+    "name": "Goyard Saint-Sulpice cardholder",
+    "colours": [
+      {
+        "colour": "Green",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "speaker",
+    "name": "JBL Pulse-style portable speaker",
+    "colours": [
+      {
+        "colour": "Pictured finish",
+        "matchedImages": []
+      }
+    ]
+  },
+  {
+    "product": "phone-17-pro-m",
+    "name": "silver iPhone Pro model",
+    "colours": [
+      {
+        "colour": "Silver",
+        "matchedImages": []
+      }
+    ]
+  }
+]

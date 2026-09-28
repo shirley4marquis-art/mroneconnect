@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /seo/
+Disallow: /cart
+Disallow: /checkout
+Disallow: /login
+Disallow: /dashboard
+
+Sitemap: https://mroneconnect.shop/sitemap.xml
