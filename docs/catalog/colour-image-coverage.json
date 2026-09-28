@@ -5,15 +5,21 @@
     "colours": [
       {
         "colour": "Cosmic Orange",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/iphone-17-pro-max-cosmic-orange-retailer-main.png"
+        ]
       },
       {
         "colour": "Silver",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/iphone-17-pro-max-silver-retailer-main.png"
+        ]
       },
       {
         "colour": "Blue",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/iphone-17-pro-max-blue-retailer-main.png"
+        ]
       }
     ]
   },
@@ -23,11 +29,25 @@
     "colours": [
       {
         "colour": "Silver",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-silver-extra-main.jpg",
+          "/products/options/laptop-silver-extra--av1.jpg",
+          "/products/options/laptop-silver-extra--av2.jpg",
+          "/products/options/laptop-silver-extra--av3.jpg",
+          "/products/options/laptop-silver-extra--av4.jpg",
+          "/products/options/laptop-silver-extra--av5.jpg"
+        ]
       },
       {
         "colour": "Space Grey",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-space-grey-extra-main.jpg",
+          "/products/options/laptop-space-grey-extra--av1.jpg",
+          "/products/options/laptop-space-grey-extra--av2.jpg",
+          "/products/options/laptop-space-grey-extra--av3.jpg",
+          "/products/options/laptop-space-grey-extra--av4.jpg",
+          "/products/options/laptop-space-grey-extra--av5.jpg"
+        ]
       }
     ]
   },
@@ -37,15 +57,21 @@
     "colours": [
       {
         "colour": "Cosmic Orange",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/phone-17-pro-cosmic-orange-retailer-main.png"
+        ]
       },
       {
         "colour": "Deep Blue",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/phone-17-pro-deep-blue-retailer-main.png"
+        ]
       },
       {
         "colour": "Silver",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/phone-17-pro-silver-retailer-main.png"
+        ]
       }
     ]
   },
@@ -94,19 +120,32 @@
     "colours": [
       {
         "colour": "Midnight",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-1-midnight-extra-main.jpg"
+        ]
       },
       {
         "colour": "Starlight",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-1-starlight-extra-main.jpg"
+        ]
       },
       {
         "colour": "Silver",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-1-silver-extra-main.jpg",
+          "/products/options/laptop-1-silver-extra--av1.jpg",
+          "/products/options/laptop-1-silver-extra--av2.jpg",
+          "/products/options/laptop-1-silver-extra--av3.jpg",
+          "/products/options/laptop-1-silver-extra--av4.jpg",
+          "/products/options/laptop-1-silver-extra--av5.jpg"
+        ]
       },
       {
         "colour": "Space Grey",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/laptop-1-space-grey-extra-main.jpg"
+        ]
       }
     ]
   },
@@ -272,7 +311,9 @@
     "colours": [
       {
         "colour": "Black",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7905355006029-1.png"
+        ]
       }
     ]
   },
@@ -282,7 +323,9 @@
     "colours": [
       {
         "colour": "White",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7903783518285-1.png"
+        ]
       }
     ]
   },
@@ -299,11 +342,18 @@
       },
       {
         "colour": "Grey",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/dnm-hoodie-grey-extra-main.jpg",
+          "/products/options/dnm-hoodie-grey-extra-detail-1.jpg"
+        ]
       },
       {
         "colour": "Blue",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/options/dnm-hoodie-blue-extra-main.jpg",
+          "/products/options/dnm-hoodie-blue-extra-detail-1.jpg",
+          "/products/options/dnm-hoodie-blue-extra-detail-2.jpg"
+        ]
       }
     ]
   },
@@ -313,7 +363,9 @@
     "colours": [
       {
         "colour": "White",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7903787286605-1.png"
+        ]
       }
     ]
   },
@@ -323,7 +375,9 @@
     "colours": [
       {
         "colour": "Black",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7904189710413-1.png"
+        ]
       }
     ]
   },
@@ -333,7 +387,9 @@
     "colours": [
       {
         "colour": "Black / red graphic",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7904195805261-1.webp"
+        ]
       }
     ]
   },
@@ -343,7 +399,9 @@
     "colours": [
       {
         "colour": "Green",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7903835848781-1.webp"
+        ]
       }
     ]
   },
@@ -353,7 +411,9 @@
     "colours": [
       {
         "colour": "Pictured finish",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7903790760013-1.webp"
+        ]
       }
     ]
   },
@@ -363,7 +423,9 @@
     "colours": [
       {
         "colour": "Silver",
-        "matchedImages": []
+        "matchedImages": [
+          "/products/vaultsource/7903784599629-1.webp"
+        ]
       }
     ]
   }

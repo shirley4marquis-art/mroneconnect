@@ -45,3 +45,5 @@ All 61 source images are retained, with 42 additional manufacturer/retailer imag
 Customer descriptions focus on the physical products. Reference data is internal and no longer appears on product pages. The UK SEO build generates individual product titles, descriptions, social previews, canonical URLs, GBP structured data and a sitemap. Private shopping/account routes are noindex. Vercel rewrites serve the generated metadata pages; local Vite development uses client-side metadata. Product offers omit unverified stock claims.
 
 Run `npm run build`, then `npm run test:uk-catalog` against the running dev server to check image mapping, original prices, encoded product routes, metadata and mobile layout.
+
+A further 32 colour images cover every listed MacBook Pro M3, MacBook Air M2, iPhone 17 Pro, iPhone 17 Pro Max and Denim Tears hoodie colour. The Blue hoodie gallery shows the manufacturer's Powder Blue finish. The original 49mm watch requires its exact supplier/model identification before matching its five strap colours. Images and source hashes are recorded in the option-image manifest.

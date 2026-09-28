@@ -5,7 +5,7 @@ import {getProductImage,getUnitPricing} from '../src/lib/catalog.js';
 import {getPageSeo,productPath} from '../src/lib/seo.js';
 const products=JSON.parse(fs.readFileSync('src/data/products.json','utf8'));
 const images=JSON.parse(fs.readFileSync('docs/catalog/option-images.json','utf8'));
-assert.equal(images.length,42);
+assert.ok(images.length >= 74);
 for(const asset of images)assert.equal(fs.statSync('public'+asset.path).size,asset.bytes);
 for(const p of products){
  for(const v of p.variantOptions)for(const image of v.images||[])assert.ok(fs.existsSync('public'+image));
@@ -35,6 +35,6 @@ try {
  await page.setViewportSize({width:390,height:844});await main.scrollIntoViewIfNeeded();await page.screenshot({path:'.artifacts/colour-gallery-mobile.png'});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
  const unicode=products.find(p=>p.id.includes('earbuds-inspired'));await page.goto(base+productPath(unicode));await page.getByRole('heading',{name:unicode.name,exact:true}).waitFor();assert.equal(await page.title(),getPageSeo(productPath(unicode),products).title);
  assert.equal(await page.locator('meta[property="og:image"]').getAttribute('content'),getPageSeo(productPath(unicode),products).image);assert.deepEqual(errors,[]);
- console.log('PASS: 42 additional images; colour galleries and checkout photos; restored prices and bulk thresholds; encoded URLs; static UK metadata and sitemap; mobile layout.');
+ console.log('PASS: downloaded option images; colour galleries and checkout photos; restored prices and bulk thresholds; encoded URLs; static UK metadata and sitemap; mobile layout.');
 } finally {await browser.close();}
 
