@@ -1,6 +1,6 @@
-import { getPageSeo, productIdFromPath } from "./lib/seo.js";
+import { getPageSeo, productIdFromPath, productPath } from "./lib/seo.js";
 import products from "./data/products.json";
-import { formatGBP, isPurchasable, getVariant, getVariantPrice, replaceCartVariant, getProductGallery, getProductImage, getUnitPricing } from "./lib/catalog.js";
+import { formatGBP, isPurchasable, getVariant, getVariantPrice, replaceCartVariant, getProductGallery, getProductImage, getUnitPricing, getProductVariants, getDefaultProductVariant, getStockQuantity } from "./lib/catalog.js";
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
@@ -29,6 +29,8 @@ import {
 const AUTH_STORAGE_KEY = "oneconnect_member";
 const ORDERS_STORAGE_KEY = "oneconnect_orders_v2";
 const CART_STORAGE_KEY = "oneconnect_cart_v2";
+const MINIMUM_ORDER_AMOUNT = 70;
+const LOW_PRICE_ITEM_THRESHOLD = 50;
 const UK_WHATSAPP_NUMBER = "447927876232";
 const USA_SMS_NUMBER = "+13125617143";
 const UK_TELEGRAM_URL = "https://t.me/+1hs1FC9DBlJhNmUx";
@@ -420,6 +422,14 @@ const emptyCheckout = {
 const CartContext = createContext(null);
 
 const getProduct = (id) => products.find((product) => product.id === id) || products[0];
+const homeFeaturedProductIds = [
+  "iphone-18-pro-max",
+  "iphone-17-pro-max",
+  "laptop-1",
+  "headphones",
+  "ai-smart-glasses",
+  "airpod-pro-3",
+];
 
 const safeJsonParse = (value, fallback) => {
   try {
@@ -436,10 +446,12 @@ const getStoredCart = () => {
   return Array.isArray(stored) ? stored.filter(item => item && typeof item === "object").map(item => {
     const product = products.find(p => p.id === item.productId);
     const variant = product?.variantAliases?.[item.variant] || item.variant;
-    return {...item, variant, id: `${item.productId}-${variant}`};
+    const minimumQuantity = product?.minimumOrderQuantity || 1;
+    const quantity = Number.isSafeInteger(item.quantity) && item.quantity > 0 ? Math.min(getStockQuantity(product) ?? 999, Math.max(item.quantity, minimumQuantity)) : item.quantity;
+    return {...item, quantity, variant, id: `${item.productId}-${variant}`};
   }).filter(item => {
     const product = products.find(p => p.id === item.productId);
-    return isPurchasable(product, item.variant) && product.variants.includes(item.variant) && Number.isSafeInteger(item.quantity) && item.quantity > 0;
+    return isPurchasable(product, item.variant) && getProductVariants(product).some(v => v.label === item.variant) && Number.isSafeInteger(item.quantity) && item.quantity > 0;
   }) : [];
 };
 
@@ -452,12 +464,12 @@ const navigateTo = (path) => {
 
 const getPricingForQuantity = getUnitPricing;
 
-const normaliseQuantity = (value) => Math.min(999, Math.max(1, Math.floor(Number(value) || 1)));
+const normaliseQuantity = (value, minimum = 1, maximum = 999) => Math.min(maximum, Math.max(minimum, Math.floor(Number(value) || minimum)));
 
 const makeCartItem = ({ productId, variant, quantity }) => {
   const product = products.find(p => p.id === productId);
-  if (!isPurchasable(product, variant) || !product.variants.includes(variant)) return null;
-  const nextQuantity = normaliseQuantity(quantity);
+  if (!isPurchasable(product, variant) || !getProductVariants(product).some(v => v.label === variant)) return null;
+  const nextQuantity = normaliseQuantity(quantity, product.minimumOrderQuantity || 1, getStockQuantity(product, variant) ?? 999);
   const pricing = getPricingForQuantity(product, nextQuantity, variant);
   return {
     id: `${product.id}-${variant}`,
@@ -913,7 +925,7 @@ function SiteFooter() {
   );
 }
 
-function QuantityControl({ value, onChange, min = 1 }) {
+function QuantityControl({ value, onChange, min = 1, max = 999 }) {
   return (
     <div className="inline-grid grid-cols-[44px_64px_44px] overflow-hidden rounded-full border border-white/12 bg-white/[0.055]">
       <button type="button" aria-label="Decrease quantity" onClick={() => onChange(Math.max(min, value - 1))} className="grid min-h-11 place-items-center text-aqua">
@@ -923,13 +935,13 @@ function QuantityControl({ value, onChange, min = 1 }) {
         type="number"
         aria-label="Quantity"
         step="1"
-        max="999"
+        max={max}
         min={min}
         value={value}
-        onChange={(event) => onChange(normaliseQuantity(event.target.value))}
+        onChange={(event) => onChange(normaliseQuantity(event.target.value, min, max))}
         className="min-h-11 border-x border-white/10 bg-transparent text-center font-bold text-white outline-none"
       />
-      <button type="button" aria-label="Increase quantity" onClick={() => onChange(Math.min(999, value + 1))} className="grid min-h-11 place-items-center text-aqua">
+      <button type="button" aria-label="Increase quantity" disabled={value >= max} onClick={() => onChange(Math.min(max, value + 1))} className="grid min-h-11 place-items-center text-aqua disabled:opacity-35">
         <Plus className="h-4 w-4" />
       </button>
     </div>
@@ -938,7 +950,12 @@ function QuantityControl({ value, onChange, min = 1 }) {
 
 function ProductCard({ product }) {
   const { addItem } = useCart();
-  const defaultVariant = product.defaultVariant || product.variants[0];
+  const detailPath = productPath(product);
+  const productVariants = getProductVariants(product);
+  const defaultVariant = getDefaultProductVariant(product);
+  const lowestPrice = productVariants.map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b) => a-b)[0];
+  const repPrice = productVariants.filter(v => v.qualityId === "rep").map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b)=>a-b)[0];
+  const originalPrice = productVariants.filter(v => v.qualityId === "original").map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b)=>a-b)[0];
 
   return (
     <motion.article
@@ -948,31 +965,51 @@ function ProductCard({ product }) {
       viewport={{ once: true, amount: 0.25 }}
       transition={{ duration: 0.35 }}
     >
-      <img className="shop-card-image product-image-blend" loading="lazy" src={product.cardImage} alt={product.name} />
-      <p className="mt-6 text-xs font-bold uppercase tracking-[0.22em] text-aqua">{product.eyebrow}</p>
-      <h3 className="mt-3 text-2xl font-semibold text-white">{product.name}</h3>
-      <p className="mt-4 flex-1 leading-7 text-white/68">{product.description}</p>
-      <p className="starting-price mt-5">{product.variants.length > 1 && isPurchasable(product) ? "From " : ""}{formatGBP(product.pricing.consumer.price)}</p>
-      <div className="mt-4 flex flex-col gap-3 sm:flex-row">
+      <a
+        href={detailPath}
+        aria-label={`View ${product.name}`}
+        onClick={(event) => {
+          if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          event.preventDefault();
+          navigateTo(detailPath);
+        }}
+      >
+        <img className="shop-card-image product-image-blend" loading="lazy" src={product.cardImage} alt={product.name} />
+      </a>
+      <p className="mt-5 text-xs font-bold uppercase tracking-[0.22em] text-aqua">{product.category}</p>
+      <h3 className="mt-2 text-2xl font-semibold text-white">
+        <a
+          className="transition hover:text-aqua focus-visible:text-aqua"
+          href={detailPath}
+          onClick={(event) => {
+            if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+            event.preventDefault();
+            navigateTo(detailPath);
+          }}
+        >
+          {product.name}
+        </a>
+      </h3>
+      {product.qualityVariants?.length ? <div className="mt-5 grid gap-1 text-sm text-white/75">
+        {product.qualityVariants.filter(q=>q.enabled!==false).map(q => {
+          const value = q.id === "rep" ? repPrice : q.id === "original" ? originalPrice : lowestPrice;
+          return <p key={q.id}><span className="mr-2 inline-flex rounded-full border border-white/20 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider">{q.label}</span>{value ? <>from <strong className="text-white">{formatGBP(value/100)}</strong></> : <strong className="text-white">Contact for price</strong>}</p>;
+        })}
+      </div> : <p className="starting-price mt-5">{product.variants.length > 1 && isPurchasable(product) ? "From " : ""}{formatGBP(product.pricing.consumer.price)}</p>}
+      {getStockQuantity(product) !== null && <p className="mt-2 text-xs font-semibold text-white/58">In stock · {getStockQuantity(product)} available</p>}
+      <div className="mt-5">
         <button
           type="button"
           onClick={() => {
-            if (!isPurchasable(product) || product.variants.length > 1) { navigateTo(`/products/${product.id}`); return; }
+            if (product.qualityVariants?.length || !isPurchasable(product) || product.variants.length > 1 || (product.minimumOrderQuantity || 1) > 1) { navigateTo(`/products/${product.id}`); return; }
             addItem({ productId: product.id, variant: defaultVariant, quantity: 1 });
             navigateTo("/checkout");
           }}
-          className="inline-flex min-h-12 flex-1 items-center justify-center gap-2 rounded-full border border-aqua/40 bg-aqua/15 px-5 text-xs font-bold uppercase tracking-[0.14em] text-white transition hover:border-titanium/50"
+          className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full border border-aqua/40 bg-aqua/15 px-5 text-xs font-bold uppercase tracking-[0.14em] text-white transition hover:border-titanium/50"
         >
           <ShoppingBag className="h-4 w-4" />
-          {isPurchasable(product) ? product.variants.length > 1 ? "Choose Options" : "Buy Now" : "View Details"}
+          Buy Now
         </button>
-        <a
-          href={`/products/${encodeURIComponent(product.id)}`}
-          onClick={(event) => { if (!event.ctrlKey && !event.metaKey && !event.shiftKey && event.button === 0) { event.preventDefault(); navigateTo(`/products/${product.id}`); } }}
-          className="inline-flex min-h-12 flex-1 items-center justify-center gap-2 rounded-full border border-titanium/35 bg-titanium/10 px-5 text-xs font-bold uppercase tracking-[0.14em] text-white transition hover:border-titanium/70"
-        >
-          View Product
-        </a>
       </div>
     </motion.article>
   );
@@ -1097,7 +1134,7 @@ function HeroActions() {
       transition={{ duration: 0.45 }}
     >
       <p className="mb-3 text-center text-xs font-bold uppercase tracking-[0.2em] text-aqua">UK shopping · Prices in GBP</p>
-      <p className="mb-6 text-center text-2xl font-semibold text-white sm:text-4xl">Your next favourite, delivered.</p>
+      <p className="mb-6 text-center text-2xl font-semibold text-white sm:text-4xl">Shop, use or release</p>
       <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
         <LinkButton to="/products">
           Shop Products
@@ -1155,7 +1192,7 @@ function HomePage() {
           </LinkButton>
         </div>
         <div className="grid gap-5 md:grid-cols-3">
-          {products.slice(0, 6).map((product) => (
+          {homeFeaturedProductIds.map(id => products.find(product => product.id === id)).filter(Boolean).map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </div>
@@ -1169,13 +1206,15 @@ function HomePage() {
 function ProductsPage() {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("All");
-  const filtered = products.filter(p => (category === "All" || p.category === category) && [p.name, p.sourceTitle, p.retailReference.name].join(" ").toLowerCase().includes(query.toLowerCase()));
+  const [version, setVersion] = useState("All");
+  const filtered = products.filter(p => (category === "All" || p.category === category) && (version === "All" || p.qualityVariants?.some(q=>q.id===version.toLowerCase()&&q.enabled!==false)) && [p.name, p.sourceTitle, p.retailReference.name].join(" ").toLowerCase().includes(query.toLowerCase()));
   return (
     <PageShell eyebrow={`${products.length} products · GBP`} title="Explore the collection." actions={<LinkButton to="/cart">View Cart</LinkButton>}>
       <p className="mb-6 max-w-3xl leading-7 text-white/70">Shop phones, electronics, designer clothing, perfumes and watches for UK delivery. Choose your colour, size or storage, with clear prices in pounds sterling.</p>
-      <div className="mb-4 grid gap-4 sm:grid-cols-[1fr_240px]">
+      <div className="mb-4 grid gap-4 sm:grid-cols-[1fr_240px_180px]">
         <label className="grid gap-2 text-white">Search products<input className="rounded-lg border border-white/20 bg-black/40 p-3" type="search" placeholder="Search products, brands or models" value={query} onChange={e => setQuery(e.target.value)} /></label>
         <label className="grid gap-2 text-white">Category<select className="rounded-lg border border-white/20 bg-black p-3" value={category} onChange={e => setCategory(e.target.value)}>{["All", "Electronics", "Designers", "Perfumes", "Watches", "Extras"].map(c => <option key={c}>{c}</option>)}</select></label>
+        <label className="grid gap-2 text-white">Version<select className="rounded-lg border border-white/20 bg-black p-3" value={version} onChange={e => setVersion(e.target.value)}>{["All", "Rep", "Original"].map(c => <option key={c}>{c}</option>)}</select></label>
       </div>
       <p className="mb-6 text-white/60" role="status">{filtered.length} of {products.length} products · Price: high to low</p>
       <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map(product => <ProductCard key={product.id} product={product} />)}</div>
@@ -1185,22 +1224,39 @@ function ProductsPage() {
 }
 
 function VariantSelector({ product, value, onChange, pricedOnly = false }) {
-  const selected = getVariant(product, value) || product.variantOptions[0];
+  const variants = getProductVariants(product);
+  const selected = getVariant(product, value) || variants[0];
   return <div className="grid gap-3" aria-label={product.name + " options"}>
     {product.optionGroups.map(group => <label key={group.name} className="grid min-w-0 gap-1 text-sm text-white/75">
       <span>{group.name}</span>
       <select className="min-h-11 w-full min-w-0 rounded-lg border border-white/20 bg-[#15191c] px-3 py-2 text-white" value={selected.values[group.name]} onChange={event => {
-        const candidates = product.variantOptions.filter(v => v.values[group.name] === event.target.value && (!pricedOnly || v.pricePence !== null));
+        const candidates = variants.filter(v => v.values[group.name] === event.target.value && (!pricedOnly || v.pricePence !== null) && v.qualityId === selected.qualityId);
         const exact = candidates.find(v => product.optionGroups.every(g => g.name === group.name || v.values[g.name] === selected.values[g.name]));
         if (exact || candidates[0]) onChange((exact || candidates[0]).label);
       }}>
         {group.values.map(option => {
-          const matching = product.variantOptions.filter(v => v.values[group.name] === option);
+          const matching = variants.filter(v => v.values[group.name] === option && v.qualityId === selected.qualityId);
           const priced = matching.some(v => v.pricePence !== null);
           return <option key={option} value={option} disabled={pricedOnly && !priced}>{option}{!priced ? " — enquire for price" : ""}</option>;
         })}
       </select>
     </label>)}
+  </div>;
+}
+
+function QualitySelector({ product, value, onChange }) {
+  if (!product.qualityVariants?.length) return null;
+  const selected = getVariant(product, value);
+  const variants = product.qualityVariants.filter(q => q.enabled !== false);
+  return <div className="grid gap-2">
+    <span className="text-sm text-white/75">Choose Version</span>
+    <div className="grid grid-cols-2 gap-2" role="group" aria-label="Choose product version">
+      {variants.map(quality => <button key={quality.id} type="button" aria-pressed={selected?.qualityId === quality.id} onClick={() => {
+        const current = selected?.values || {};
+        const choice = getProductVariants(product).find(v => v.qualityId === quality.id && Object.entries(current).every(([k,val])=>v.values[k]===val)) || getProductVariants(product).find(v=>v.qualityId===quality.id);
+        if (choice) onChange(choice.label);
+      }} className={`min-h-12 rounded-lg border px-4 font-semibold transition ${selected?.qualityId===quality.id ? "border-aqua/70 bg-aqua/12 text-white" : "border-white/15 bg-white/[0.04] text-white/65"}`}>{quality.label}</button>)}
+    </div>
   </div>;
 }
 
@@ -1212,16 +1268,18 @@ function OptionRequest({ value, onChange }) {
 
 function ProductDetailsPage({ id }) {
   const product = getProduct(id);
-  const { addItem } = useCart();
+  const { addItem, subtotal: cartSubtotal } = useCart();
   const [activeImage, setActiveImage] = useState(null);
-  const [variant, setVariant] = useState(product.defaultVariant || product.variants[0]);
-  const [quantity, setQuantity] = useState(1);
+  const [variant, setVariant] = useState(getDefaultProductVariant(product));
+  const minimumQuantity = product.minimumOrderQuantity || 1;
+  const maximumQuantity = getStockQuantity(product, variant) ?? 999;
+  const [quantity, setQuantity] = useState(minimumQuantity);
   const pricing = getPricingForQuantity(product, quantity, variant);
 
   useEffect(() => {
     setActiveImage(null);
-    setVariant(product.defaultVariant || product.variants[0]);
-    setQuantity(1);
+    setVariant(getDefaultProductVariant(product));
+    setQuantity(product.minimumOrderQuantity || 1);
   }, [product.id]);
 
   useEffect(() => { setActiveImage(null); }, [variant]);
@@ -1253,8 +1311,9 @@ function ProductDetailsPage({ id }) {
         </Card>
         <div className="space-y-5">
           <Card className="p-6">
-            <p className="text-lg leading-8 text-white/72">{product.description}</p>
-            <div className="mt-6 grid gap-3 sm:grid-cols-2">
+            <p className="text-lg leading-8 text-white/72">{getVariant(product, variant)?.description || product.description}</p>
+            {getStockQuantity(product, variant) !== null && <p className="mt-3 text-sm font-semibold text-titanium">In stock · {getStockQuantity(product, variant)} available</p>}
+            {!product.qualityVariants?.length && <div className="mt-6 grid gap-3 sm:grid-cols-2">
               {Object.entries(product.pricing).map(([key, option]) => (
                 <div key={key} className={`rounded-lg border p-5 ${pricing.key === key ? "border-aqua/60 bg-aqua/10" : "border-white/12 bg-white/[0.045]"}`}>
                   <p className="text-xs font-bold uppercase tracking-[0.18em] text-white/50">{option.label}</p>
@@ -1264,16 +1323,18 @@ function ProductDetailsPage({ id }) {
                   </span>
                 </div>
               ))}
-            </div>
+            </div>}
           </Card>
           <Card className="p-6">
             <h2 className="text-2xl font-semibold text-white">Choose options</h2>
             <div className="mt-5 grid gap-5">
+              <QualitySelector product={product} value={variant} onChange={value => { setVariant(value); setActiveImage(null); }} />
               <VariantSelector product={product} value={variant} onChange={value => { setVariant(value); setActiveImage(null); }} />
               
               <div>
                 <p className="mb-2 text-xs font-bold uppercase tracking-[0.16em] text-white/58">Quantity</p>
-                <QuantityControl value={quantity} onChange={setQuantity} />
+                <QuantityControl value={quantity} min={minimumQuantity} max={maximumQuantity} onChange={setQuantity} />
+                {Number.isFinite(pricing.price) && pricing.price < LOW_PRICE_ITEM_THRESHOLD && cartSubtotal + pricing.price * quantity < MINIMUM_ORDER_AMOUNT && <p className="mt-3 max-w-lg rounded-lg border border-titanium/25 bg-titanium/10 p-3 text-sm leading-6 text-titanium">Orders should total at least {formatGBP(MINIMUM_ORDER_AMOUNT)}. Double this item or add another product to reach the minimum.</p>}
               </div>
               <div className="rounded-lg border border-white/12 bg-white/[0.045] p-4">
                 <p className="text-sm text-white/62">Current unit price</p>
@@ -1325,9 +1386,10 @@ function CartPage() {
                       <OptionRequest value={item.optionNotes || ""} onChange={value => updateOptionNotes(item.id, value)} />
                       <p className="mt-1 text-sm text-white/62">Pricing: {item.pricingType}</p>
                       <p className="mt-1 text-sm text-white/62">Unit price: {formatGBP(item.unitPrice)}</p>
+                      {subtotal < MINIMUM_ORDER_AMOUNT && item.unitPrice < LOW_PRICE_ITEM_THRESHOLD && <p className="mt-2 text-xs leading-5 text-titanium">Orders should total at least {formatGBP(MINIMUM_ORDER_AMOUNT)}. Double this item or add another product.</p>}
                     </div>
                     <div className="flex flex-col items-start gap-3 lg:items-end">
-                      <QuantityControl value={item.quantity} onChange={(value) => updateQuantity(item.id, value)} />
+                      <QuantityControl value={item.quantity} min={item.product.minimumOrderQuantity || 1} max={getStockQuantity(item.product, item.variant) ?? 999} onChange={(value) => updateQuantity(item.id, value)} />
                       <strong className="text-2xl text-white">{formatGBP(item.lineTotal)}</strong>
                       <button
                         type="button"
@@ -1346,6 +1408,7 @@ function CartPage() {
           <Card className="h-fit p-6">
             <p className="text-xs font-bold uppercase tracking-[0.18em] text-white/50">Cart subtotal</p>
             <strong className="mt-2 block text-5xl text-white">{formatGBP(subtotal)}</strong>
+            {subtotal < MINIMUM_ORDER_AMOUNT && <p className="mt-3 rounded-lg border border-titanium/25 bg-titanium/10 p-3 text-sm leading-6 text-titanium">Minimum order guidance: {formatGBP(MINIMUM_ORDER_AMOUNT)}. Add another product or increase the quantity.</p>}
             <p className="mt-3 text-sm leading-6 text-white/62">All prices are in GBP. Select Royal Mail delivery or an InPost locker at checkout.</p>
             <div className="mt-6 grid gap-3">
               <LinkButton to="/checkout">Proceed to Checkout</LinkButton>
@@ -1604,6 +1667,7 @@ function CheckoutPage({ onSaveOrder }) {
             ))}
           </div>
           <p className="mb-5 text-xs font-bold uppercase tracking-[0.16em] text-white/45">Cart → Details → Delivery → Review → Complete</p>
+          {subtotal < MINIMUM_ORDER_AMOUNT && <div className="mb-5 flex flex-col gap-3 rounded-lg border border-titanium/25 bg-titanium/10 p-4 sm:flex-row sm:items-center sm:justify-between"><p className="text-sm leading-6 text-titanium">Minimum order guidance: {formatGBP(MINIMUM_ORDER_AMOUNT)}. Add another product or increase the quantity if your order is below this amount.</p><LinkButton to="/products" variant="secondary">Add another product</LinkButton></div>}
           {errors && <p className="mb-5 rounded-lg border border-titanium/30 bg-titanium/10 p-4 text-sm font-semibold text-titanium">{errors}</p>}
 
           <AnimatePresence mode="wait">
@@ -2100,7 +2164,9 @@ export default function App() {
       for (const field of ['title', 'description', 'image']) setMeta('meta[' + key + '="' + prefix + ':' + field + '"]', 'content', seo[field]);
     }
     setMeta('meta[property="og:url"]', 'content', seo.url);
-    setMeta('meta[property="og:image:alt"]', 'content', seo.product?.name || '1:1 Connect UK');
+    setMeta('meta[property="og:image:alt"]', 'content', seo.imageAlt);
+    setMeta('meta[property="og:image:type"]', 'content', seo.imageType);
+    setMeta('meta[name="twitter:image:alt"]', 'content', seo.imageAlt);
     setMeta('link[rel="canonical"]', 'href', seo.url);
     document.getElementById('page-schema')?.remove();
     if (seo.schema) {

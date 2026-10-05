@@ -1,477 +1,5 @@
 [
   {
-    "id": "iphone-17-pro-max",
-    "name": "iPhone 17 Pro Max",
-    "category": "Electronics",
-    "image": "/products/options/iphone-17-pro-max-silver-transparent.png",
-    "cardImage": "/products/options/iphone-17-pro-max-silver-transparent.png",
-    "images": [
-      "/products/options/iphone-17-pro-max-silver-transparent.png",
-      "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
-      "/products/options/iphone-17-pro-max-blue-transparent.png"
-    ],
-    "variants": [
-      "Cosmic Orange",
-      "Silver",
-      "Blue"
-    ],
-    "description": "An iPhone 17 Pro Max-style phone with a large-screen design and triple-camera styling. Choose Cosmic Orange, Silver or Blue. Single-unit and reseller quantity pricing are available.",
-    "price": 600,
-    "reseller": 500,
-    "minimum": 3,
-    "eyebrow": "Electronics",
-    "sourceTitle": "iPhone 17 Pro Max",
-    "sourceUrl": null,
-    "legacy": true,
-    "pricePence": 60000,
-    "pricing": {
-      "consumer": {
-        "label": "Unit price",
-        "price": 600,
-        "minimum": 1
-      },
-      "reseller": {
-        "label": "Reseller price",
-        "price": 500,
-        "minimum": 3
-      }
-    },
-    "optionGroups": [
-      {
-        "name": "Colour",
-        "values": [
-          "Cosmic Orange",
-          "Silver",
-          "Blue"
-        ]
-      }
-    ],
-    "variantOptions": [
-      {
-        "label": "Cosmic Orange",
-        "values": {
-          "Colour": "Cosmic Orange"
-        },
-        "pricePence": 60000,
-        "retailPence": null,
-        "images": [
-          "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png"
-        ]
-      },
-      {
-        "label": "Silver",
-        "values": {
-          "Colour": "Silver"
-        },
-        "pricePence": 60000,
-        "retailPence": null,
-        "images": [
-          "/products/options/iphone-17-pro-max-silver-transparent.png"
-        ]
-      },
-      {
-        "label": "Blue",
-        "values": {
-          "Colour": "Blue"
-        },
-        "pricePence": 60000,
-        "retailPence": null,
-        "images": [
-          "/products/options/iphone-17-pro-max-blue-transparent.png"
-        ]
-      }
-    ],
-    "defaultVariant": "Silver",
-    "variantAliases": {},
-    "retailReference": {
-      "name": "Original storefront price",
-      "retailPence": null,
-      "url": null,
-      "basis": "Original prices restored without repricing"
-    },
-    "optionAvailability": "",
-    "originalCategory": "Electronics",
-    "galleryAssets": [
-      {
-        "path": "/products/options/iphone-17-pro-max-silver-transparent.png",
-        "colour": "Silver",
-        "view": "Main"
-      },
-      {
-        "path": "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
-        "colour": "Cosmic Orange",
-        "view": "Main"
-      },
-      {
-        "path": "/products/options/iphone-17-pro-max-blue-transparent.png",
-        "colour": "Blue",
-        "view": "Main"
-      }
-    ]
-  },
-  {
-    "id": "laptop",
-    "name": "Apple MacBook Pro M3, 14-inch",
-    "sourceTitle": "LAPTOP",
-    "sourceUrl": "https://vaultsource.us/products/laptop",
-    "eyebrow": "Electronics",
-    "category": "Electronics",
-    "image": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
-    "cardImage": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
-    "images": [
-      "/products/vaultsource/7903785254989-1.webp",
-      "/products/cutouts/laptop-silver-extra-main-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
-      "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
-      "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
-      "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
-      "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
-      "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
-      "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
-    ],
-    "variants": [
-      "Silver / 14-inch M3 base configuration",
-      "Space Grey / 14-inch M3 base configuration"
-    ],
-    "description": "A 14-inch MacBook Pro with an M3 model configuration, a full-size keyboard and a slim aluminium design. Choose Silver or Space Grey for your workspace, study or everyday projects.",
-    "pricePence": 42475,
-    "pricing": {
-      "consumer": {
-        "label": "Unit price",
-        "price": 424.75,
-        "minimum": 1
-      }
-    },
-    "retailReference": {
-      "name": "Apple MacBook Pro M3, 14-inch — selected configuration",
-      "retailPence": 169900,
-      "url": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
-      "basis": "UK launch RRP, October 2023; processor, size and storage unconfirmed",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
-    },
-    "optionGroups": [
-      {
-        "name": "Colour",
-        "values": [
-          "Silver",
-          "Space Grey"
-        ]
-      },
-      {
-        "name": "Configuration",
-        "values": [
-          "14-inch M3 base configuration"
-        ]
-      }
-    ],
-    "variantOptions": [
-      {
-        "label": "Silver / 14-inch M3 base configuration",
-        "values": {
-          "Colour": "Silver",
-          "Configuration": "14-inch M3 base configuration"
-        },
-        "retailPence": 169900,
-        "pricePence": 42475,
-        "images": [
-          "/products/cutouts/laptop-silver-extra-main-transparent.webp",
-          "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
-          "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
-          "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
-          "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
-          "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
-        ]
-      },
-      {
-        "label": "Space Grey / 14-inch M3 base configuration",
-        "values": {
-          "Colour": "Space Grey",
-          "Configuration": "14-inch M3 base configuration"
-        },
-        "retailPence": 169900,
-        "pricePence": 42475,
-        "images": [
-          "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
-          "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
-          "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
-          "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
-          "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
-          "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp"
-        ]
-      }
-    ],
-    "variantAliases": {
-      "Pictured style": "Silver / 14-inch M3 base configuration"
-    },
-    "optionSource": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
-    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
-    "defaultVariant": "Silver / 14-inch M3 base configuration",
-    "originalCategory": "Electronics",
-    "galleryAssets": [
-      {
-        "path": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
-        "colour": "Silver",
-        "view": "Main"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
-        "colour": "Space Grey",
-        "view": "Main"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
-        "colour": "Space Grey",
-        "view": "_AV1"
-      },
-      {
-        "path": "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
-        "colour": "Silver",
-        "view": "_AV1"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
-        "colour": "Space Grey",
-        "view": "_AV2"
-      },
-      {
-        "path": "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
-        "colour": "Silver",
-        "view": "_AV2"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
-        "colour": "Space Grey",
-        "view": "_AV3"
-      },
-      {
-        "path": "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
-        "colour": "Silver",
-        "view": "_AV3"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
-        "colour": "Space Grey",
-        "view": "_AV4"
-      },
-      {
-        "path": "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
-        "colour": "Silver",
-        "view": "_AV4"
-      },
-      {
-        "path": "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
-        "colour": "Space Grey",
-        "view": "_AV5"
-      },
-      {
-        "path": "/products/cutouts/laptop-silver-extra--av5-transparent.webp",
-        "colour": "Silver",
-        "view": "_AV5"
-      }
-    ]
-  },
-  {
-    "id": "phone-17-pro",
-    "name": "Apple iPhone 17 Pro",
-    "sourceTitle": "PHONE 17 PRO",
-    "sourceUrl": "https://vaultsource.us/products/phone-17-pro",
-    "eyebrow": "Electronics",
-    "category": "Electronics",
-    "image": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
-    "cardImage": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
-    "images": [
-      "/products/vaultsource/7903784829005-1.webp",
-      "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
-      "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
-      "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
-    ],
-    "variants": [
-      "Cosmic Orange / 256 GB",
-      "Cosmic Orange / 512 GB",
-      "Cosmic Orange / 1 TB",
-      "Deep Blue / 256 GB",
-      "Deep Blue / 512 GB",
-      "Deep Blue / 1 TB",
-      "Silver / 256 GB",
-      "Silver / 512 GB",
-      "Silver / 1 TB"
-    ],
-    "description": "An iPhone 17 Pro with a distinctive raised camera panel and a compact Pro design. Choose Cosmic Orange, Deep Blue or Silver, then select your preferred storage capacity.",
-    "pricePence": 32500,
-    "pricing": {
-      "consumer": {
-        "label": "Unit price",
-        "price": 325,
-        "minimum": 1
-      }
-    },
-    "retailReference": {
-      "name": "Apple iPhone 17 Pro — selected configuration",
-      "retailPence": 130000,
-      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-512gb-silver?purchaseOption=ipi",
-      "basis": "Manufacturer page lists 256 GB option at GBP 1,099; assumed storage",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
-    },
-    "optionGroups": [
-      {
-        "name": "Colour",
-        "values": [
-          "Cosmic Orange",
-          "Deep Blue",
-          "Silver"
-        ]
-      },
-      {
-        "name": "Storage",
-        "values": [
-          "256 GB",
-          "512 GB",
-          "1 TB"
-        ]
-      }
-    ],
-    "variantOptions": [
-      {
-        "label": "Cosmic Orange / 256 GB",
-        "values": {
-          "Colour": "Cosmic Orange",
-          "Storage": "256 GB"
-        },
-        "retailPence": 130000,
-        "pricePence": 32500,
-        "images": [
-          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Cosmic Orange / 512 GB",
-        "values": {
-          "Colour": "Cosmic Orange",
-          "Storage": "512 GB"
-        },
-        "retailPence": 138000,
-        "pricePence": 34500,
-        "images": [
-          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Cosmic Orange / 1 TB",
-        "values": {
-          "Colour": "Cosmic Orange",
-          "Storage": "1 TB"
-        },
-        "retailPence": 146000,
-        "pricePence": 36500,
-        "images": [
-          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Deep Blue / 256 GB",
-        "values": {
-          "Colour": "Deep Blue",
-          "Storage": "256 GB"
-        },
-        "retailPence": 130000,
-        "pricePence": 32500,
-        "images": [
-          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Deep Blue / 512 GB",
-        "values": {
-          "Colour": "Deep Blue",
-          "Storage": "512 GB"
-        },
-        "retailPence": 138000,
-        "pricePence": 34500,
-        "images": [
-          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Deep Blue / 1 TB",
-        "values": {
-          "Colour": "Deep Blue",
-          "Storage": "1 TB"
-        },
-        "retailPence": 146000,
-        "pricePence": 36500,
-        "images": [
-          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Silver / 256 GB",
-        "values": {
-          "Colour": "Silver",
-          "Storage": "256 GB"
-        },
-        "retailPence": 130000,
-        "pricePence": 32500,
-        "images": [
-          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Silver / 512 GB",
-        "values": {
-          "Colour": "Silver",
-          "Storage": "512 GB"
-        },
-        "retailPence": 138000,
-        "pricePence": 34500,
-        "images": [
-          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
-        ]
-      },
-      {
-        "label": "Silver / 1 TB",
-        "values": {
-          "Colour": "Silver",
-          "Storage": "1 TB"
-        },
-        "retailPence": 146000,
-        "pricePence": 36500,
-        "images": [
-          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
-        ]
-      }
-    ],
-    "variantAliases": {
-      "Pictured style": "Cosmic Orange / 256 GB"
-    },
-    "optionSource": "https://www.apple.com/uk/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/",
-    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
-    "defaultVariant": "Cosmic Orange / 256 GB",
-    "originalCategory": "Electronics",
-    "galleryAssets": [
-      {
-        "path": "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
-        "colour": "Silver",
-        "view": "Main"
-      },
-      {
-        "path": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
-        "colour": "Cosmic Orange",
-        "view": "Main"
-      },
-      {
-        "path": "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp",
-        "colour": "Deep Blue",
-        "view": "Main"
-      }
-    ]
-  },
-  {
     "id": "iphone-18-pro-max",
     "name": "Apple iPhone 18 Pro Max",
     "sourceTitle": "iPhone 18 Pro Max — user supplied replacement",
@@ -513,7 +41,7 @@
       "Black / 1 TB",
       "Black / 2 TB"
     ],
-    "description": "The iPhone 18 Pro Max pairs a large-screen design with a triple rear-camera layout. Choose Burgundy, Glacier, Silver or Black, with 256 GB, 512 GB, 1 TB and 2 TB storage options.",
+    "description": "Choose Rep or Original, then select a colour and storage configuration. Rep storage prices are shown separately. Original price and availability are confirmed on request.",
     "pricePence": 32500,
     "pricing": {
       "consumer": {
@@ -794,7 +322,7 @@
     },
     "optionSource": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
-    "defaultVariant": "Burgundy / 256 GB",
+    "defaultVariant": "Rep — Burgundy / 256 GB",
     "originalCategory": "Electronics",
     "galleryAssets": [
       {
@@ -857,7 +385,616 @@
         "colour": "Glacier",
         "view": "_AV3"
       }
-    ]
+    ],
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricing": {
+          "type": "storage-tier",
+          "baseStorage": "256 GB",
+          "basePricePence": 30000,
+          "incrementPence": 2500,
+          "storageTiers": [
+            "256 GB",
+            "512 GB",
+            "1 TB",
+            "2 TB"
+          ]
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — A third-party alternative product offered at a lower price point. Specifications and included features are listed on this product page."
+      },
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Burgundy|Storage=256 GB": 131900,
+          "Colour=Burgundy|Storage=512 GB": 151900,
+          "Colour=Burgundy|Storage=1 TB": 191900,
+          "Colour=Burgundy|Storage=2 TB": 251900,
+          "Colour=Glacier|Storage=256 GB": 131900,
+          "Colour=Glacier|Storage=512 GB": 151900,
+          "Colour=Glacier|Storage=1 TB": 191900,
+          "Colour=Glacier|Storage=2 TB": 251900,
+          "Colour=Silver|Storage=256 GB": 131900,
+          "Colour=Silver|Storage=512 GB": 151900,
+          "Colour=Silver|Storage=1 TB": 191900,
+          "Colour=Silver|Storage=2 TB": 251900,
+          "Colour=Black|Storage=256 GB": 131900,
+          "Colour=Black|Storage=512 GB": 151900,
+          "Colour=Black|Storage=1 TB": 191900,
+          "Colour=Black|Storage=2 TB": 251900
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — Genuine manufacturer product supplied according to the listed model and specifications. Price and availability must be confirmed before ordering.",
+        "marketPriceMarkupPence": 2000,
+        "marketPriceBasis": "Apple UK Store listed price + £20",
+        "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro/6.9-inch-display-1tb-black"
+      }
+    ],
+    "defaultQuality": "rep",
+    "stockQuantity": 92
+  },
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "category": "Electronics",
+    "image": "/products/options/iphone-17-pro-max-silver-transparent.png",
+    "cardImage": "/products/options/iphone-17-pro-max-silver-transparent.png",
+    "images": [
+      "/products/options/iphone-17-pro-max-silver-transparent.png",
+      "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
+      "/products/options/iphone-17-pro-max-blue-transparent.png"
+    ],
+    "variants": [
+      "Cosmic Orange",
+      "Silver",
+      "Blue"
+    ],
+    "description": "Choose Rep or Original, then select a colour and storage configuration. Rep storage prices are shown separately. Original price and availability are confirmed on request.",
+    "price": 600,
+    "reseller": 500,
+    "minimum": 3,
+    "eyebrow": "Electronics",
+    "sourceTitle": "iPhone 17 Pro Max",
+    "sourceUrl": null,
+    "legacy": true,
+    "pricePence": 60000,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 600,
+        "minimum": 1
+      },
+      "reseller": {
+        "label": "Reseller price",
+        "price": 500,
+        "minimum": 3
+      }
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cosmic Orange",
+          "Silver",
+          "Blue"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "256 GB",
+          "512 GB",
+          "1 TB",
+          "2 TB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Cosmic Orange",
+        "values": {
+          "Colour": "Cosmic Orange"
+        },
+        "pricePence": 60000,
+        "retailPence": null,
+        "images": [
+          "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png"
+        ]
+      },
+      {
+        "label": "Silver",
+        "values": {
+          "Colour": "Silver"
+        },
+        "pricePence": 60000,
+        "retailPence": null,
+        "images": [
+          "/products/options/iphone-17-pro-max-silver-transparent.png"
+        ]
+      },
+      {
+        "label": "Blue",
+        "values": {
+          "Colour": "Blue"
+        },
+        "pricePence": 60000,
+        "retailPence": null,
+        "images": [
+          "/products/options/iphone-17-pro-max-blue-transparent.png"
+        ]
+      }
+    ],
+    "defaultVariant": "Rep — Cosmic Orange / 256 GB",
+    "variantAliases": {},
+    "retailReference": {
+      "name": "Original storefront price",
+      "retailPence": null,
+      "url": null,
+      "basis": "Original prices restored without repricing"
+    },
+    "optionAvailability": "",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/options/iphone-17-pro-max-silver-transparent.png",
+        "colour": "Silver",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-17-pro-max-cosmic-orange-transparent.png",
+        "colour": "Cosmic Orange",
+        "view": "Main"
+      },
+      {
+        "path": "/products/options/iphone-17-pro-max-blue-transparent.png",
+        "colour": "Blue",
+        "view": "Main"
+      }
+    ],
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricing": {
+          "type": "storage-tier",
+          "baseStorage": "256 GB",
+          "basePricePence": 17500,
+          "incrementPence": 2500,
+          "storageTiers": [
+            "256 GB",
+            "512 GB",
+            "1 TB",
+            "2 TB"
+          ]
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — A third-party alternative product offered at a lower price point. Specifications and included features are listed on this product page."
+      },
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Cosmic Orange|Storage=256 GB": 121900,
+          "Colour=Cosmic Orange|Storage=512 GB": 141900,
+          "Colour=Cosmic Orange|Storage=1 TB": 161900,
+          "Colour=Cosmic Orange|Storage=2 TB": 201900,
+          "Colour=Silver|Storage=256 GB": 121900,
+          "Colour=Silver|Storage=512 GB": 141900,
+          "Colour=Silver|Storage=1 TB": 161900,
+          "Colour=Silver|Storage=2 TB": 201900,
+          "Colour=Blue|Storage=256 GB": 121900,
+          "Colour=Blue|Storage=512 GB": 141900,
+          "Colour=Blue|Storage=1 TB": 161900,
+          "Colour=Blue|Storage=2 TB": 201900
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — Genuine manufacturer product supplied according to the listed model and specifications. Price and availability must be confirmed before ordering.",
+        "marketPriceMarkupPence": 2000,
+        "marketPriceBasis": "Apple UK Store listed price + £20",
+        "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.9-inch-display-2tb-silver"
+      }
+    ],
+    "defaultQuality": "rep",
+    "stockQuantity": 103
+  },
+  {
+    "id": "laptop",
+    "name": "Apple MacBook Pro M3, 14-inch",
+    "sourceTitle": "LAPTOP",
+    "sourceUrl": "https://vaultsource.us/products/laptop",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+    "cardImage": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+    "images": [
+      "/products/vaultsource/7903785254989-1.webp",
+      "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+      "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
+      "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
+    ],
+    "variants": [
+      "Silver / 14-inch M3 base configuration",
+      "Space Grey / 14-inch M3 base configuration"
+    ],
+    "description": "A 14-inch MacBook Pro with an M3 model configuration, a full-size keyboard and a slim aluminium design. Choose Silver or Space Grey for your workspace, study or everyday projects.",
+    "pricePence": 42475,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 424.75,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple MacBook Pro M3, 14-inch — selected configuration",
+      "retailPence": 169900,
+      "url": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
+      "basis": "UK launch RRP, October 2023; processor, size and storage unconfirmed",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Silver",
+          "Space Grey"
+        ]
+      },
+      {
+        "name": "Configuration",
+        "values": [
+          "14-inch M3 base configuration"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Silver / 14-inch M3 base configuration",
+        "values": {
+          "Colour": "Silver",
+          "Configuration": "14-inch M3 base configuration"
+        },
+        "retailPence": 169900,
+        "pricePence": 42475,
+        "images": [
+          "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+          "/products/cutouts/laptop-silver-extra--av5-transparent.webp"
+        ]
+      },
+      {
+        "label": "Space Grey / 14-inch M3 base configuration",
+        "values": {
+          "Colour": "Space Grey",
+          "Configuration": "14-inch M3 base configuration"
+        },
+        "retailPence": 169900,
+        "pricePence": 42475,
+        "images": [
+          "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+          "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Silver / 14-inch M3 base configuration"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Silver / 14-inch M3 base configuration",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/cutouts/laptop-silver-extra-main-transparent.webp",
+        "colour": "Silver",
+        "view": "Main"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra-main-transparent.webp",
+        "colour": "Space Grey",
+        "view": "Main"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra--av1-transparent.webp",
+        "colour": "Space Grey",
+        "view": "_AV1"
+      },
+      {
+        "path": "/products/cutouts/laptop-silver-extra--av1-transparent.webp",
+        "colour": "Silver",
+        "view": "_AV1"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra--av2-transparent.webp",
+        "colour": "Space Grey",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/cutouts/laptop-silver-extra--av2-transparent.webp",
+        "colour": "Silver",
+        "view": "_AV2"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra--av3-transparent.webp",
+        "colour": "Space Grey",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/cutouts/laptop-silver-extra--av3-transparent.webp",
+        "colour": "Silver",
+        "view": "_AV3"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra--av4-transparent.webp",
+        "colour": "Space Grey",
+        "view": "_AV4"
+      },
+      {
+        "path": "/products/cutouts/laptop-silver-extra--av4-transparent.webp",
+        "colour": "Silver",
+        "view": "_AV4"
+      },
+      {
+        "path": "/products/cutouts/laptop-space-grey-extra--av5-transparent.webp",
+        "colour": "Space Grey",
+        "view": "_AV5"
+      },
+      {
+        "path": "/products/cutouts/laptop-silver-extra--av5-transparent.webp",
+        "colour": "Silver",
+        "view": "_AV5"
+      }
+    ],
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Silver|Configuration=14-inch M3 base configuration": 42475,
+          "Colour=Space Grey|Configuration=14-inch M3 base configuration": 42475
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — A third-party alternative product offered at a lower price point. Specifications and included features are listed on this product page."
+      },
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Silver|Configuration=14-inch M3 base configuration": 171900,
+          "Colour=Space Grey|Configuration=14-inch M3 base configuration": 171900
+        },
+        "marketPriceMarkupPence": 2000,
+        "marketPriceBasis": "Apple UK original listed price + £20",
+        "marketReferenceUrl": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — Genuine Apple product supplied according to the listed model and configuration."
+      }
+    ],
+    "defaultQuality": "rep",
+    "stockQuantity": 90
+  },
+  {
+    "id": "phone-17-pro",
+    "name": "Apple iPhone 17 Pro",
+    "sourceTitle": "PHONE 17 PRO",
+    "sourceUrl": "https://vaultsource.us/products/phone-17-pro",
+    "eyebrow": "Electronics",
+    "category": "Electronics",
+    "image": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+    "cardImage": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+    "images": [
+      "/products/vaultsource/7903784829005-1.webp",
+      "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
+      "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+      "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
+    ],
+    "variants": [
+      "Cosmic Orange / 256 GB",
+      "Cosmic Orange / 512 GB",
+      "Cosmic Orange / 1 TB",
+      "Deep Blue / 256 GB",
+      "Deep Blue / 512 GB",
+      "Deep Blue / 1 TB",
+      "Silver / 256 GB",
+      "Silver / 512 GB",
+      "Silver / 1 TB"
+    ],
+    "description": "An iPhone 17 Pro with a distinctive raised camera panel and a compact Pro design. Choose Cosmic Orange, Deep Blue or Silver, then select your preferred storage capacity.",
+    "pricePence": 32500,
+    "pricing": {
+      "consumer": {
+        "label": "Unit price",
+        "price": 325,
+        "minimum": 1
+      }
+    },
+    "retailReference": {
+      "name": "Apple iPhone 17 Pro — selected configuration",
+      "retailPence": 130000,
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-512gb-silver?purchaseOption=ipi",
+      "basis": "Manufacturer page lists 256 GB option at GBP 1,099; assumed storage",
+      "checkedAt": "2026-09-28",
+      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+    },
+    "optionGroups": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cosmic Orange",
+          "Deep Blue",
+          "Silver"
+        ]
+      },
+      {
+        "name": "Storage",
+        "values": [
+          "256 GB",
+          "512 GB",
+          "1 TB"
+        ]
+      }
+    ],
+    "variantOptions": [
+      {
+        "label": "Cosmic Orange / 256 GB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Cosmic Orange / 512 GB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Cosmic Orange / 1 TB",
+        "values": {
+          "Colour": "Cosmic Orange",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Deep Blue / 256 GB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Deep Blue / 512 GB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Deep Blue / 1 TB",
+        "values": {
+          "Colour": "Deep Blue",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Silver / 256 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "256 GB"
+        },
+        "retailPence": 130000,
+        "pricePence": 32500,
+        "images": [
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Silver / 512 GB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "512 GB"
+        },
+        "retailPence": 138000,
+        "pricePence": 34500,
+        "images": [
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
+        ]
+      },
+      {
+        "label": "Silver / 1 TB",
+        "values": {
+          "Colour": "Silver",
+          "Storage": "1 TB"
+        },
+        "retailPence": 146000,
+        "pricePence": 36500,
+        "images": [
+          "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
+        ]
+      }
+    ],
+    "variantAliases": {
+      "Pictured style": "Cosmic Orange / 256 GB"
+    },
+    "optionSource": "https://www.apple.com/uk/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/",
+    "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
+    "defaultVariant": "Cosmic Orange / 256 GB",
+    "originalCategory": "Electronics",
+    "galleryAssets": [
+      {
+        "path": "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp",
+        "colour": "Silver",
+        "view": "Main"
+      },
+      {
+        "path": "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp",
+        "colour": "Cosmic Orange",
+        "view": "Main"
+      },
+      {
+        "path": "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp",
+        "colour": "Deep Blue",
+        "view": "Main"
+      }
+    ],
+    "stockQuantity": 84
   },
   {
     "id": "laptop-1",
@@ -1034,7 +1171,40 @@
         "colour": "Silver",
         "view": "_AV5"
       }
-    ]
+    ],
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Midnight|Configuration=13.6-inch M2 base configuration": 31225,
+          "Colour=Starlight|Configuration=13.6-inch M2 base configuration": 31225,
+          "Colour=Silver|Configuration=13.6-inch M2 base configuration": 31225,
+          "Colour=Space Grey|Configuration=13.6-inch M2 base configuration": 31225
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — A third-party alternative product offered at a lower price point. Specifications and included features are listed on this product page."
+      },
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Midnight|Configuration=13.6-inch M2 base configuration": 126900,
+          "Colour=Starlight|Configuration=13.6-inch M2 base configuration": 126900,
+          "Colour=Silver|Configuration=13.6-inch M2 base configuration": 126900,
+          "Colour=Space Grey|Configuration=13.6-inch M2 base configuration": 126900
+        },
+        "marketPriceMarkupPence": 2000,
+        "marketPriceBasis": "Apple UK original listed price + £20",
+        "marketReferenceUrl": "https://www.apple.com/uk/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/",
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — Genuine Apple product supplied according to the listed model and configuration."
+      }
+    ],
+    "defaultQuality": "rep",
+    "stockQuantity": 54
   },
   {
     "id": "phone",
@@ -1414,7 +1584,8 @@
         "colour": "Titanium Green",
         "view": "Main"
       }
-    ]
+    ],
+    "stockQuantity": 94
   },
   {
     "id": "phone-2",
@@ -1640,7 +1811,8 @@
         "colour": "Ultramarine",
         "view": "_AV3"
       }
-    ]
+    ],
+    "stockQuantity": 55
   },
   {
     "id": "headphones",
@@ -1799,7 +1971,8 @@
         "colour": "Blue",
         "view": "Main"
       }
-    ]
+    ],
+    "stockQuantity": 154
   },
   {
     "id": "apple-watch-3-smartwatch-49mm",
@@ -1895,7 +2068,8 @@
     },
     "optionAvailability": "",
     "originalCategory": "Watches",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 88
   },
   {
     "id": "belt",
@@ -1961,7 +2135,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Monogram Eclipse Reverse / 100 cm",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 130
   },
   {
     "id": "spdr-hoodie",
@@ -2030,7 +2205,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Black / Confirm size",
     "originalCategory": "Clothing",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 165
   },
   {
     "id": "sun-glasses",
@@ -2096,7 +2272,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Black / Grey",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 168
   },
   {
     "id": "wallet-1",
@@ -2155,7 +2332,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Damier Graphite",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 157
   },
   {
     "id": "bcrt",
@@ -2221,7 +2399,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "70 ml / Extrait de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 138
   },
   {
     "id": "cologne",
@@ -2342,7 +2521,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 132
   },
   {
     "id": "airpod-pro-3",
@@ -2418,7 +2598,8 @@
     },
     "optionAvailability": "",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 165
   },
   {
     "id": "fragrance",
@@ -2484,7 +2665,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 167
   },
   {
     "id": "fragrance-1",
@@ -2550,7 +2732,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 173
   },
   {
     "id": "earbuds-inspired-by-apple®-airpods-pro-2-special-sale",
@@ -2619,7 +2802,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "White / USB-C",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 176
   },
   {
     "id": "ai-smart-glasses",
@@ -2636,7 +2820,7 @@
     "variants": [
       "Black Wayfarer / Non-polarised / Gen 1"
     ],
-    "description": "Ray-Ban Meta Wayfarer-style smart glasses in Black with non-polarised lenses. A classic frame shape with integrated camera detailing.",
+    "description": "Ray-Ban Meta Wayfarer-style smart glasses in Black with non-polarised lenses. Minimum order: 2 units.",
     "pricePence": 5600,
     "pricing": {
       "consumer": {
@@ -2692,7 +2876,9 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Black Wayfarer / Non-polarised / Gen 1",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "minimumOrderQuantity": 2,
+    "stockQuantity": 80
   },
   {
     "id": "tf-cologne-1",
@@ -2780,7 +2966,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "30 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 129
   },
   {
     "id": "brick-set",
@@ -2839,7 +3026,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Porsche 911 RSR 42096",
     "originalCategory": "Collectibles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 118
   },
   {
     "id": "dnm-hoodie",
@@ -3114,7 +3302,8 @@
         "colour": "Blue",
         "view": "Detail 2"
       }
-    ]
+    ],
+    "stockQuantity": 174
   },
   {
     "id": "earbuds",
@@ -3197,7 +3386,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "White / Standard",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 171
   },
   {
     "id": "bdc-fragrance",
@@ -3263,7 +3453,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 142
   },
   {
     "id": "jpg-fragrance",
@@ -3329,7 +3520,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "125 ml / Le Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 134
   },
   {
     "id": "vrsc",
@@ -3395,7 +3587,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Toilette",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 125
   },
   {
     "id": "vltn",
@@ -3461,7 +3654,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "100 ml / Eau de Toilette",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 126
   },
   {
     "id": "tf-cologne",
@@ -3571,7 +3765,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "10 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 139
   },
   {
     "id": "backpack",
@@ -3640,7 +3835,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Black / 32 L",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 150
   },
   {
     "id": "fragrance-2",
@@ -3750,7 +3946,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "40 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 147
   },
   {
     "id": "shirt",
@@ -3819,7 +4016,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Black / red graphic / Confirm size",
     "originalCategory": "Clothing",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 137
   },
   {
     "id": "lv1-bundle-pack",
@@ -3878,7 +4076,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 82
   },
   {
     "id": "wallet",
@@ -3940,7 +4139,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Green",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 173
   },
   {
     "id": "speaker",
@@ -4002,7 +4202,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured finish",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 157
   },
   {
     "id": "all-electronics-bundle-best-seller",
@@ -4062,7 +4263,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 103
   },
   {
     "id": "all-clothing-bundle",
@@ -4121,7 +4323,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 107
   },
   {
     "id": "fragrances-bundle-best-seller",
@@ -4181,7 +4384,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 128
   },
   {
     "id": "starter-bundle-best-seller",
@@ -4238,7 +4442,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 114
   },
   {
     "id": "moissanite-watch",
@@ -4304,7 +4509,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Silver tone / Confirm wrist size",
     "originalCategory": "Accessories",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 98
   },
   {
     "id": "budget-oem-electric-bike",
@@ -4476,7 +4682,8 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Sur-Ron Light Bee X",
     "originalCategory": "Electric bikes",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 72
   },
   {
     "id": "phone-17-pro-m",
@@ -4545,6 +4752,7 @@
     "optionAvailability": "Reference options; availability and exact specification confirmed before fulfilment.",
     "defaultVariant": "Silver / Confirm exact model",
     "originalCategory": "Electronics",
-    "galleryAssets": []
+    "galleryAssets": [],
+    "stockQuantity": 99
   }
 ]
