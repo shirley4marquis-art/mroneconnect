@@ -1009,8 +1009,8 @@ function ProductCard({ product, compact = false }) {
           return <p key={q.id}><span className={compact ? "" : "mr-2 inline-flex rounded-full border border-white/20 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider"}>{q.label}</span>{value ? compact ? <strong>{formatGBP(value/100)}</strong> : <>from <strong className="text-white">{formatGBP(value/100)}</strong></> : <strong>{compact ? "Price on request" : "Contact for price"}</strong>}</p>;
         })}
       </div> : compact ? <div className="product-card-prices">
-        <p><span>Rep</span><strong>{formatGBP(product.pricing.consumer.price)}</strong></p>
-        {originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p><span>Original</span><strong>{formatGBP(originalMarketPrice / 100)}</strong></p>}
+        <p><span>Price</span><strong>{formatGBP(product.pricing.consumer.price)}</strong></p>
+        {!product.qualityVariants?.length && originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p><span>Original</span><strong>{formatGBP(originalMarketPrice / 100)}</strong></p>}
       </div> : <p className="starting-price mt-5">{product.variants.length > 1 && isPurchasable(product) ? "From " : ""}{formatGBP(product.pricing.consumer.price)}</p>}
       {!compact && !product.qualityVariants?.length && originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p className="mt-2 text-sm text-white/65">Original market price from <strong className="text-white">{formatGBP(originalMarketPrice / 100)}</strong></p>}
       {!compact && getStockQuantity(product) !== null && <p className="mt-2 text-xs font-semibold text-white/58">In stock · {getStockQuantity(product)} available</p>}

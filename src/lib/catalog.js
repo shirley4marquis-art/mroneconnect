@@ -27,7 +27,13 @@ export const getProductVariants = product => {
   const baseOptions = combinations(product.optionGroups || []);
   return product.qualityVariants.filter(q => q.enabled !== false).flatMap(quality => baseOptions.map(values => {
     const label = `${quality.label} — ${optionLabel(values)}`;
-    return {label, qualityId: quality.id, qualityLabel: quality.label, values, pricePence: qualityPrice(quality, values), stockStatus: quality.stockStatus || "Contact for availability", stock: quality.stock, stockQuantity: quality.stockQuantity ?? product.stockQuantity, specifications: quality.specifications || {}, description: quality.description, images: quality.images};
+    const exactKey = Object.entries(values).map(([key, value]) => `${key}=${value}`).join("|");
+    const pricePence = qualityPrice(quality, values);
+    const matchingOption = product.variantOptions?.find(option => Object.entries(values).every(([key, value]) => option.values?.[key] === value));
+    const retailPence = quality.retailPricesByOptions?.[exactKey]
+      ?? (quality.id === "original" ? matchingOption?.retailPence : undefined)
+      ?? (quality.id === "original" && Number.isSafeInteger(quality.marketPriceMarkupPence) && Number.isSafeInteger(pricePence) ? pricePence - quality.marketPriceMarkupPence : undefined);
+    return {label, qualityId: quality.id, qualityLabel: quality.label, values, pricePence, retailPence, stockStatus: quality.stockStatus || "Contact for availability", stock: quality.stock, stockQuantity: quality.stockQuantity ?? product.stockQuantity, specifications: quality.specifications || {}, description: quality.description, images: quality.images};
   }));
 };
 export const getStockQuantity = (product, variant) => {

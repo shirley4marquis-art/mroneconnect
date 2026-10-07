@@ -2,21 +2,21 @@
 
 The table below records the original single-configuration references. The [current configuration matrix](product-options.md) supersedes listing prices where additional sizes or storage options are now offered.
 
-Checked 28 September 2026, with Apple UK prices refreshed 7 October 2026. 39 listings; 28 priced references; 11 awaiting specifications or a verifiable UK price.
+Checked 7 October 2026. All 42 listings and selectable variants have a shop price. Original market references are shown where sources could be matched; bundle and watch prices requested by the shop owner are labelled as such.
 
-Standard rule: integer GBP retail pence × 0.25, rounded to the nearest penny. By request, phone and laptop Original prices are £150 below their prior configured values; iPhone 17 Pro and iPhone 16 are £150 below Apple UK listed prices, while Samsung Galaxy S24 Ultra is Rep only at £150 across its listed options. These references do not prove authenticity or physical stock. Supplier-access prices from Vaultsource are not used. Historical launch RRPs and sold-out/retired prices are explicitly identified; they are not represented as current offers. Fragrance sizes, phone storage and other assumptions are disclosed per listing. Descriptions are newly written from visible attributes; the source supplier-access sales copy has not been reused. The 61 source images and their hashes are recorded in vaultsource-source.json.
+Standard rule for referenced products: retail price × 0.25, rounded to the nearest penny. By request, iPhone 17 Pro offers Original only, priced £150 below Apple UK listed prices; iPhone 16 offers Rep and Original options, with its Original prices £150 below Apple UK listed prices. Samsung Galaxy S24 Ultra is Rep only at £150. Bundle prices are shop-set between £150 and £350. The T-shirt has a shop-set £14 price and £50 comparison reference; the moissanite watch is priced at £2,500 by request. Bike prices use model-specific manufacturer/retailer references and 25% listing prices. EUR and USD references are converted using ECB EUR/GBP 0.84880 and GBP/USD 1.3220 rates dated 6 October 2026. Converted values are estimates, not UK offers. These references do not prove supplier authenticity or physical stock. Supplier-access prices from Vaultsource are not used. Historical launch RRPs and sold-out/retired prices are labelled. Fragrance size assumptions are disclosed; several imported Creed sizes are proportionally scaled from the 100 ml manufacturer price. Descriptions are newly written from visible attributes; source supplier-access sales copy has not been reused.
 
 | Listing | Reference | UK retail | Listing price | Basis / limitation |
 |---|---|---:|---:|---|
 | Graphic web hoodie | [Sp5der P*NK hoodie, black](https://sidekicks.co.uk/products/sp5der-p-nk-hoodie-black) | £415.00 | £103.75 | UK retailer listing |
 | Cotton wreath hoodie | [Denim Tears Cotton Wreath hoodie, black, SS26](https://shop.doverstreetmarket.com/products/denim-tears-mens-cotton-wreath-hoodie-black-ss26-aothd1303) | £165.00 | £41.25 | UK retailer listing; black reference used across colours |
-| Camouflage graphic T-shirt | Exact design and UK retail price need confirmation | Pending | Price on request | Pending exact specification or source |
+| Camouflage graphic T-shirt | Shop-owner reference | £50.00 | £14.00 | User-specified comparison price; exact design and maker are unverified |
 | Black rectangular sunglasses | [Prada PR17WS 1AB5S0, black/grey](https://www.visionexpress.com/sunglasses/prada-pr-17ws-1ab5s0/8056597418478) | £396.00 | £99.00 | UK retailer listing |
 | Monogram buckle belt | [LV Initials 40 mm reversible belt, Monogram Eclipse Reverse, M0285S](https://uk.louisvuitton.com/eng-gb/products/lv-initials-40mm-reversible-belt-nvprod2370004v/M0285S) | £445.00 | £111.25 | Manufacturer retail reference; exact canvas and size unconfirmed |
 | Graphite check wallet | [Louis Vuitton Multiple Wallet, Damier Graphite, N62663](https://uk.louisvuitton.com/eng-gb/men/wallets-and-small-leather-goods/all-wallets-and-small-leather-goods/damier-graphite-canvas/_/N-t1iazbp7-au17lqk2v) | £385.00 | £96.25 | Manufacturer retail listing |
 | Porsche racing car brick set | [LEGO Technic Porsche 911 RSR, 42096, 1,580 pieces](https://www.lego.com/en-gb/product/porsche-911-rsr-42096) | £169.99 | £42.50 | Retired product; last manufacturer listed retail price |
 | Basketball backpack | [Nike Hoops Elite 32L, DX9786-010](https://www.bstn.com/uk_en/p/nike-nike-hoops-elite-backpack-32l-dx9786-010-0296914) | £67.99 | £17.00 | UK retailer listed price; sold out |
-| OEM electric bikes | OEM specifications differ from branded models; exact configuration and comparable UK price required | Pending | Price on request | Pending exact specification or source |
+| OEM electric bikes | [Per-model references in the option matrix](product-options.md#possible-oem-electric-bicycle) | See option matrix | 25% of reference | EUR/USD references converted to GBP; supplier specification and authenticity unverified |
 | Cherry fragrance | [Tom Ford Lost Cherry Eau de Parfum, 50 ml](https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum) | £290.00 | £72.50 | Manufacturer retail reference; assumed 50 ml |
 | Black bottle fragrance | [Tom Ford Fucking Fabulous Eau de Parfum, 50 ml](https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum?size=50_ml) | £290.00 | £72.50 | Manufacturer retail reference; assumed 50 ml |
 | Y-style fragrance | [Yves Saint Laurent Y Eau de Parfum, 100 ml](https://www.yslbeauty.co.uk/icons/novelties/refill/y-eau-de-parfum/3614274057348.html?geo=false) | £115.00 | £28.75 | Manufacturer retail reference; assumed 100 ml EDP |
@@ -28,11 +28,11 @@ Standard rule: integer GBP retail pence × 0.25, rounded to the nearest penny. B
 | Imagination-style fragrance | [Louis Vuitton Imagination, 100 ml, LP0476](https://uk.louisvuitton.com/eng-gb/products/imagination-nvprod7340011v/LP0476) | £265.00 | £66.25 | Manufacturer retail reference; assumed 100 ml |
 | Le Male-style fragrance | [Jean Paul Gaultier Le Male Le Parfum, 125 ml](https://www.jeanpaulgaultier.com/uk/en/p/range-le-male/le-male-le-parfum-eau-de-parfum-intense-000000000065156533) | £112.00 | £28.00 | Manufacturer retail reference; assumed 125 ml Le Parfum |
 | Rouge-style fragrance | [Maison Francis Kurkdjian Baccarat Rouge 540 Extrait, 70 ml](https://www.franciskurkdjian.com/uk-en/p/baccarat-rouge-540-extrait-de-parfum-RA142321.html) | £375.00 | £93.75 | Manufacturer retail reference; assumed 70 ml Extrait |
-| Green patterned cardholder | Goyard Saint-Sulpice-style design; verifiable UK retail price unavailable | Pending | Price on request | Pending exact specification or source |
-| Leather accessories bundle | Bundle contents and quantities must be specified | Pending | Price on request | Pending exact specification or source |
-| Fragrance bundle | Bottle sizes, concentrations, contents and quantities must be specified | Pending | Price on request | Pending exact specification or source |
-| Clothing bundle | Designs, sizes, contents and quantities must be specified | Pending | Price on request | Pending exact specification or source |
-| Light-up portable speaker | JBL Pulse 5-style speaker; current UK retail reference needs verification | Pending | Price on request | Pending exact specification or source |
+| Green patterned cardholder | No verified retail reference | Not listed | £50.00 | Shop-set listing price; exact brand/authenticity unverified |
+| Leather accessories bundle | Bundle contents unspecified | Not listed | £250.00 | Shop-set price |
+| Fragrance bundle | Bottle sizes and contents unspecified | Not listed | £250.00 | Shop-set price |
+| Clothing bundle | Designs and contents unspecified | Not listed | £150.00 | Shop-set price |
+| Light-up portable speaker | No verified retail reference | Not listed | £50.00 | Shop-set listing price; exact model unverified |
 | Open-fit wireless earbuds | [Apple AirPods 4, without active noise cancellation](https://images.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/) | £129.00 | £32.25 | UK launch RRP, September 2024; base model reference |
 | Camera smart glasses | [Ray-Ban Meta Wayfarer, generation 1, non-polarised lenses](https://www.ray-ban.com/uk/ray-ban-meta-ai-glasses-gen-1) | £224.00 | £56.00 | Manufacturer retail reference; generation and lenses assumed |
 | Slim laptop | [Apple MacBook Air M2, 13.6-inch, base configuration](https://www.apple.com/uk/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/) | £1249.00 | £312.25 | UK launch RRP, July 2022; size, processor and storage unconfirmed |
@@ -42,8 +42,26 @@ Standard rule: integer GBP retail pence × 0.25, rounded to the nearest penny. B
 | Ultra stylus phone | [Samsung Galaxy S24 Ultra, 256 GB](https://news.samsung.com/uk/enter-the-new-era-of-mobile-ai-with-samsung-galaxy-s24-series) | £1249.00 | £150.00 | Rep only at fixed price by request; retail reference is not an Original offer |
 | Over-ear headphones | [Apple AirPods Max, USB-C, 2024](https://images.apple.com/uk/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/) | £499.00 | £124.75 | UK launch RRP, September 2024; connector and generation unconfirmed |
 | Orange Pro phone | [Apple iPhone 17 Pro, 256 GB, Cosmic Orange](https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-256gb-cosmic-orange) | £1099.00 | £949.00 | Apple UK listed price less £150 by request; higher storage prices are also reduced by £150 |
-| Silver triple-camera phone | Source title and image conflict; exact model and storage must be confirmed | Pending | Price on request | Pending exact specification or source |
+| Silver triple-camera phone | No verified retail reference | Not listed | £175.00 | Shop-set Rep listing price; exact model still unconfirmed |
 | In-ear wireless earbuds | [Apple AirPods Pro 2, USB-C](https://www.apple.com/uk-business/shop/buy-airpods/airpods-pro-2) | £229.00 | £57.25 | Manufacturer UK listed retail reference; generation and connector assumed |
-| Moissanite-style watch | Watch manufacturer, movement, materials and stone specification required | Pending | Price on request | Pending exact specification or source |
-| Electronics bundle | Exact models, storage, contents and quantities must be specified | Pending | Price on request | Pending exact specification or source |
-| Starter bundle | Exact items, sizes and quantities must be specified | Pending | Price on request | Pending exact specification or source |
+| Moissanite-style watch | No verified retail reference | Not listed | £2,500.00 | Owner-set shop price; movement, materials and stone specification are unverified |
+| Apple Watch Ultra-style 49 mm listing | [Apple Watch Ultra 3 UK starting price](https://www.apple.com/uk/newsroom/2025/09/introducing-apple-watch-ultra-3/) | £749.00 | £120.00 | Closest 49 mm model reference; exact catalog model remains unconfirmed |
+| Electronics bundle | Models and contents unspecified | Not listed | £350.00 | Shop-set price |
+| Starter bundle | Items and contents unspecified | Not listed | £175.00 | Shop-set price |
+
+
+## Electric-bike model price references
+
+All listing prices use 25% of the selected model's reference price. Foreign-currency original prices are converted at the 6 October 2026 reference rates.
+
+| Model | Original/reference price | Listing price | Source |
+|---|---:|---:|---|
+| Sur-Ron Light Bee X | £3,295.00 | £823.75 | [Sur-Ron UK](https://sur-ron.co.uk/light-bee-x-na/) |
+| Talaria MX5 Pro | £3,995.00 | £998.75 | [Talaria UK](https://www.talariaebikeuk.com/model/sting-pro/) |
+| Talaria XXX (X3) | £3,235.00 | £808.75 | [Talaria UK](https://www.talariauk.com/purchase/TL2500-V2) |
+| E Ride Pro SS 3.0 | £4,590.00 | £1,147.50 | [E Ride Pro UK](https://www.eridepros.co.uk/products/e-ride-pro-ss-3-0) |
+| SUPER73 Z Adventure | ~£2,885.07 | £721.27 | [SUPER73 EU UK store](https://eu.super73.com/en-gb/products/super73-z-adventure-series-core), €3,399 converted |
+| Sur-Ron Ultra Bee HP X | £5,999.00 | £1,499.75 | [Sur-Ron UK](https://sur-ron.co.uk/) |
+| Macfox X2 | ~£1,436.46 | £359.12 | [Macfox](https://macfoxbike.com/products/macfox-x2), $1,899 converted |
+| Ride1Up Revv 1 | ~£1,962.93 | £490.73 | [Ride1Up](https://ride1up.com/revv1-home/), $2,595 converted |
+| Ridstar Q20 | ~£954.01 | £238.50 | [Ridstar](https://ridstar.com/products/ridstar-q20-1500w-fat-tire-ebike), €1,123.95 converted |

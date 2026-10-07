@@ -994,7 +994,31 @@
         "view": "Main"
       }
     ],
-    "stockQuantity": 84
+    "stockQuantity": 84,
+    "qualityVariants": [
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Cosmic Orange|Storage=256 GB": 94900,
+          "Colour=Cosmic Orange|Storage=512 GB": 114900,
+          "Colour=Cosmic Orange|Storage=1 TB": 134900,
+          "Colour=Deep Blue|Storage=256 GB": 94900,
+          "Colour=Deep Blue|Storage=512 GB": 114900,
+          "Colour=Deep Blue|Storage=1 TB": 134900,
+          "Colour=Silver|Storage=256 GB": 94900,
+          "Colour=Silver|Storage=512 GB": 114900,
+          "Colour=Silver|Storage=1 TB": 134900
+        },
+        "marketPriceMarkupPence": -15000,
+        "marketPriceBasis": "Apple UK listed price less £150 by request",
+        "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-256gb-cosmic-orange",
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — manufacturer product, with storefront prices £150 below the listed Apple UK prices."
+      }
+    ],
+    "defaultQuality": "original"
   },
   {
     "id": "laptop-1",
@@ -1825,7 +1849,37 @@
         "view": "_AV3"
       }
     ],
-    "stockQuantity": 55
+    "stockQuantity": 55,
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricing": {
+          "basePricePence": 15000
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — third-party alternative. Exact specifications and included features must be confirmed before ordering."
+      },
+      {
+        "id": "original",
+        "label": "Original",
+        "enabled": true,
+        "pricesByOptions": {
+          "Colour=Black|Storage=128 GB": 64900,
+          "Colour=White|Storage=128 GB": 64900,
+          "Colour=Pink|Storage=128 GB": 64900,
+          "Colour=Teal|Storage=128 GB": 64900,
+          "Colour=Ultramarine|Storage=128 GB": 64900
+        },
+        "marketPriceMarkupPence": -15000,
+        "marketPriceBasis": "Apple UK listed price less £150 by request",
+        "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-16?step=select",
+        "stockStatus": "Contact for availability",
+        "description": "Original Version — manufacturer product, with storefront prices £150 below the listed Apple UK prices."
+      }
+    ],
+    "defaultQuality": "original"
   },
   {
     "id": "headphones",
@@ -2036,7 +2090,7 @@
           "Colour": "Black"
         },
         "pricePence": 12000,
-        "retailPence": null
+        "retailPence": 74900
       },
       {
         "label": "White",
@@ -2044,7 +2098,7 @@
           "Colour": "White"
         },
         "pricePence": 12000,
-        "retailPence": null
+        "retailPence": 74900
       },
       {
         "label": "Orange",
@@ -2052,7 +2106,7 @@
           "Colour": "Orange"
         },
         "pricePence": 12000,
-        "retailPence": null
+        "retailPence": 74900
       },
       {
         "label": "Blue",
@@ -2060,7 +2114,7 @@
           "Colour": "Blue"
         },
         "pricePence": 12000,
-        "retailPence": null
+        "retailPence": 74900
       },
       {
         "label": "Green",
@@ -2068,16 +2122,18 @@
           "Colour": "Green"
         },
         "pricePence": 12000,
-        "retailPence": null
+        "retailPence": 74900
       }
     ],
     "defaultVariant": "Black",
     "variantAliases": {},
     "retailReference": {
-      "name": "Original storefront price",
-      "retailPence": null,
-      "url": null,
-      "basis": "Original prices restored without repricing"
+      "name": "Apple Watch Ultra 3, 49 mm — UK starting price",
+      "retailPence": 74900,
+      "url": "https://www.apple.com/uk/newsroom/2025/09/introducing-apple-watch-ultra-3/",
+      "basis": "Apple UK starting price; 49 mm Ultra 3 used as the closest match to the pictured model.",
+      "checkedAt": "2026-10-07",
+      "verification": "Price verified from Apple UK; catalog item identity/specification is not confirmed."
     },
     "optionAvailability": "",
     "originalCategory": "Watches",
@@ -2487,8 +2543,8 @@
           "Bottle size": "30 ml",
           "Concentration": "Eau de Parfum"
         },
-        "retailPence": null,
-        "pricePence": null
+        "retailPence": 9300,
+        "pricePence": 2325
       },
       {
         "label": "50 ml / Eau de Parfum",
@@ -2496,8 +2552,8 @@
           "Bottle size": "50 ml",
           "Concentration": "Eau de Parfum"
         },
-        "retailPence": null,
-        "pricePence": null
+        "retailPence": 15500,
+        "pricePence": 3875
       },
       {
         "label": "240 ml / Eau de Parfum",
@@ -2505,8 +2561,8 @@
           "Bottle size": "240 ml",
           "Concentration": "Eau de Parfum"
         },
-        "retailPence": null,
-        "pricePence": null
+        "retailPence": 74400,
+        "pricePence": 18600
       },
       {
         "label": "490 ml / Eau de Parfum",
@@ -2514,8 +2570,8 @@
           "Bottle size": "490 ml",
           "Concentration": "Eau de Parfum"
         },
-        "retailPence": null,
-        "pricePence": null
+        "retailPence": 151900,
+        "pricePence": 37975
       },
       {
         "label": "980 ml / Eau de Parfum",
@@ -2523,8 +2579,8 @@
           "Bottle size": "980 ml",
           "Concentration": "Eau de Parfum"
         },
-        "retailPence": null,
-        "pricePence": null
+        "retailPence": 303800,
+        "pricePence": 75950
       }
     ],
     "variantAliases": {
@@ -2535,7 +2591,8 @@
     "defaultVariant": "100 ml / Eau de Parfum",
     "originalCategory": "Fragrance",
     "galleryAssets": [],
-    "stockQuantity": 132
+    "stockQuantity": 132,
+    "price": 77.5
   },
   {
     "id": "airpod-pro-3",
@@ -3978,21 +4035,21 @@
       "Black / red graphic / Confirm size"
     ],
     "description": "A black crew-neck T-shirt with a red camouflage ape-head graphic. The short-sleeved design is a casual addition to an everyday wardrobe; contact us to confirm your size.",
-    "pricePence": null,
+    "pricePence": 1400,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 14.0,
         "minimum": 1
       }
     },
     "retailReference": {
-      "name": "Exact design and UK retail price need confirmation",
-      "retailPence": null,
+      "name": "Designer graphic T-shirt — user-specified reference price",
+      "retailPence": 5000,
       "url": null,
-      "basis": "Pending exact specification or source",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+      "basis": "£50 reference price supplied by the shop owner; exact designer brand and retail listing are unspecified.",
+      "checkedAt": "2026-10-07",
+      "verification": "Owner-specified comparison price; not an independently verified manufacturer RRP."
     },
     "optionGroups": [
       {
@@ -4015,8 +4072,8 @@
           "Colour": "Black / red graphic",
           "Size": "Confirm size"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 5000,
+        "pricePence": 1400,
         "images": [
           "/products/vaultsource/7904195805261-1.webp"
         ]
@@ -4030,7 +4087,8 @@
     "defaultVariant": "Black / red graphic / Confirm size",
     "originalCategory": "Clothing",
     "galleryAssets": [],
-    "stockQuantity": 137
+    "stockQuantity": 137,
+    "price": 14.0
   },
   {
     "id": "lv1-bundle-pack",
@@ -4050,11 +4108,11 @@
       "Pictured style"
     ],
     "description": "A selection of patterned belts, wallets and small leather accessories. Contact us to choose the items, sizes and quantities for your bundle.",
-    "pricePence": null,
+    "pricePence": 25000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 250.0,
         "minimum": 1
       }
     },
@@ -4081,7 +4139,7 @@
           "Selection": "Pictured style"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 25000
       }
     ],
     "variantAliases": {},
@@ -4090,7 +4148,8 @@
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
     "galleryAssets": [],
-    "stockQuantity": 82
+    "stockQuantity": 82,
+    "price": 250.0
   },
   {
     "id": "wallet",
@@ -4108,11 +4167,11 @@
       "Green"
     ],
     "description": "A slim green patterned cardholder with contrasting card slots. The compact shape keeps essential cards together without the bulk of a full wallet.",
-    "pricePence": null,
+    "pricePence": 5000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 50.0,
         "minimum": 1
       }
     },
@@ -4139,7 +4198,7 @@
           "Colour": "Green"
         },
         "retailPence": null,
-        "pricePence": null,
+        "pricePence": 5000,
         "images": [
           "/products/vaultsource/7903835848781-1.webp"
         ]
@@ -4153,7 +4212,8 @@
     "defaultVariant": "Green",
     "originalCategory": "Accessories",
     "galleryAssets": [],
-    "stockQuantity": 173
+    "stockQuantity": 173,
+    "price": 50.0
   },
   {
     "id": "speaker",
@@ -4171,11 +4231,11 @@
       "Pictured finish"
     ],
     "description": "An upright portable speaker with a cylindrical body and illuminated design. Contact us to confirm the model, included accessories and availability.",
-    "pricePence": null,
+    "pricePence": 5000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 50.0,
         "minimum": 1
       }
     },
@@ -4202,7 +4262,7 @@
           "Colour": "Pictured finish"
         },
         "retailPence": null,
-        "pricePence": null,
+        "pricePence": 5000,
         "images": [
           "/products/vaultsource/7903790760013-1.webp"
         ]
@@ -4216,7 +4276,8 @@
     "defaultVariant": "Pictured finish",
     "originalCategory": "Electronics",
     "galleryAssets": [],
-    "stockQuantity": 157
+    "stockQuantity": 157,
+    "price": 50.0
   },
   {
     "id": "all-electronics-bundle-best-seller",
@@ -4237,11 +4298,11 @@
       "Pictured style"
     ],
     "description": "A mixed electronics selection covering phones, laptops and audio accessories. Contact us with your preferred models and quantities for a tailored bundle quote.",
-    "pricePence": null,
+    "pricePence": 35000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 350.0,
         "minimum": 1
       }
     },
@@ -4268,7 +4329,7 @@
           "Selection": "Pictured style"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 35000
       }
     ],
     "variantAliases": {},
@@ -4277,7 +4338,8 @@
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
     "galleryAssets": [],
-    "stockQuantity": 103
+    "stockQuantity": 103,
+    "price": 350.0
   },
   {
     "id": "all-clothing-bundle",
@@ -4297,11 +4359,11 @@
       "Pictured style"
     ],
     "description": "A mixed selection of graphic hoodies, T-shirts and shorts. Send your preferred sizes and colours so the contents of your clothing bundle can be confirmed before ordering.",
-    "pricePence": null,
+    "pricePence": 15000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 150.0,
         "minimum": 1
       }
     },
@@ -4328,7 +4390,7 @@
           "Selection": "Pictured style"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 15000
       }
     ],
     "variantAliases": {},
@@ -4337,7 +4399,8 @@
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
     "galleryAssets": [],
-    "stockQuantity": 107
+    "stockQuantity": 107,
+    "price": 150.0
   },
   {
     "id": "fragrances-bundle-best-seller",
@@ -4358,11 +4421,11 @@
       "Pictured style"
     ],
     "description": "A selection of fragrance styles for a mixed perfume bundle. Choose your preferred scents and bottle sizes with our team before confirming the contents and price.",
-    "pricePence": null,
+    "pricePence": 25000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 250.0,
         "minimum": 1
       }
     },
@@ -4389,7 +4452,7 @@
           "Selection": "Pictured style"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 25000
       }
     ],
     "variantAliases": {},
@@ -4398,7 +4461,8 @@
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
     "galleryAssets": [],
-    "stockQuantity": 128
+    "stockQuantity": 128,
+    "price": 250.0
   },
   {
     "id": "starter-bundle-best-seller",
@@ -4416,11 +4480,11 @@
       "Pictured style"
     ],
     "description": "A mixed starter selection combining clothing, fragrance and audio accessories. Tell us your preferred items, colours and sizes so we can confirm the bundle contents.",
-    "pricePence": null,
+    "pricePence": 17500,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 175.0,
         "minimum": 1
       }
     },
@@ -4447,7 +4511,7 @@
           "Selection": "Pictured style"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 17500
       }
     ],
     "variantAliases": {},
@@ -4456,7 +4520,8 @@
     "defaultVariant": "Pictured style",
     "originalCategory": "Bundles",
     "galleryAssets": [],
-    "stockQuantity": 114
+    "stockQuantity": 114,
+    "price": 175.0
   },
   {
     "id": "moissanite-watch",
@@ -4474,21 +4539,21 @@
       "Silver tone / Confirm wrist size"
     ],
     "description": "A silver-tone watch with an octagonal bezel and a stone-set bracelet. Contact us to confirm wrist sizing, movement and stone specifications before ordering.",
-    "pricePence": null,
+    "pricePence": 250000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 2500.0,
         "minimum": 1
       }
     },
     "retailReference": {
-      "name": "Watch manufacturer, movement, materials and stone specification required",
+      "name": "Owner-set shop price",
       "retailPence": null,
       "url": null,
-      "basis": "Pending exact specification or source",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+      "basis": "£2,500 shop price supplied by the owner; watch materials and movement are not independently verified.",
+      "checkedAt": "2026-10-07",
+      "verification": "Owner-set shop price, not a manufacturer RRP."
     },
     "optionGroups": [
       {
@@ -4512,7 +4577,7 @@
           "Size": "Confirm wrist size"
         },
         "retailPence": null,
-        "pricePence": null
+        "pricePence": 250000
       }
     ],
     "variantAliases": {
@@ -4523,7 +4588,8 @@
     "defaultVariant": "Silver tone / Confirm wrist size",
     "originalCategory": "Accessories",
     "galleryAssets": [],
-    "stockQuantity": 98
+    "stockQuantity": 98,
+    "price": 2500.0
   },
   {
     "id": "budget-oem-electric-bike",
@@ -4556,22 +4622,22 @@
       "Ride1Up Revv 1",
       "Ridstar Q20"
     ],
-    "description": "Choose from the listed OEM electric-bike styles, including off-road and urban-inspired designs. Battery, motor, dimensions and intended use vary by model; request the specification for your selected bike.",
-    "pricePence": null,
+    "description": "Choose an electric-bike style. Each option has a priced listing and an original market reference for the matching model. Specifications, supplier identity and availability must be confirmed before fulfilment.",
+    "pricePence": 82375,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 823.75,
         "minimum": 1
       }
     },
     "retailReference": {
-      "name": "Possible OEM electric bicycle — selected configuration",
-      "retailPence": null,
-      "url": null,
-      "basis": "Pending exact specification or source",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+      "name": "Sur-Ron Light Bee X — selected bike model reference",
+      "retailPence": 329500,
+      "url": "https://sur-ron.co.uk/light-bee-x-na/",
+      "basis": "Current UK manufacturer RRP; each bike selection displays its own reference price. Other currencies are converted using 6 Oct 2026 reference rates.",
+      "checkedAt": "2026-10-07",
+      "verification": "Model retail references checked against manufacturer or UK retailer listings; exact supplier bike specification and authenticity require confirmation."
     },
     "optionGroups": [
       {
@@ -4595,99 +4661,117 @@
         "values": {
           "Model": "Sur-Ron Light Bee X"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 329500,
+        "pricePence": 82375,
         "images": [
           "/products/vaultsource/7904184205389-1.webp"
-        ]
+        ],
+        "retailSource": "https://sur-ron.co.uk/light-bee-x-na/",
+        "retailBasis": "UK manufacturer RRP £3,295"
       },
       {
         "label": "Talaria MX5 Pro",
         "values": {
           "Model": "Talaria MX5 Pro"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 399500,
+        "pricePence": 99875,
         "images": [
           "/products/vaultsource/7904184205389-2.webp"
-        ]
+        ],
+        "retailSource": "https://www.talariaebikeuk.com/model/sting-pro/",
+        "retailBasis": "UK manufacturer listing for the Sting Pro/MX5, £3,995"
       },
       {
         "label": "Talaria XXX (X3)",
         "values": {
           "Model": "Talaria XXX (X3)"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 323500,
+        "pricePence": 80875,
         "images": [
           "/products/vaultsource/7904184205389-3.webp"
-        ]
+        ],
+        "retailSource": "https://www.talariauk.com/purchase/TL2500-V2",
+        "retailBasis": "UK manufacturer listing for X3 MX Pro, £3,235"
       },
       {
         "label": "E Ride Pro SS",
         "values": {
           "Model": "E Ride Pro SS"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 459000,
+        "pricePence": 114750,
         "images": [
           "/products/vaultsource/7904184205389-4.webp"
-        ]
+        ],
+        "retailSource": "https://www.eridepros.co.uk/products/e-ride-pro-ss-3-0",
+        "retailBasis": "UK retailer price for E Ride Pro SS 3.0, £4,590"
       },
       {
         "label": "SUPER73 Z Adventure",
         "values": {
           "Model": "SUPER73 Z Adventure"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 288507,
+        "pricePence": 72127,
         "images": [
           "/products/vaultsource/7904184205389-7.webp"
-        ]
+        ],
+        "retailSource": "https://eu.super73.com/en-gb/products/super73-z-adventure-series-core",
+        "retailBasis": "Original EU list price €3,399 converted at ECB 6 Oct 2026 EUR/GBP 0.84880"
       },
       {
         "label": "Sur-Ron Ultra Bee",
         "values": {
           "Model": "Sur-Ron Ultra Bee"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 599900,
+        "pricePence": 149975,
         "images": [
           "/products/vaultsource/7904184205389-6.webp"
-        ]
+        ],
+        "retailSource": "https://sur-ron.co.uk/",
+        "retailBasis": "UK manufacturer RRP for Ultra Bee HP X, £5,999"
       },
       {
         "label": "Macfox X2",
         "values": {
           "Model": "Macfox X2"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 143646,
+        "pricePence": 35912,
         "images": [
           "/products/vaultsource/7904184205389-7.webp"
-        ]
+        ],
+        "retailSource": "https://macfoxbike.com/products/macfox-x2",
+        "retailBasis": "US manufacturer starting list price $1,899 converted at 6 Oct 2026 GBP/USD 1.3220"
       },
       {
         "label": "Ride1Up Revv 1",
         "values": {
           "Model": "Ride1Up Revv 1"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 196293,
+        "pricePence": 49073,
         "images": [
           "/products/vaultsource/7904184205389-8.webp"
-        ]
+        ],
+        "retailSource": "https://ride1up.com/revv1-home/",
+        "retailBasis": "US manufacturer list price $2,595 converted at 6 Oct 2026 GBP/USD 1.3220"
       },
       {
         "label": "Ridstar Q20",
         "values": {
           "Model": "Ridstar Q20"
         },
-        "retailPence": null,
-        "pricePence": null,
+        "retailPence": 95401,
+        "pricePence": 23850,
         "images": [
           "/products/vaultsource/7904184205389-9.webp"
-        ]
+        ],
+        "retailSource": "https://ridstar.com/products/ridstar-q20-1500w-fat-tire-ebike",
+        "retailBasis": "EU manufacturer listed price €1,123.95 converted at ECB 6 Oct 2026 EUR/GBP 0.84880"
       }
     ],
     "variantAliases": {},
@@ -4696,7 +4780,8 @@
     "defaultVariant": "Sur-Ron Light Bee X",
     "originalCategory": "Electric bikes",
     "galleryAssets": [],
-    "stockQuantity": 72
+    "stockQuantity": 72,
+    "price": 823.75
   },
   {
     "id": "phone-17-pro-m",
@@ -4714,11 +4799,11 @@
       "Silver / Confirm exact model"
     ],
     "description": "A silver smartphone with a triple rear-camera layout. Contact us to confirm the exact model, storage capacity and available configuration.",
-    "pricePence": null,
+    "pricePence": 17500,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": null,
+        "price": 175.0,
         "minimum": 1
       }
     },
@@ -4752,7 +4837,7 @@
           "Model": "Confirm exact model"
         },
         "retailPence": null,
-        "pricePence": null,
+        "pricePence": 17500,
         "images": [
           "/products/vaultsource/7903784599629-1.webp"
         ]
@@ -4766,6 +4851,7 @@
     "defaultVariant": "Silver / Confirm exact model",
     "originalCategory": "Electronics",
     "galleryAssets": [],
-    "stockQuantity": 99
+    "stockQuantity": 99,
+    "price": 175.0
   }
 ]

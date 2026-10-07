@@ -1,6 +1,6 @@
 # Product options
 
-All 39 listings use the same option selectors on product pages, cart and checkout. Options are reference configurations, not verified physical stock. Rep listing prices generally use 25% of UK retail references; phone and laptop Original prices have been reduced by £150 from their prior Original prices. Unknown option prices require an enquiry and cannot enter checkout. Images remain the pictured colour; alternate colour photography is not invented.
+All 42 listings and their selectable configurations have prices in GBP. Options are reference configurations, not verified physical stock. Rep listing prices generally use 25% of retail references; iPhone 17 Pro offers Original only at £150 below Apple UK prices, while iPhone 16 offers Rep and Original versions. Bundle prices are shop-set between £150 and £350. Bike retail references converted from EUR or USD are estimates. Images remain the pictured colour; alternate colour photography is not invented.
 
 Other option requests are saved per item and included in the order message; requests do not change the selected priced configuration.
 
@@ -79,7 +79,7 @@ Storage: 256 GB, 512 GB, 1 TB
 
 Rep only is offered; every listed finish and storage option is £150. No Original version is available.
 
-| Configuration | UK retail | Listing GBP |
+| Configuration | UK retail | Rep GBP |
 |---|---:|---:|
 | Titanium Grey / 256 GB | £1249.00 | £150.00 |
 | Titanium Grey / 512 GB | £1349.00 | £150.00 |
@@ -110,7 +110,7 @@ Storage: 256 GB, 512 GB, 1 TB
 
 [Option reference](https://www.apple.com/uk/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/)
 
-| Configuration | UK retail | Listing GBP |
+| Configuration | UK retail | Original GBP |
 |---|---:|---:|
 | Cosmic Orange / 256 GB | £1099.00 | £949.00 |
 | Cosmic Orange / 512 GB | £1299.00 | £1149.00 |
@@ -129,13 +129,13 @@ Storage: 128 GB
 
 [Option reference](https://www.apple.com/uk/shop/buy-iphone/iphone-16)
 
-| Configuration | UK retail | Listing GBP |
-|---|---:|---:|
-| Black / 128 GB | £799.00 | £649.00 |
-| White / 128 GB | £799.00 | £649.00 |
-| Pink / 128 GB | £799.00 | £649.00 |
-| Teal / 128 GB | £799.00 | £649.00 |
-| Ultramarine / 128 GB | £799.00 | £649.00 |
+| Configuration | UK retail | Rep GBP | Original GBP |
+|---|---:|---:|---:|
+| Black / 128 GB | £799.00 | £150.00 | £649.00 |
+| White / 128 GB | £799.00 | £150.00 | £649.00 |
+| Pink / 128 GB | £799.00 | £150.00 | £649.00 |
+| Teal / 128 GB | £799.00 | £150.00 | £649.00 |
+| Ultramarine / 128 GB | £799.00 | £150.00 | £649.00 |
 
 ## Apple AirPods Max, USB-C, 2024
 
@@ -151,6 +151,16 @@ Connector: USB-C
 | Blue / USB-C | £499.00 | £124.75 |
 | Orange / USB-C | £499.00 | £124.75 |
 | Purple / USB-C | £499.00 | £124.75 |
+
+## Apple Watch Ultra-style 49 mm smartwatch
+
+The listing price is £120.00. Apple Watch Ultra 3 is used as the 49 mm retail comparison; the catalog item model remains unconfirmed.
+
+[Option reference](https://www.apple.com/uk/newsroom/2025/09/introducing-apple-watch-ultra-3/)
+
+| Configuration | UK retail | Listing GBP |
+| --- | ---: | ---: |
+| 49 mm / pictured finish | £749.00 | £120.00 |
 
 ## Louis Vuitton LV Initials reversible belt
 
@@ -216,11 +226,13 @@ Concentration: Eau de Parfum
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
 | 100 ml / Eau de Parfum | £310.00 | £77.50 |
-| 30 ml / Eau de Parfum | Pending | Enquiry |
-| 50 ml / Eau de Parfum | Pending | Enquiry |
-| 240 ml / Eau de Parfum | Pending | Enquiry |
-| 490 ml / Eau de Parfum | Pending | Enquiry |
-| 980 ml / Eau de Parfum | Pending | Enquiry |
+| 30 ml / Eau de Parfum | £93.00* | £23.25 |
+| 50 ml / Eau de Parfum | £155.00* | £38.75 |
+| 240 ml / Eau de Parfum | £744.00* | £186.00 |
+| 490 ml / Eau de Parfum | £1,519.00* | £379.75 |
+| 980 ml / Eau de Parfum | £3,038.00* | £759.50 |
+
+*Creed size references other than 100 ml are scaled proportionally from the manufacturer’s 100 ml reference because the imported size labels do not match a verified bottle listing.
 
 ## Louis Vuitton Imagination
 
@@ -418,7 +430,7 @@ Size: Confirm size
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Black / red graphic / Confirm size | Pending | Enquiry |
+| Black / red graphic / Confirm size | £50.00 owner reference | £14.00 |
 
 ## Possible mixed designer clothing bundle
 
@@ -428,7 +440,7 @@ Selection: Pictured style
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured style | Pending | Enquiry |
+| Pictured style | Shop-set | £150.00 |
 
 ## Possible mixed consumer electronics bundle
 
@@ -438,7 +450,7 @@ Selection: Pictured style
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured style | Pending | Enquiry |
+| Pictured style | Shop-set | £350.00 |
 
 ## Possible mixed designer fragrance bundle
 
@@ -448,7 +460,7 @@ Selection: Pictured style
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured style | Pending | Enquiry |
+| Pictured style | Shop-set | £250.00 |
 
 ## Possible Goyard Saint-Sulpice cardholder
 
@@ -458,7 +470,7 @@ Colour: Green
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Green | Pending | Enquiry |
+| Green | Not listed | £50.00 |
 
 ## Possible designer leather accessories bundle
 
@@ -468,7 +480,7 @@ Selection: Pictured style
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured style | Pending | Enquiry |
+| Pictured style | Shop-set | £250.00 |
 
 ## Possible JBL Pulse-style portable speaker
 
@@ -478,7 +490,7 @@ Colour: Pictured finish
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured finish | Pending | Enquiry |
+| Pictured finish | Not listed | £50.00 |
 
 ## Possible moissanite iced watch
 
@@ -489,7 +501,7 @@ Size: Confirm wrist size
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Silver tone / Confirm wrist size | Pending | Enquiry |
+| Silver tone / Confirm wrist size | Owner-set | £2,500.00 |
 
 ## Possible OEM electric bicycle
 
@@ -499,15 +511,15 @@ Model: Sur-Ron Light Bee X, Talaria MX5 Pro, Talaria XXX (X3), E Ride Pro SS, SU
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Sur-Ron Light Bee X | Pending | Enquiry |
-| Talaria MX5 Pro | Pending | Enquiry |
-| Talaria XXX (X3) | Pending | Enquiry |
-| E Ride Pro SS | Pending | Enquiry |
-| SUPER73 Z Adventure | Pending | Enquiry |
-| Sur-Ron Ultra Bee | Pending | Enquiry |
-| Macfox X2 | Pending | Enquiry |
-| Ride1Up Revv 1 | Pending | Enquiry |
-| Ridstar Q20 | Pending | Enquiry |
+| Sur-Ron Light Bee X | £3,295.00 | £823.75 |
+| Talaria MX5 Pro | £3,995.00 | £998.75 |
+| Talaria XXX (X3) | £3,235.00 | £808.75 |
+| E Ride Pro SS 3.0 | £4,590.00 | £1,147.50 |
+| SUPER73 Z Adventure | ~£2,885.07* | £721.27 |
+| Sur-Ron Ultra Bee HP X | £5,999.00 | £1,499.75 |
+| Macfox X2 | ~£1,436.46* | £359.12 |
+| Ride1Up Revv 1 | ~£1,962.93* | £490.73 |
+| Ridstar Q20 | ~£954.01* | £238.50 |
 
 ## Possible silver iPhone Pro model
 
@@ -518,7 +530,7 @@ Model: Confirm exact model
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Silver / Confirm exact model | Pending | Enquiry |
+| Silver / Confirm exact model | Not listed | £175.00 |
 
 ## Possible mixed starter products bundle
 
@@ -528,4 +540,4 @@ Selection: Pictured style
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Pictured style | Pending | Enquiry |
+| Pictured style | Shop-set | £175.00 |
