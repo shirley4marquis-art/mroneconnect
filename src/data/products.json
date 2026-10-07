@@ -1991,10 +1991,10 @@
     "id": "apple-watch-3-smartwatch-49mm",
     "name": "Apple Watch 3 Smartwatch 49mm",
     "category": "Watches",
-    "image": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp",
-    "cardImage": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp",
+    "image": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.png",
+    "cardImage": "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.png",
     "images": [
-      "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.webp"
+      "/products/cutouts/apple-watch-3-smartwatch-49mm-transparent.png"
     ],
     "variants": [
       "Black",
