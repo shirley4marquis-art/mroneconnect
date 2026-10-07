@@ -411,27 +411,27 @@
         "label": "Original",
         "enabled": true,
         "pricesByOptions": {
-          "Colour=Burgundy|Storage=256 GB": 131900,
-          "Colour=Burgundy|Storage=512 GB": 151900,
-          "Colour=Burgundy|Storage=1 TB": 191900,
-          "Colour=Burgundy|Storage=2 TB": 251900,
-          "Colour=Glacier|Storage=256 GB": 131900,
-          "Colour=Glacier|Storage=512 GB": 151900,
-          "Colour=Glacier|Storage=1 TB": 191900,
-          "Colour=Glacier|Storage=2 TB": 251900,
-          "Colour=Silver|Storage=256 GB": 131900,
-          "Colour=Silver|Storage=512 GB": 151900,
-          "Colour=Silver|Storage=1 TB": 191900,
-          "Colour=Silver|Storage=2 TB": 251900,
-          "Colour=Black|Storage=256 GB": 131900,
-          "Colour=Black|Storage=512 GB": 151900,
-          "Colour=Black|Storage=1 TB": 191900,
-          "Colour=Black|Storage=2 TB": 251900
+          "Colour=Burgundy|Storage=256 GB": 116900,
+          "Colour=Burgundy|Storage=512 GB": 136900,
+          "Colour=Burgundy|Storage=1 TB": 176900,
+          "Colour=Burgundy|Storage=2 TB": 236900,
+          "Colour=Glacier|Storage=256 GB": 116900,
+          "Colour=Glacier|Storage=512 GB": 136900,
+          "Colour=Glacier|Storage=1 TB": 176900,
+          "Colour=Glacier|Storage=2 TB": 236900,
+          "Colour=Silver|Storage=256 GB": 116900,
+          "Colour=Silver|Storage=512 GB": 136900,
+          "Colour=Silver|Storage=1 TB": 176900,
+          "Colour=Silver|Storage=2 TB": 236900,
+          "Colour=Black|Storage=256 GB": 116900,
+          "Colour=Black|Storage=512 GB": 136900,
+          "Colour=Black|Storage=1 TB": 176900,
+          "Colour=Black|Storage=2 TB": 236900
         },
         "stockStatus": "Contact for availability",
         "description": "Original Version — Genuine manufacturer product supplied according to the listed model and specifications. Price and availability must be confirmed before ordering.",
-        "marketPriceMarkupPence": 2000,
-        "marketPriceBasis": "Apple UK Store listed price + £20",
+        "marketPriceMarkupPence": -13000,
+        "marketPriceBasis": "Apple UK listed price less £130 after the requested £150 reduction from the prior +£20 reference",
         "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro/6.9-inch-display-1tb-black"
       }
     ],
@@ -581,23 +581,23 @@
         "label": "Original",
         "enabled": true,
         "pricesByOptions": {
-          "Colour=Cosmic Orange|Storage=256 GB": 121900,
-          "Colour=Cosmic Orange|Storage=512 GB": 141900,
-          "Colour=Cosmic Orange|Storage=1 TB": 161900,
-          "Colour=Cosmic Orange|Storage=2 TB": 201900,
-          "Colour=Silver|Storage=256 GB": 121900,
-          "Colour=Silver|Storage=512 GB": 141900,
-          "Colour=Silver|Storage=1 TB": 161900,
-          "Colour=Silver|Storage=2 TB": 201900,
-          "Colour=Blue|Storage=256 GB": 121900,
-          "Colour=Blue|Storage=512 GB": 141900,
-          "Colour=Blue|Storage=1 TB": 161900,
-          "Colour=Blue|Storage=2 TB": 201900
+          "Colour=Cosmic Orange|Storage=256 GB": 106900,
+          "Colour=Cosmic Orange|Storage=512 GB": 126900,
+          "Colour=Cosmic Orange|Storage=1 TB": 146900,
+          "Colour=Cosmic Orange|Storage=2 TB": 186900,
+          "Colour=Silver|Storage=256 GB": 106900,
+          "Colour=Silver|Storage=512 GB": 126900,
+          "Colour=Silver|Storage=1 TB": 146900,
+          "Colour=Silver|Storage=2 TB": 186900,
+          "Colour=Blue|Storage=256 GB": 106900,
+          "Colour=Blue|Storage=512 GB": 126900,
+          "Colour=Blue|Storage=1 TB": 146900,
+          "Colour=Blue|Storage=2 TB": 186900
         },
         "stockStatus": "Contact for availability",
         "description": "Original Version — Genuine manufacturer product supplied according to the listed model and specifications. Price and availability must be confirmed before ordering.",
-        "marketPriceMarkupPence": 2000,
-        "marketPriceBasis": "Apple UK Store listed price + £20",
+        "marketPriceMarkupPence": -13000,
+        "marketPriceBasis": "Apple UK listed price less £130 after the requested £150 reduction from the prior +£20 reference",
         "marketReferenceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.9-inch-display-2tb-silver"
       }
     ],
@@ -786,11 +786,11 @@
         "label": "Original",
         "enabled": true,
         "pricesByOptions": {
-          "Colour=Silver|Configuration=14-inch M3 base configuration": 171900,
-          "Colour=Space Grey|Configuration=14-inch M3 base configuration": 171900
+          "Colour=Silver|Configuration=14-inch M3 base configuration": 156900,
+          "Colour=Space Grey|Configuration=14-inch M3 base configuration": 156900
         },
-        "marketPriceMarkupPence": 2000,
-        "marketPriceBasis": "Apple UK original listed price + £20",
+        "marketPriceMarkupPence": -13000,
+        "marketPriceBasis": "Apple UK listed price less £130 after the requested £150 reduction from the prior +£20 reference",
         "marketReferenceUrl": "https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/",
         "stockStatus": "Contact for availability",
         "description": "Original Version — Genuine Apple product supplied according to the listed model and configuration."
@@ -826,21 +826,21 @@
       "Silver / 1 TB"
     ],
     "description": "An iPhone 17 Pro with a distinctive raised camera panel and a compact Pro design. Choose Cosmic Orange, Deep Blue or Silver, then select your preferred storage capacity.",
-    "pricePence": 32500,
+    "pricePence": 94900,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": 325,
+        "price": 949,
         "minimum": 1
       }
     },
     "retailReference": {
       "name": "Apple iPhone 17 Pro — selected configuration",
-      "retailPence": 130000,
-      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-512gb-silver?purchaseOption=ipi",
-      "basis": "Manufacturer page lists 256 GB option at GBP 1,099; assumed storage",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+      "retailPence": 109900,
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro/6.3-inch-display-256gb-cosmic-orange",
+      "basis": "Apple UK Store listed price by storage",
+      "checkedAt": "2026-10-07",
+      "verification": "Manufacturer listed price; availability and exact specification should be confirmed before fulfilment."
     },
     "optionGroups": [
       {
@@ -867,8 +867,8 @@
           "Colour": "Cosmic Orange",
           "Storage": "256 GB"
         },
-        "retailPence": 130000,
-        "pricePence": 32500,
+        "retailPence": 109900,
+        "pricePence": 94900,
         "images": [
           "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
@@ -879,8 +879,8 @@
           "Colour": "Cosmic Orange",
           "Storage": "512 GB"
         },
-        "retailPence": 138000,
-        "pricePence": 34500,
+        "retailPence": 129900,
+        "pricePence": 114900,
         "images": [
           "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
@@ -891,8 +891,8 @@
           "Colour": "Cosmic Orange",
           "Storage": "1 TB"
         },
-        "retailPence": 146000,
-        "pricePence": 36500,
+        "retailPence": 149900,
+        "pricePence": 134900,
         "images": [
           "/products/cutouts/phone-17-pro-cosmic-orange-retailer-main-transparent.webp"
         ]
@@ -903,8 +903,8 @@
           "Colour": "Deep Blue",
           "Storage": "256 GB"
         },
-        "retailPence": 130000,
-        "pricePence": 32500,
+        "retailPence": 109900,
+        "pricePence": 94900,
         "images": [
           "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
@@ -915,8 +915,8 @@
           "Colour": "Deep Blue",
           "Storage": "512 GB"
         },
-        "retailPence": 138000,
-        "pricePence": 34500,
+        "retailPence": 129900,
+        "pricePence": 114900,
         "images": [
           "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
@@ -927,8 +927,8 @@
           "Colour": "Deep Blue",
           "Storage": "1 TB"
         },
-        "retailPence": 146000,
-        "pricePence": 36500,
+        "retailPence": 149900,
+        "pricePence": 134900,
         "images": [
           "/products/cutouts/phone-17-pro-deep-blue-retailer-main-transparent.webp"
         ]
@@ -939,8 +939,8 @@
           "Colour": "Silver",
           "Storage": "256 GB"
         },
-        "retailPence": 130000,
-        "pricePence": 32500,
+        "retailPence": 109900,
+        "pricePence": 94900,
         "images": [
           "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
@@ -951,8 +951,8 @@
           "Colour": "Silver",
           "Storage": "512 GB"
         },
-        "retailPence": 138000,
-        "pricePence": 34500,
+        "retailPence": 129900,
+        "pricePence": 114900,
         "images": [
           "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
@@ -963,8 +963,8 @@
           "Colour": "Silver",
           "Storage": "1 TB"
         },
-        "retailPence": 146000,
-        "pricePence": 36500,
+        "retailPence": 149900,
+        "pricePence": 134900,
         "images": [
           "/products/cutouts/phone-17-pro-silver-retailer-main-transparent.webp"
         ]
@@ -1191,13 +1191,13 @@
         "label": "Original",
         "enabled": true,
         "pricesByOptions": {
-          "Colour=Midnight|Configuration=13.6-inch M2 base configuration": 126900,
-          "Colour=Starlight|Configuration=13.6-inch M2 base configuration": 126900,
-          "Colour=Silver|Configuration=13.6-inch M2 base configuration": 126900,
-          "Colour=Space Grey|Configuration=13.6-inch M2 base configuration": 126900
+          "Colour=Midnight|Configuration=13.6-inch M2 base configuration": 111900,
+          "Colour=Starlight|Configuration=13.6-inch M2 base configuration": 111900,
+          "Colour=Silver|Configuration=13.6-inch M2 base configuration": 111900,
+          "Colour=Space Grey|Configuration=13.6-inch M2 base configuration": 111900
         },
-        "marketPriceMarkupPence": 2000,
-        "marketPriceBasis": "Apple UK original listed price + £20",
+        "marketPriceMarkupPence": -13000,
+        "marketPriceBasis": "Apple UK listed price less £130 after the requested £150 reduction from the prior +£20 reference",
         "marketReferenceUrl": "https://www.apple.com/uk/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/",
         "stockStatus": "Contact for availability",
         "description": "Original Version — Genuine Apple product supplied according to the listed model and configuration."
@@ -1249,11 +1249,11 @@
       "Titanium Green / 1 TB"
     ],
     "description": "The Galaxy S24 Ultra features a squared-edge design, a large display and an integrated S Pen. Choose from seven Titanium finishes and 256 GB, 512 GB or 1 TB storage.",
-    "pricePence": 31225,
+    "pricePence": 15000,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": 312.25,
+        "price": 150,
         "minimum": 1
       }
     },
@@ -1295,7 +1295,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
@@ -1307,7 +1307,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
@@ -1319,7 +1319,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-grey-main-transparent.webp"
         ]
@@ -1331,7 +1331,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
@@ -1343,7 +1343,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
@@ -1355,7 +1355,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-black-main-transparent.webp"
         ]
@@ -1367,7 +1367,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
@@ -1379,7 +1379,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
@@ -1391,7 +1391,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-violet-main-transparent.webp"
         ]
@@ -1403,7 +1403,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
@@ -1415,7 +1415,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
@@ -1427,7 +1427,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-yellow-main-transparent.webp"
         ]
@@ -1439,7 +1439,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
@@ -1451,7 +1451,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
@@ -1463,7 +1463,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-blue-main-transparent.webp"
         ]
@@ -1475,7 +1475,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
@@ -1487,7 +1487,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
@@ -1499,7 +1499,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-orange-main-transparent.webp"
         ]
@@ -1511,7 +1511,7 @@
           "Storage": "256 GB"
         },
         "retailPence": 124900,
-        "pricePence": 31225,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
@@ -1523,7 +1523,7 @@
           "Storage": "512 GB"
         },
         "retailPence": 134900,
-        "pricePence": 33725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
@@ -1535,7 +1535,7 @@
           "Storage": "1 TB"
         },
         "retailPence": 154900,
-        "pricePence": 38725,
+        "pricePence": 15000,
         "images": [
           "/products/cutouts/phone-titanium-green-main-transparent.webp"
         ]
@@ -1585,7 +1585,20 @@
         "view": "Main"
       }
     ],
-    "stockQuantity": 94
+    "stockQuantity": 94,
+    "qualityVariants": [
+      {
+        "id": "rep",
+        "label": "Rep",
+        "enabled": true,
+        "pricing": {
+          "basePricePence": 15000
+        },
+        "stockStatus": "Contact for availability",
+        "description": "Rep Version — A third-party alternative product offered at a lower price point. Specifications and included features are listed on this product page."
+      }
+    ],
+    "defaultQuality": "rep"
   },
   {
     "id": "phone-2",
@@ -1622,11 +1635,11 @@
       "Ultramarine / 128 GB"
     ],
     "description": "The iPhone 16 has a dual rear-camera design and a 128 GB storage option. Available in Black, White, Pink, Teal and Ultramarine.",
-    "pricePence": 19975,
+    "pricePence": 64900,
     "pricing": {
       "consumer": {
         "label": "Unit price",
-        "price": 199.75,
+        "price": 649,
         "minimum": 1
       }
     },
@@ -1635,8 +1648,8 @@
       "retailPence": 79900,
       "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-16?step=select",
       "basis": "Manufacturer retail reference; assumed 128 GB",
-      "checkedAt": "2026-09-28",
-      "verification": "Visual reference only; source listing does not establish authenticity, specification or physical stock."
+      "checkedAt": "2026-10-07",
+      "verification": "Manufacturer listed price; availability and exact specification should be confirmed before fulfilment."
     },
     "optionGroups": [
       {
@@ -1664,7 +1677,7 @@
           "Storage": "128 GB"
         },
         "retailPence": 79900,
-        "pricePence": 19975,
+        "pricePence": 64900,
         "images": [
           "/products/options/phone-2-black-main.png",
           "/products/cutouts/phone-2-black--av2-transparent.webp",
@@ -1678,7 +1691,7 @@
           "Storage": "128 GB"
         },
         "retailPence": 79900,
-        "pricePence": 19975,
+        "pricePence": 64900,
         "images": [
           "/products/options/phone-2-white-main.png",
           "/products/cutouts/phone-2-white--av2-transparent.webp",
@@ -1692,7 +1705,7 @@
           "Storage": "128 GB"
         },
         "retailPence": 79900,
-        "pricePence": 19975,
+        "pricePence": 64900,
         "images": [
           "/products/options/phone-2-pink-main.png",
           "/products/cutouts/phone-2-pink--av2-transparent.webp",
@@ -1706,7 +1719,7 @@
           "Storage": "128 GB"
         },
         "retailPence": 79900,
-        "pricePence": 19975,
+        "pricePence": 64900,
         "images": [
           "/products/options/phone-2-teal-main.png",
           "/products/cutouts/phone-2-teal--av2-transparent.webp",
@@ -1720,7 +1733,7 @@
           "Storage": "128 GB"
         },
         "retailPence": 79900,
-        "pricePence": 19975,
+        "pricePence": 64900,
         "images": [
           "/products/options/phone-2-ultramarine-main.png",
           "/products/cutouts/phone-2-ultramarine--av2-transparent.webp",

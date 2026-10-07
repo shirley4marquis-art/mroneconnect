@@ -954,6 +954,7 @@ function ProductCard({ product }) {
   const productVariants = getProductVariants(product);
   const defaultVariant = getDefaultProductVariant(product);
   const lowestPrice = productVariants.map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b) => a-b)[0];
+  const originalMarketPrice = productVariants.map(v => v.retailPence).filter(Number.isSafeInteger).sort((a,b) => a-b)[0];
   const repPrice = productVariants.filter(v => v.qualityId === "rep").map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b)=>a-b)[0];
   const originalPrice = productVariants.filter(v => v.qualityId === "original").map(v => v.pricePence).filter(Number.isSafeInteger).sort((a,b)=>a-b)[0];
 
@@ -990,6 +991,7 @@ function ProductCard({ product }) {
           {product.name}
         </a>
       </h3>
+      {!product.qualityVariants?.length && originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p className="mt-2 text-sm text-white/65">Original market price from <strong className="text-white">{formatGBP(originalMarketPrice / 100)}</strong></p>}
       {product.qualityVariants?.length ? <div className="mt-5 grid gap-1 text-sm text-white/75">
         {product.qualityVariants.filter(q=>q.enabled!==false).map(q => {
           const value = q.id === "rep" ? repPrice : q.id === "original" ? originalPrice : lowestPrice;
@@ -1275,6 +1277,7 @@ function ProductDetailsPage({ id }) {
   const maximumQuantity = getStockQuantity(product, variant) ?? 999;
   const [quantity, setQuantity] = useState(minimumQuantity);
   const pricing = getPricingForQuantity(product, quantity, variant);
+  const originalMarketPrice = getVariant(product, variant)?.retailPence;
 
   useEffect(() => {
     setActiveImage(null);
@@ -1340,6 +1343,7 @@ function ProductDetailsPage({ id }) {
                 <p className="text-sm text-white/62">Current unit price</p>
                 <strong className="mt-1 block text-3xl text-white">{formatGBP(pricing.price)}</strong>
                 <p className="mt-2 text-sm font-semibold text-titanium">{pricing.label}</p>
+                {Number.isSafeInteger(originalMarketPrice) && originalMarketPrice > Math.round(pricing.price * 100) && <p className="mt-3 text-sm text-white/65">Original market price: <strong className="text-white">{formatGBP(originalMarketPrice / 100)}</strong></p>}
               </div>
               <button
                 type="button"

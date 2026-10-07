@@ -1,6 +1,6 @@
 # Product options
 
-All 39 listings use the same option selectors on product pages, cart and checkout. Options are reference configurations, not verified physical stock. UK retail reference prices are multiplied by 25% in integer pence. Unknown option prices require an enquiry and cannot enter checkout. Images remain the pictured colour; alternate colour photography is not invented.
+All 39 listings use the same option selectors on product pages, cart and checkout. Options are reference configurations, not verified physical stock. Rep listing prices generally use 25% of UK retail references; phone and laptop Original prices have been reduced by £150 from their prior Original prices. Unknown option prices require an enquiry and cannot enter checkout. Images remain the pictured colour; alternate colour photography is not invented.
 
 Other option requests are saved per item and included in the order message; requests do not change the selected priced configuration.
 
@@ -11,10 +11,10 @@ Configuration: 14-inch M3 base configuration
 
 [Option reference](https://www.apple.com/uk/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/)
 
-| Configuration | UK retail | Listing GBP |
-|---|---:|---:|
-| Silver / 14-inch M3 base configuration | £1699.00 | £424.75 |
-| Space Grey / 14-inch M3 base configuration | £1699.00 | £424.75 |
+| Configuration | UK retail | Rep GBP | Original GBP |
+|---|---:|---:|---:|
+| Silver / 14-inch M3 base configuration | £1699.00 | £424.75 | £1569.00 |
+| Space Grey / 14-inch M3 base configuration | £1699.00 | £424.75 | £1569.00 |
 
 ## Apple iPhone 18 Pro Max
 
@@ -23,24 +23,38 @@ Storage: 256 GB, 512 GB, 1 TB, 2 TB
 
 [Option reference](https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro)
 
-| Configuration | UK retail | Listing GBP |
+| Configuration | UK retail | Rep GBP | Original GBP |
+|---|---:|---:|---:|
+| Burgundy / 256 GB | £1299.00 | £324.75 | £1169.00 |
+| Burgundy / 512 GB | £1499.00 | £374.75 | £1369.00 |
+| Burgundy / 1 TB | £1899.00 | £474.75 | £1769.00 |
+| Burgundy / 2 TB | £2499.00 | £624.75 | £2369.00 |
+| Glacier / 256 GB | £1299.00 | £324.75 | £1169.00 |
+| Glacier / 512 GB | £1499.00 | £374.75 | £1369.00 |
+| Glacier / 1 TB | £1899.00 | £474.75 | £1769.00 |
+| Glacier / 2 TB | £2499.00 | £624.75 | £2369.00 |
+| Silver / 256 GB | £1299.00 | £324.75 | £1169.00 |
+| Silver / 512 GB | £1499.00 | £374.75 | £1369.00 |
+| Silver / 1 TB | £1899.00 | £474.75 | £1769.00 |
+| Silver / 2 TB | £2499.00 | £624.75 | £2369.00 |
+| Black / 256 GB | £1299.00 | £324.75 | £1169.00 |
+| Black / 512 GB | £1499.00 | £374.75 | £1369.00 |
+| Black / 1 TB | £1899.00 | £474.75 | £1769.00 |
+| Black / 2 TB | £2499.00 | £624.75 | £2369.00 |
+
+## Apple iPhone 17 Pro Max
+
+Colour: Cosmic Orange, Silver, Blue
+Storage: 256 GB, 512 GB, 1 TB, 2 TB
+
+Original prices are the same for all listed colours.
+
+| Storage | Rep GBP | Original GBP |
 |---|---:|---:|
-| Burgundy / 256 GB | £1299.00 | £324.75 |
-| Burgundy / 512 GB | £1499.00 | £374.75 |
-| Burgundy / 1 TB | £1899.00 | £474.75 |
-| Burgundy / 2 TB | £2499.00 | £624.75 |
-| Glacier / 256 GB | £1299.00 | £324.75 |
-| Glacier / 512 GB | £1499.00 | £374.75 |
-| Glacier / 1 TB | £1899.00 | £474.75 |
-| Glacier / 2 TB | £2499.00 | £624.75 |
-| Silver / 256 GB | £1299.00 | £324.75 |
-| Silver / 512 GB | £1499.00 | £374.75 |
-| Silver / 1 TB | £1899.00 | £474.75 |
-| Silver / 2 TB | £2499.00 | £624.75 |
-| Black / 256 GB | £1299.00 | £324.75 |
-| Black / 512 GB | £1499.00 | £374.75 |
-| Black / 1 TB | £1899.00 | £474.75 |
-| Black / 2 TB | £2499.00 | £624.75 |
+| 256 GB | £175.00 | £1069.00 |
+| 512 GB | £200.00 | £1269.00 |
+| 1 TB | £225.00 | £1469.00 |
+| 2 TB | £250.00 | £1869.00 |
 
 ## Apple MacBook Air M2, 13.6-inch
 
@@ -49,12 +63,12 @@ Configuration: 13.6-inch M2 base configuration
 
 [Option reference](https://www.apple.com/uk/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 
-| Configuration | UK retail | Listing GBP |
-|---|---:|---:|
-| Midnight / 13.6-inch M2 base configuration | £1249.00 | £312.25 |
-| Starlight / 13.6-inch M2 base configuration | £1249.00 | £312.25 |
-| Silver / 13.6-inch M2 base configuration | £1249.00 | £312.25 |
-| Space Grey / 13.6-inch M2 base configuration | £1249.00 | £312.25 |
+| Configuration | UK retail | Rep GBP | Original GBP |
+|---|---:|---:|---:|
+| Midnight / 13.6-inch M2 base configuration | £1249.00 | £312.25 | £1119.00 |
+| Starlight / 13.6-inch M2 base configuration | £1249.00 | £312.25 | £1119.00 |
+| Silver / 13.6-inch M2 base configuration | £1249.00 | £312.25 | £1119.00 |
+| Space Grey / 13.6-inch M2 base configuration | £1249.00 | £312.25 | £1119.00 |
 
 ## Samsung Galaxy S24 Ultra
 
@@ -63,29 +77,31 @@ Storage: 256 GB, 512 GB, 1 TB
 
 [Option reference](https://news.samsung.com/uk/enter-the-new-era-of-mobile-ai-with-samsung-galaxy-s24-series)
 
+Rep only is offered; every listed finish and storage option is £150. No Original version is available.
+
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Titanium Grey / 256 GB | £1249.00 | £312.25 |
-| Titanium Grey / 512 GB | £1349.00 | £337.25 |
-| Titanium Grey / 1 TB | £1549.00 | £387.25 |
-| Titanium Black / 256 GB | £1249.00 | £312.25 |
-| Titanium Black / 512 GB | £1349.00 | £337.25 |
-| Titanium Black / 1 TB | £1549.00 | £387.25 |
-| Titanium Violet / 256 GB | £1249.00 | £312.25 |
-| Titanium Violet / 512 GB | £1349.00 | £337.25 |
-| Titanium Violet / 1 TB | £1549.00 | £387.25 |
-| Titanium Yellow / 256 GB | £1249.00 | £312.25 |
-| Titanium Yellow / 512 GB | £1349.00 | £337.25 |
-| Titanium Yellow / 1 TB | £1549.00 | £387.25 |
-| Titanium Blue / 256 GB | £1249.00 | £312.25 |
-| Titanium Blue / 512 GB | £1349.00 | £337.25 |
-| Titanium Blue / 1 TB | £1549.00 | £387.25 |
-| Titanium Orange / 256 GB | £1249.00 | £312.25 |
-| Titanium Orange / 512 GB | £1349.00 | £337.25 |
-| Titanium Orange / 1 TB | £1549.00 | £387.25 |
-| Titanium Green / 256 GB | £1249.00 | £312.25 |
-| Titanium Green / 512 GB | £1349.00 | £337.25 |
-| Titanium Green / 1 TB | £1549.00 | £387.25 |
+| Titanium Grey / 256 GB | £1249.00 | £150.00 |
+| Titanium Grey / 512 GB | £1349.00 | £150.00 |
+| Titanium Grey / 1 TB | £1549.00 | £150.00 |
+| Titanium Black / 256 GB | £1249.00 | £150.00 |
+| Titanium Black / 512 GB | £1349.00 | £150.00 |
+| Titanium Black / 1 TB | £1549.00 | £150.00 |
+| Titanium Violet / 256 GB | £1249.00 | £150.00 |
+| Titanium Violet / 512 GB | £1349.00 | £150.00 |
+| Titanium Violet / 1 TB | £1549.00 | £150.00 |
+| Titanium Yellow / 256 GB | £1249.00 | £150.00 |
+| Titanium Yellow / 512 GB | £1349.00 | £150.00 |
+| Titanium Yellow / 1 TB | £1549.00 | £150.00 |
+| Titanium Blue / 256 GB | £1249.00 | £150.00 |
+| Titanium Blue / 512 GB | £1349.00 | £150.00 |
+| Titanium Blue / 1 TB | £1549.00 | £150.00 |
+| Titanium Orange / 256 GB | £1249.00 | £150.00 |
+| Titanium Orange / 512 GB | £1349.00 | £150.00 |
+| Titanium Orange / 1 TB | £1549.00 | £150.00 |
+| Titanium Green / 256 GB | £1249.00 | £150.00 |
+| Titanium Green / 512 GB | £1349.00 | £150.00 |
+| Titanium Green / 1 TB | £1549.00 | £150.00 |
 
 ## Apple iPhone 17 Pro
 
@@ -96,15 +112,15 @@ Storage: 256 GB, 512 GB, 1 TB
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Cosmic Orange / 256 GB | £1099.00 | £274.75 |
-| Cosmic Orange / 512 GB | Pending | Enquiry |
-| Cosmic Orange / 1 TB | Pending | Enquiry |
-| Deep Blue / 256 GB | £1099.00 | £274.75 |
-| Deep Blue / 512 GB | Pending | Enquiry |
-| Deep Blue / 1 TB | Pending | Enquiry |
-| Silver / 256 GB | £1099.00 | £274.75 |
-| Silver / 512 GB | Pending | Enquiry |
-| Silver / 1 TB | Pending | Enquiry |
+| Cosmic Orange / 256 GB | £1099.00 | £949.00 |
+| Cosmic Orange / 512 GB | £1299.00 | £1149.00 |
+| Cosmic Orange / 1 TB | £1499.00 | £1349.00 |
+| Deep Blue / 256 GB | £1099.00 | £949.00 |
+| Deep Blue / 512 GB | £1299.00 | £1149.00 |
+| Deep Blue / 1 TB | £1499.00 | £1349.00 |
+| Silver / 256 GB | £1099.00 | £949.00 |
+| Silver / 512 GB | £1299.00 | £1149.00 |
+| Silver / 1 TB | £1499.00 | £1349.00 |
 
 ## Apple iPhone 16
 
@@ -115,11 +131,11 @@ Storage: 128 GB
 
 | Configuration | UK retail | Listing GBP |
 |---|---:|---:|
-| Black / 128 GB | £799.00 | £199.75 |
-| White / 128 GB | £799.00 | £199.75 |
-| Pink / 128 GB | £799.00 | £199.75 |
-| Teal / 128 GB | £799.00 | £199.75 |
-| Ultramarine / 128 GB | £799.00 | £199.75 |
+| Black / 128 GB | £799.00 | £649.00 |
+| White / 128 GB | £799.00 | £649.00 |
+| Pink / 128 GB | £799.00 | £649.00 |
+| Teal / 128 GB | £799.00 | £649.00 |
+| Ultramarine / 128 GB | £799.00 | £649.00 |
 
 ## Apple AirPods Max, USB-C, 2024
 
