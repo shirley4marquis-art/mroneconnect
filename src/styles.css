@@ -1769,6 +1769,28 @@ body::selection {
 }
 
 @media (max-width: 640px) {
+  .product-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+
+  .product-filters label {
+    min-width: 0;
+    gap: 0.25rem;
+    font-size: 0.7rem;
+    line-height: 1.2;
+  }
+
+  .product-filters label:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .product-filters input,
+  .product-filters select {
+    min-height: 2.5rem;
+    padding: 0.5rem 0.75rem;
+  }
+
   .review-grid {
     column-count: 1;
   }
@@ -2081,8 +2103,102 @@ body::selection {
 .hero-overlay-actions a, .hero-overlay-actions button { backdrop-filter: blur(14px); background-color: rgba(8, 18, 24, .72); box-shadow: 0 6px 30px rgba(0,0,0,.2); }
 @media (min-width: 640px) { .home-slideshow { aspect-ratio: auto; height: calc(100svh - 80px); min-height: 650px; max-height: 1100px; } }
 
+.home-order-section {
+  position: relative;
+  z-index: 1;
+  isolation: isolate;
+  margin-top: -6rem;
+  padding-top: 10rem;
+}
+
+.home-order-section::before {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 10rem;
+  background: linear-gradient(180deg, transparent, #070707);
+  content: "";
+  pointer-events: none;
+}
+
+.home-order-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+.home-order-card {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.09), rgba(7, 7, 7, 0.7));
+  box-shadow: 0 14px 50px rgba(0, 0, 0, 0.3), 0 0 28px rgba(79, 195, 247, 0.08);
+  backdrop-filter: blur(18px);
+}
+
+.home-order-card:hover {
+  box-shadow: 0 18px 58px rgba(0, 0, 0, 0.36), 0 0 32px rgba(79, 195, 247, 0.18);
+}
+
 .product-card { background-color: #0b0d0e; isolation: isolate; backdrop-filter: none; }
 .surface-card:has(.product-image-blend) { min-width: 0; background-color: #17191a; isolation: isolate; backdrop-filter: none; }
+
+.product-card-compact {
+  aspect-ratio: 1;
+  min-width: 0;
+  gap: 0.375rem;
+  padding: clamp(0.625rem, 1.5vw, 1rem);
+}
+
+.product-card-image-link {
+  display: grid;
+  flex: 1;
+  min-height: 0;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 0.625rem;
+  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.14), rgba(79, 195, 247, 0.06) 48%, transparent 76%);
+}
+
+.product-card-compact .shop-card-image {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  aspect-ratio: auto;
+}
+
+.product-card-name {
+  flex: 0 0 auto;
+  color: #ffffff;
+  font-size: clamp(0.65rem, 1vw, 0.8rem);
+  font-weight: 600;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.product-card-name:hover,
+.product-card-name:focus-visible {
+  color: #7ddcff;
+}
+
+.product-card-prices {
+  display: grid;
+  gap: 0.1rem;
+  margin-top: 0;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: clamp(0.65rem, 1vw, 0.8rem);
+  line-height: 1.2;
+}
+
+.product-card-prices p {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.25rem;
+  margin: 0;
+}
+
+.product-card-prices strong {
+  color: #ffffff;
+  font-weight: 700;
+}
 
 /* Alpha cutouts retain their original colours on every card surface. */
 .product-image-blend[src$="-transparent.png"],

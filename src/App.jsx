@@ -948,7 +948,7 @@ function QuantityControl({ value, onChange, min = 1, max = 999 }) {
   );
 }
 
-function ProductCard({ product }) {
+function ProductCard({ product, compact = false }) {
   const { addItem } = useCart();
   const detailPath = productPath(product);
   const productVariants = getProductVariants(product);
@@ -960,13 +960,25 @@ function ProductCard({ product }) {
 
   return (
     <motion.article
-      className="product-card flex h-full flex-col"
+      className={`product-card flex flex-col ${compact ? "product-card-compact" : "h-full"}`}
       initial={{ opacity: 0, y: 18 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.25 }}
       transition={{ duration: 0.35 }}
     >
+      {compact && <a
+        className="product-card-name"
+        href={detailPath}
+        onClick={(event) => {
+          if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          event.preventDefault();
+          navigateTo(detailPath);
+        }}
+      >
+        {product.name}
+      </a>}
       <a
+        className={compact ? "product-card-image-link" : undefined}
         href={detailPath}
         aria-label={`View ${product.name}`}
         onClick={(event) => {
@@ -977,8 +989,8 @@ function ProductCard({ product }) {
       >
         <img className="shop-card-image product-image-blend" loading="lazy" src={product.cardImage} alt={product.name} />
       </a>
-      <p className="mt-5 text-xs font-bold uppercase tracking-[0.22em] text-aqua">{product.category}</p>
-      <h3 className="mt-2 text-2xl font-semibold text-white">
+      {!compact && <p className="mt-5 text-xs font-bold uppercase tracking-[0.22em] text-aqua">{product.category}</p>}
+      {!compact && <h3 className="mt-2 text-2xl font-semibold text-white">
         <a
           className="transition hover:text-aqua focus-visible:text-aqua"
           href={detailPath}
@@ -990,27 +1002,31 @@ function ProductCard({ product }) {
         >
           {product.name}
         </a>
-      </h3>
-      {!product.qualityVariants?.length && originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p className="mt-2 text-sm text-white/65">Original market price from <strong className="text-white">{formatGBP(originalMarketPrice / 100)}</strong></p>}
-      {product.qualityVariants?.length ? <div className="mt-5 grid gap-1 text-sm text-white/75">
+      </h3>}
+      {product.qualityVariants?.length ? <div className={`mt-5 grid gap-1 text-sm text-white/75 ${compact ? "product-card-prices" : ""}`}>
         {product.qualityVariants.filter(q=>q.enabled!==false).map(q => {
           const value = q.id === "rep" ? repPrice : q.id === "original" ? originalPrice : lowestPrice;
-          return <p key={q.id}><span className="mr-2 inline-flex rounded-full border border-white/20 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider">{q.label}</span>{value ? <>from <strong className="text-white">{formatGBP(value/100)}</strong></> : <strong className="text-white">Contact for price</strong>}</p>;
+          return <p key={q.id}><span className={compact ? "" : "mr-2 inline-flex rounded-full border border-white/20 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider"}>{q.label}</span>{value ? compact ? <strong>{formatGBP(value/100)}</strong> : <>from <strong className="text-white">{formatGBP(value/100)}</strong></> : <strong>{compact ? "Price on request" : "Contact for price"}</strong>}</p>;
         })}
+      </div> : compact ? <div className="product-card-prices">
+        <p><span>Rep</span><strong>{formatGBP(product.pricing.consumer.price)}</strong></p>
+        {originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p><span>Original</span><strong>{formatGBP(originalMarketPrice / 100)}</strong></p>}
       </div> : <p className="starting-price mt-5">{product.variants.length > 1 && isPurchasable(product) ? "From " : ""}{formatGBP(product.pricing.consumer.price)}</p>}
-      {getStockQuantity(product) !== null && <p className="mt-2 text-xs font-semibold text-white/58">In stock · {getStockQuantity(product)} available</p>}
-      <div className="mt-5">
+      {!compact && !product.qualityVariants?.length && originalMarketPrice !== undefined && originalMarketPrice > lowestPrice && <p className="mt-2 text-sm text-white/65">Original market price from <strong className="text-white">{formatGBP(originalMarketPrice / 100)}</strong></p>}
+      {!compact && getStockQuantity(product) !== null && <p className="mt-2 text-xs font-semibold text-white/58">In stock · {getStockQuantity(product)} available</p>}
+      <div className={compact ? "mt-auto pt-2" : "mt-5"}>
         <button
           type="button"
+          aria-label={`Buy ${product.name}`}
           onClick={() => {
             if (product.qualityVariants?.length || !isPurchasable(product) || product.variants.length > 1 || (product.minimumOrderQuantity || 1) > 1) { navigateTo(`/products/${product.id}`); return; }
             addItem({ productId: product.id, variant: defaultVariant, quantity: 1 });
             navigateTo("/checkout");
           }}
-          className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full border border-aqua/40 bg-aqua/15 px-5 text-xs font-bold uppercase tracking-[0.14em] text-white transition hover:border-titanium/50"
+          className={`inline-flex w-full items-center justify-center gap-2 rounded-full border border-aqua/40 bg-aqua/15 px-5 text-xs font-bold uppercase tracking-[0.14em] text-white transition hover:border-titanium/50 ${compact ? "min-h-9" : "min-h-12"}`}
         >
-          <ShoppingBag className="h-4 w-4" />
-          Buy Now
+          {!compact && <ShoppingBag className="h-4 w-4" />}
+          {compact ? "BUY" : "Buy Now"}
         </button>
       </div>
     </motion.article>
@@ -1047,13 +1063,9 @@ function ReviewsPreview() {
   );
 }
 
-const trustPoints = [
-  { icon: ShieldCheck, title: "Verified checkout", copy: "Clear pricing with no hidden fees." },
-  { icon: PackageCheck, title: "Fast dispatch", copy: "Orders packed and shipped quickly." },
-  { icon: MessageCircle, title: "Direct support", copy: "Real replies on WhatsApp & Telegram." },
-];
-
 const heroSlides = [
+  { src: "/hero/379b745f8a6f6a948c6f44ef481cc7e0.jpg", alt: "Burgundy iPhone 18 Pro Max with stock boxes" },
+  { src: "/hero/5f0a00384c6a1163e48ebd1ffe24664e.jpg", alt: "iPhone 18 Pro Max stock in burgundy, silver and blue" },
   { src: "/hero/hero-1.jpeg", alt: "Fresh iPhone stock ready to ship" },
   { src: "/hero/hero-2.jpeg", alt: "Orders packed and ready for dispatch" },
   { src: "/hero/hero-3.jpeg", alt: "New arrivals sorted daily" },
@@ -1158,19 +1170,18 @@ function HeroActions() {
 
 function TrustStrip() {
   return (
-    <div className="grid gap-4 sm:grid-cols-3">
-      {trustPoints.map(({ icon: Icon, title, copy }) => (
-        <Card key={title} className="flex items-start gap-4 p-5">
-          <span className="icon-orb flex-none">
-            <Icon className="h-5 w-5" />
-          </span>
-          <div>
-            <h3 className="text-sm font-bold uppercase tracking-[0.08em] text-white">{title}</h3>
-            <p className="mt-2 text-sm leading-6 text-white/62">{copy}</p>
-          </div>
-        </Card>
-      ))}
-    </div>
+    <a
+      href="https://t.me/mroneconnect"
+      target="_blank"
+      rel="noreferrer"
+      className="home-order-card mx-auto flex min-h-24 w-full max-w-3xl items-center justify-center gap-4 rounded-2xl border border-aqua/35 px-6 py-6 text-white transition hover:border-aqua/70"
+    >
+      <span className="icon-orb flex-none">
+        <Send className="h-5 w-5" />
+      </span>
+      <span className="text-lg font-bold uppercase tracking-[0.16em] sm:text-xl">Order Now</span>
+      <ArrowRight className="h-5 w-5 text-aqua" />
+    </a>
   );
 }
 
@@ -1179,7 +1190,7 @@ function HomePage() {
     <main>
       <Hero />
 
-      <section className="section-shell">
+      <section className="section-shell home-order-section">
         <TrustStrip />
       </section>
 
@@ -1211,15 +1222,13 @@ function ProductsPage() {
   const [version, setVersion] = useState("All");
   const filtered = products.filter(p => (category === "All" || p.category === category) && (version === "All" || p.qualityVariants?.some(q=>q.id===version.toLowerCase()&&q.enabled!==false)) && [p.name, p.sourceTitle, p.retailReference.name].join(" ").toLowerCase().includes(query.toLowerCase()));
   return (
-    <PageShell eyebrow={`${products.length} products · GBP`} title="Explore the collection." actions={<LinkButton to="/cart">View Cart</LinkButton>}>
-      <p className="mb-6 max-w-3xl leading-7 text-white/70">Shop phones, electronics, designer clothing, perfumes and watches for UK delivery. Choose your colour, size or storage, with clear prices in pounds sterling.</p>
-      <div className="mb-4 grid gap-4 sm:grid-cols-[1fr_240px_180px]">
+    <PageShell eyebrow={`${products.length} products · GBP`} title="Products">
+      <div className="product-filters mb-4 grid gap-4 sm:grid-cols-[1fr_240px_180px]">
         <label className="grid gap-2 text-white">Search products<input className="rounded-lg border border-white/20 bg-black/40 p-3" type="search" placeholder="Search products, brands or models" value={query} onChange={e => setQuery(e.target.value)} /></label>
         <label className="grid gap-2 text-white">Category<select className="rounded-lg border border-white/20 bg-black p-3" value={category} onChange={e => setCategory(e.target.value)}>{["All", "Electronics", "Designers", "Perfumes", "Watches", "Extras"].map(c => <option key={c}>{c}</option>)}</select></label>
         <label className="grid gap-2 text-white">Version<select className="rounded-lg border border-white/20 bg-black p-3" value={version} onChange={e => setVersion(e.target.value)}>{["All", "Rep", "Original"].map(c => <option key={c}>{c}</option>)}</select></label>
       </div>
-      <p className="mb-6 text-white/60" role="status">{filtered.length} of {products.length} products · Price: high to low</p>
-      <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map(product => <ProductCard key={product.id} product={product} />)}</div>
+      <div className="grid grid-cols-2 gap-3 md:gap-5">{filtered.map(product => <ProductCard key={product.id} product={product} compact />)}</div>
       {!filtered.length && <p className="py-10 text-white/70">No products match your search. Try another name or category.</p>}
     </PageShell>
   );
